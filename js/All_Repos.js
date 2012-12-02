@@ -194,7 +194,7 @@ function parseRepoData(data,
 
 $(document).ready(function(){
 
-    $.getJSON('/Community/All_Repos.json', function(data) {
+    $.getJSON('/Catalogs/All_Repos.json', function(data) {
 
 
 	/* Stats */

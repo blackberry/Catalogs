@@ -1,4 +1,4 @@
-baseurl: "/Community"
+baseurl: "/Catalogs"
 stage: "http://github.com/blackberry-community/Community/blob/gh-pages"
 paginate: 3
 

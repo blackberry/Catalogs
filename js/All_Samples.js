@@ -368,7 +368,7 @@ $(document).ready(function(){
 	return $.trim($('<div>').html(text).text());
     }
 
-    $.getJSON('/Community/All_Samples.json', function(data) {
+    $.getJSON('/Catalogs/All_Samples.json', function(data) {
 
 	/* =========================== */
 	/* Stats */

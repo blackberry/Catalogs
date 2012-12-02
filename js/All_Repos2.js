@@ -3,7 +3,7 @@
 /* This version was actually first and then I fixed a couple of issues and generalized it for All_Repos.js */
 
 $(document).ready(function(){
-    $.getJSON('/Community/All_Repos.json', function(data) {
+    $.getJSON('/Catalogs/All_Repos.json', function(data) {
 	var items = [];
 	
 	/* total hack on the overlap; need to fix */
