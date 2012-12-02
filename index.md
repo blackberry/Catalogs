@@ -1,7 +1,13 @@
 ---
-title: BlackBerry Community Wiki
-redirect-page: news/Latest_News
-redirect-seconds: 0
-redirect-message: "Please wait while we redirect you to the starting page"
-layout: redirect
+layout: basic
+
+title: All Catalogs
 ---
+{% include common-defs.md %}
+
+Description of what these are
+
+### The Catalogs
+
+[All Samples](All_Samples.html) - blurb   
+[All Repos](All_Repos.html) - blurb  
