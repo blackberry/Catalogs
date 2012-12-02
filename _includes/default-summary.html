@@ -1,0 +1,17 @@
+<!-- Right Column / Menu / Entry Highlights -->
+<!-- Probably included depending on the type of entry -->
+  <table>
+    <caption>{{ page.name }}</caption>
+    <tr><td colspan="2">{{ page.oneline }}</td></tr>
+    <tr><th scope="row">Status</th><td>{{ page.status }}</td></tr>
+    <tr><th scope="row">Platform</th><td>{{ page.platform }}</td></tr>
+    {% if page.license %}
+    <tr><th scope="row">License</th><td>{{ page.license }}</td></tr>
+    {% endif %}
+    {% if page.tags %}
+    <tr><th scope="row">Tags</th><td>{{ page.tags }}</td></tr>
+    {% endif %}
+    {% if page.complink %}
+    <tr><td colspan="2"><a href="{{ page.complink }}">Component Site</a></td></tr>
+    {% endif %}
+  </table>
