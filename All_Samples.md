@@ -61,7 +61,8 @@ columns select the next column while pressing the 'SHIFT' (on mac) key.
 <span class='tagfilter' style='font-size:140%'><em>java</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>native</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>nfc</em></span>,
-<span class='tagfilter' style='font-size:140%'><em>playbook</em></span>
+<span class='tagfilter' style='font-size:140%'><em>playbook</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>qt</em></span>
 </em>
 <!-- displaying was here -->
 

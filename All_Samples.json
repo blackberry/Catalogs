@@ -1181,86 +1181,277 @@
      "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p>",
      "tags": [ "air", "client", "bb10", "push" ]
  },
- "Qt2Cascades.IPC": {
+ "Qt2Cascades.SharedMemory": {
      "desc": "Adaptations of the IPC samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/ipc",
+     "url": "https://github.com/blackberry/Qt2Cascades-Samples/tree/master/sharedmemory",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "2",
-     "tags": [ "native", "client", "bb10", "playbook", "ipc", "qt", "cascades" ]
+     "tags": [ "native", "client", "bb10", "ipc", "qt", "cascades", "sharedmemory" ]
  },
- "Qt2Cascades.Network": {
-     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/network",
+ "Qt2Cascades.SharedMemoryLoader": {
+     "desc": "Adaptations of the IPC samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/sharedmemory_loader",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "9",
-     "tags": [ "native", "client", "bb10", "playbook", "network", "qt", "cascades" ]
+     "tags": [ "native", "client", "bb10", "ipc", "qt", "cascades", "sharedmemory" ]
  },
- "Qt2Cascades.Threads": {
+ "Qt2Cascades.Semaphores": {
      "desc": "Adaptations of the Multi-Threading samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/threads",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/semaphores",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "3",
-     "tags": [ "native", "client", "bb10", "playbook", "threads", "qt", "cascades" ]
+     "tags": [ "native", "client", "bb10", "threads", "qt", "cascades", "semaphore" ]
  },
- "Qt2Cascades.QtConcurrency": {
+ "Qt2Cascades.WaitConditions": {
+     "desc": "Adaptations of the Multi-Threading samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/waitconditions",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "threads", "qt", "cascades", "wait" ]
+ },
+ "Qt2Cascades.QueuedCustomType": {
+     "desc": "Adaptations of the Multi-Threading samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/queuedcustomtype",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "threads", "qt", "cascades", "queue" ]
+ },
+ "Qt2Cascades.NetworkDownloadManager": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/DownloadManager",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "download" ]
+ },
+ "Qt2Cascades.BroadcastReceiver": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/broadcastreceiver",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "broadcast" ]
+ },
+ "Qt2Cascades.BroadcastSender": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/broadcastsender",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "broadcast" ]
+ },
+ "Qt2Cascades.MulticastReceiver": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/multicastreceiver",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "multicast" ]
+ },
+ "Qt2Cascades.MulticastSender": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/multicastsender",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "multicast" ]
+ },
+ "Qt2Cascades.GoogleSuggest": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/googlesuggest",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "google" ]
+ },
+ "Qt2Cascades.HTTP": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/http",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "http" ]
+ },
+ "Qt2Cascades.FTP": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/qftp",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "ftp" ]
+ },
+ "Qt2Cascades.SecureSocketClient": {
+     "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/securesocketclient",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "network", "qt", "cascades", "socket" ]
+ },
+ "Qt2Cascades.WordCount": {
      "desc": "Adaptations of the Advanced Multi-Threading samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/qtconcurrent",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/wordcount",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "2",
-     "tags": [ "native", "client", "bb10", "playbook", "threads", "qt", "cascades" ]
+     "tags": [ "native", "client", "bb10", "threads", "qt", "cascades" ]
  },
- "Qt2Cascades.Script": {
+ "Qt2Cascades.ProcessDialog": {
+     "desc": "Adaptations of the Advanced Multi-Threading samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/processdialog",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "threads", "qt", "cascades" ]
+ },
+ "Qt2Cascades.ScriptGame": {
      "desc": "Adaptations of the Qt Script samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/script",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/scriptgame",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "1",
-     "tags": [ "native", "client", "bb10", "playbook", "script", "qt", "cascades" ]
+     "tags": [ "native", "client", "bb10", "script", "qt", "cascades" ]
  },
- "Qt2Cascades.StateMachine": {
-     "desc": "Adaptations of the State Machine samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/statemachine",
-     "repo": "Qt2Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
-     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "3",
-     "tags": [ "native", "client", "bb10", "playbook", "statemachine", "qt", "cascades" ]
- },
- "Qt2Cascades.SQL": {
+ "Qt2Cascades.SQLWidgetMapper": {
      "desc": "Adaptations of the SQL samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/sql",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/sqlwidgetmapper",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "1",
-     "tags": [ "native", "client", "bb10", "playbook", "sql", "qt", "cascades" ]
+     "tags": [ "native", "client", "bb10", "sql", "qt", "cascades" ]
  },
- "Qt2Cascades.Tools": {
+ "Qt2Cascades.GrueDetector": {
+     "desc": "Adaptations of the Sensor samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/gruedetector",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "sensor", "qt", "cascades" ]
+ },
+ "Qt2Cascades.SensorExplorer": {
+     "desc": "Adaptations of the Sensor samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/sensorexplorer",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "sensor", "qt", "cascades" ]
+ },
+ "Qt2Cascades.Factorial": {
+     "desc": "Adaptations of the State Machine samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/factorial",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "statemachine", "qt", "cascades" ]
+ },
+ "Qt2Cascades.PingPong": {
+     "desc": "Adaptations of the State Machine samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/pingpong",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "statemachine", "qt", "cascades" ]
+ },
+ "Qt2Cascades.TrafficLight": {
+     "desc": "Adaptations of the State Machine samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/trafficlight",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "statemachine", "qt", "cascades" ]
+ },
+ "Qt2Cascades.Codecs": {
      "desc": "Adaptations of the Tools samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/tools",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/codecs",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "5",
-     "tags": [ "native", "client", "bb10", "playbook", "tools", "qt", "cascades", "codec", "i18n", "undo", "regex" ]
+     "tags": [ "native", "client", "bb10", "tools", "qt", "cascades", "codec" ]
  },
- "Qt2Cascades.XML": {
-     "desc": "Adaptations of the XML samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/xml",
+ "Qt2Cascades.I18N": {
+     "desc": "Adaptations of the Tools samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/i18n",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
-     "collection": "6",
-     "tags": [ "native", "client", "bb10", "playbook", "xml", "qt", "cascades" ]
+     "tags": [ "native", "client", "bb10", "tools", "qt", "cascades", "i18n" ]
+ },
+ "Qt2Cascades.UndoFramework": {
+     "desc": "Adaptations of the Tools samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/undoframework",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "tools", "qt", "cascades", "undo" ]
+ },
+ "Qt2Cascades.RegExp": {
+     "desc": "Adaptations of the Tools samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/regexp",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "tools", "qt", "cascades", "regex" ]
+ },
+ "Qt2Cascades.ContiguousCache": {
+     "desc": "Adaptations of the Tools samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/continguouscache",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "tools", "qt", "cascades", "cache" ]
+ },
+ "Qt2Cascades.DOMBookmarks": {
+     "desc": "Adaptations of the XML samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/dombookmarks",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "xml", "qt", "cascades", "dom" ]
+ },
+ "Qt2Cascades.SAXBookmarks": {
+     "desc": "Adaptations of the XML samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/saxbookmarks",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "xml", "qt", "cascades", "sax" ]
+ },
+ "Qt2Cascades.StreamBookmarks": {
+     "desc": "Adaptations of the XML samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/streambookmarks",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "xml", "qt", "cascades", "stream" ]
+ },
+ "Qt2Cascades.HTMLInfo": {
+     "desc": "Adaptations of the XML samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/htmlinfo",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "xml", "qt", "cascades", "html" ]
+ },
+ "Qt2Cascades.RSSListing": {
+     "desc": "Adaptations of the XML samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/rsslisting",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "xml", "qt", "cascades", "rss" ]
+ },
+ "Qt2Cascades.XMLStreamLint": {
+     "desc": "Adaptations of the XML samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/xmlstreamlint",
+     "repo": "Qt2Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
+     "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
+     "tags": [ "native", "client", "bb10", "xml", "qt", "cascades", "lint", "stream" ]
  },
  "quotes": {
      "desc": "List and SqlDataAccess",
