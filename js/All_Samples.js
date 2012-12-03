@@ -29,8 +29,8 @@ function initializeTranslateTable() {
 	"SampleBPSANE(AIR)": "SampleBPSANE<em>...</em>AIR",
 	"SampleApplication(AIR)": "SampleApp<em>...</em>AIR",
 	"SampleLibrary(AIR)": "SampleLib<em>...</em>AIR",
-	"ScoreloopIntegrationSample": "Scoreloop<em>...</em>",
-	"ScoreloopIntegrationSample(Cascades)": "Scoreloop<em>...</em>(Cascades)",
+	"scoreloopintegrationsample": "Scoreloop<em>...</em>",
+	"scoreloopintegrationsample(Cascades)": "Scoreloop<em>...</em>(Cascades)",
 	"StarshipSettings(AIR-BB10)": "Starship<em>...</em>AIR-BB10",
 	"WeatherGuesser(AIR-BB10)": "Weather<em>...</em>AIR-BB10",
 	"WebWorks-Community-APIs": "WebWorks-<em>...</em>APIs"
@@ -42,6 +42,10 @@ function shortName(name, tTable) {
     var back;
     if (back = tTable[name]) {
 	return back;
+    }
+    var len=12;
+    if ((index = name.indexOf("Qt2Cascades"))>=0) {
+	return "Qt2..."+name.slice(len);
     }
     return name;
 }
