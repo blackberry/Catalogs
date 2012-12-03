@@ -1399,7 +1399,7 @@
  },
  "Qt2Cascades.ContiguousCache": {
      "desc": "Adaptations of the Tools samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
-     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/continguouscache",
+     "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/contiguouscache",
      "repo": "Qt2Cascades-Samples",
      "repourl": "http://github.com/blackberry/Qt2Cascades-Samples",
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
