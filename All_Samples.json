@@ -119,6 +119,14 @@
      "note": "<p>A radio group and an image are used to display and describe the different battery states.</p><p>  The QML uses stackLayout</p>",
      "tags": [ "native", "client", "bb10", "cascades", "battery", "stacklayout"]
  },
+ "bbm": {
+     "desc": "Using BBM APIs from WebWorks on the BlackBerry 10",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/bbm",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "bbm" ]
+ },
  "BBMBaseSampleRegistration": {
      "desc": "BPS (BlackBerry Platform Services)-based sample to register an Application with the BlackBerry Messenger Social Platform",
      "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMBaseSampleRegistration",
@@ -160,13 +168,6 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
- },
- "BBMWebWorks": {
-     "desc": "WebWorks sample outlining usage of BBM APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/bbm",
-     "repo": "BB10-WebWorks-Community-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
-     "tags": [ "html5", "webworks", "bb10", "bbm" ]
  },
  "bbUI-localstorage": {
      "desc": "Multiple ways to use localStorage to improve the end-user experience of a WebWorks Application",
@@ -237,6 +238,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "calendar", "events" ]
  },
+ "camera": {
+     "desc": "Demonstrates the HTML5 Camera API and xhr2 uploading",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/camera",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "camera" ]
+ },
  "CascadesBasicSample": {
      "desc": "Demonstrates the use of signal / slot between QML and C++",
      "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Cascades-BasicSample",
@@ -285,12 +294,12 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "sensor", "magnetometer", "compass" ]
  },
- "contacts": {
-     "desc": "WebWorks sample outlining usage of PIM Contact APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/contacts",
-     "repo": "BB10-WebWorks-Community-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
-     "tags": [ "html5", "webworks", "bb10", "pim", "contact", "contacts" ]
+ "compass(ext,bb10)": {
+     "desc": "WebWorks BlackBerry 10 extension to access compass information",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/COMPASS",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "compass", "extension", "notrim" ]
  },
  "ContextMenu": {
      "desc": "WebWorks sample outlining usage of Context Menu APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
@@ -314,6 +323,14 @@
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "channels", "location" ]
+ },
+ "childBrowser": {
+     "desc": "Demonstrates how to use the Child Browser in a BlackBerry WebWorks Application",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/childBrowser",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "childbrowser" ]
  },
  "CubeRotate": {
      "desc": "How to create a 3D multi-colored cube using OpenGL ES",
@@ -562,13 +579,6 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook" ]
  },
- "pageddatamodel": {
-     "desc": "How to create a list view by QML and add items dynamically",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/master/pageddatamodel",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "repo": "Cascades-Samples",
-     "tags": [ "native", "cascades", "bb10", "list", "datamodel" ]
- },
  "HelloWorldDisplay": {
      "desc": "Print customized text",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/HelloWorldDisplay",
@@ -622,6 +632,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "There are two sample applications: invokable and invoker",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "invocation"]
+ },
+ "invoke-card": {
+     "desc": "Shows how to invoke several cards from a WebWorks Application (camera, filePicker, pictureViewer, custom card). Also shows how to expose your app as a card",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/invoke-card",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "camera", "filepicker", "pictureviewer", "cards", "invocation" ]
  },
  "invokeclient": {
      "desc": "A simple client to invoke target apps in the Invocation Framework",
@@ -787,6 +805,21 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "logging" ]
+ },
+ "MailAttachment(ext,bbos)": {
+     "desc": "WebWorks Java-based Smartphone extension to send an email with an attachment",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/MailAttachment",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bbos", "extension", "mail" ]
+ },
+ "Maps": {
+     "desc": "How to integrate several mapping services into a BlackBerry WebWorks application",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Maps",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "map" ]
  },
  "mapview": {
      "desc": "How to display a location on a map control",
@@ -971,6 +1004,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "notification", "hub" ]
  },
+ "notify": {
+     "desc": "How to use the HTML5 Notification API for a BlackBerry 10 WebWorks App",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/notify",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "notification" ]
+ },
  "nowplaying": {
      "desc": "How to provide extended information on media being played and control via hardware keys",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/nowplaying",
@@ -1016,6 +1057,13 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "sensor", "accelerometer" ]
+ },
+ "pageddatamodel": {
+     "desc": "How to create a list view by QML and add items dynamically",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/master/pageddatamodel",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "repo": "Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "list", "datamodel" ]
  },
  "Payment": {
      "desc": "Shows how to use the BlackBerry Payment service from a BlackBerry WebWorks App",
@@ -1064,6 +1112,13 @@
      "note": "<p>Uses socket.io on the client and nodeJS on the server</p><p>Should run on BB10</p>",
      "tags": [ "html5", "server", "client", "playbook", "webworks", "socketio", "nodejs" ]
  },
+ "pimcontacts": {
+     "desc": "WebWorks sample outlining usage of PIM Contact APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/pimcontacts",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "pim", "contact", "contacts" ]
+ },
  "placepicker": {
      "desc": "How to use the PlacePicker class to select a place from the favorites list, map lookup or an online search",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/placepicker",
@@ -1103,7 +1158,7 @@
      "note": "<p>This sample application illustrates how to set up a very basic touch interaction.</p><p>This is illustrated by moving an image in response to a touch event, and animating it back to position when the touch ends</p>",
      "tags": [ "native", "client", "bb10", "cascades", "draganddrop" ]
  },
- "PushCapture": {
+ "pushCapture": {
      "desc": "Demonstrates how to write a BlackBerry 10 WebWorks Application that can receive push events",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/pushCapture",
      "repo": "BB10-WebWorks-Samples",
@@ -1350,6 +1405,14 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "sensor", "compass", "accelerometer", "ambientlight", "gyroscope", "flash", "irproximity", "proximity", "rotation", "magnetometer" ]
+ },
+ "Sensors": {
+     "desc": "Using several sensors in a BlackBerry WebWorks application, and displaying data back to user",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Sensors",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "sensor", "flotr2" ]
  },
  "SimpleLocationAPI": {
      "desc": "Simplified version of the Location API packages for the Java-based BlackBerry Smartphones",
