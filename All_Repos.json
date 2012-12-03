@@ -580,13 +580,13 @@
      "tags": [ "html5", "docs", "webworks"]
  },
  "WebWorks-Community-APIs": {
-     "desc": "Cross-Platform 3D Native C++ Game Framework",
+     "desc": "Community Extensions to the BlackBerry WebWorks Platform",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs",
      "type": "html5",
      "branches": ["master", "bt-fileuploader", "tablet-uploadDownload-readmeFixes"],
      "branchinfo": "'master' is current development for all platforms; the other two should be deleted (need to triple check)",
-     "note": "Extensions vary depending on platform.  Also see BB10-WebWorks-Community-APIs",
-     "tags": [ "html5", "bbos", "playbook", "webworks" ]
+     "note": "Different directories for each platform: bbos, playbook and bb10",
+     "tags": [ "html5", "bbos", "playbook", "webworks", "bb10" ]
  },
  "WebWorks-Samples": {
      "desc": "WebWorks Sample Applications, official",
