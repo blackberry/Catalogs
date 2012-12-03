@@ -639,7 +639,7 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Improved version to that from WebWorks-Community-Samples",
-     "tags": [ "html5", "webworks", "bb10", "camera", "filepicker", "pictureviewer", "cards", "invocation" ]
+     "tags": [ "html5", "webworks", "bb10", "camera", "filepicker", "pictureviewer", "card", "invocation" ]
  },
  "invokeclient": {
      "desc": "A simple client to invoke target apps in the Invocation Framework",
@@ -1413,6 +1413,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "sensor", "flotr2" ]
+ },
+ "shareCard": {
+     "desc": "Implementing a Share Card using BlackBerry WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/shareCard",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "card", "invocation" ]
  },
  "SimpleLocationAPI": {
      "desc": "Simplified version of the Location API packages for the Java-based BlackBerry Smartphones",
