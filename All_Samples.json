@@ -83,6 +83,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Samples",
      "tags": [ "html5", "client", "webworks", "playbook", "accelerometer", "sensor" ]
  },
+ "Avatar-Booth": {
+     "desc": "Using getUserMedia functionality in BlackBerry 10 WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Avatar-Booth",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "getUserMedia", "camera", "video" ]
+ },
  "bannerads": {
      "desc": "Connect to the Advertisement Services and display application banner ads",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/bannerads",
