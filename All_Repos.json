@@ -9,6 +9,14 @@
      "warning": "Special considerations",
      "tags": [ "an array of tags", "reserved tags are:", "extension", "html5", "native", "java", "air", "cascades", "bb10", "playbook", "client", "server", "notrim" ]
  },
+ "Adafruit_NFCShield_I2C": {
+     "desc": "Library for the Adafruit PN532 NFC/RFID breakout boards",
+     "url": "https://github.com/blackberry/Adafruit_NFCShield_I2C",
+     "type": "native",
+     "branches": ["master"],
+     "note": "Fork of https://github.com/adafruit/Adafruit_NFCShield_I2C",
+     "tags": [ "native", "arduino", "bb10", "port" ]
+ },
  "Alice": {
      "desc": "A Lightweight Independent CSS Engine",
      "url": "http://github.com/blackberry/Alice",
