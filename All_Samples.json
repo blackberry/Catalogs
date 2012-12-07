@@ -481,6 +481,13 @@
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "sensor", "temperature", "light", "magnetometer", "accelerometer", "gyroscope" ]
  },
+ "Gamepad": {
+     "desc": "Demonstrates how to handle gamepad and joystick events.  It can handle two connected game controllers at once",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/Gamepad",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "tags": [ "native", "client", "bb10", "gaming" ]
+ },
  "GeoLocation": {
      "desc": "Display current location data",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Geolocation",
