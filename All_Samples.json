@@ -146,6 +146,7 @@
      "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMSPUserProfile",
      "repo": "Core-Native-Community-Samples",
      "repourl": "http://github.com/blackberry/Core-Native-Community-Samples",
+     "note": "Cascades is used for the UI; we are planning a rewrite but the sample is useful as-is",
      "tags": [ "native", "bb10", "bbm", "bps" ]
  },
  "bbminvitetodownload": {
@@ -168,6 +169,13 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
+ },
+ "BBMbpsRgistration": {
+     "desc": "Demonstrates registering with the BlackBerry Messenger Social Platform using the C BlackBerry Platform Service APIs",
+     "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMbpsRegistration",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "bb10", "bbm", "bps" ]
  },
  "bbmregistration": {
      "desc": "Qt-based sample to register an app with the BlackBerry Messenger Social Platform",
