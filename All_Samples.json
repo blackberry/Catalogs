@@ -59,7 +59,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Analytics",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "analytics" ]
+     "tags": [ "html5", "client", "bbos", "extension", "analytics", "ext-bbos" ]
  },
  "Ant Build Script": {
      "desc": "Build Script for WebWorks applications using Ant, with support for Linting and all WebWorks Packagers (BBOS, Tablet, BB10)",
@@ -102,14 +102,14 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/Barcode",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "playbook", "barcode", "extension" ]
+     "tags": [ "html5", "client", "playbook", "barcode", "extension", "ext-pb" ]
  },
  "Barcode(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to scan 1D or 2D barcode",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Barcode",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "barcode" ]
+     "tags": [ "html5", "client", "bbos", "extension", "barcode", "ext-bbos" ]
  },
  "barcodereader": {
      "desc": "How to use the camera of the device to scan QR codes and display decoded content",
@@ -251,7 +251,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/CalendarListener",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "calendar", "events" ]
+     "tags": [ "html5", "client", "bbos", "extension", "calendar", "events", "ext-bbos" ]
  },
  "camera": {
      "desc": "Demonstrates the HTML5 Camera API and xhr2 uploading",
@@ -307,7 +307,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/Clipboard",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "playbook", "clipboard", "extension" ]
+     "tags": [ "html5", "client", "playbook", "clipboard", "extension", "ext-pb" ]
  },
  "compass": {
      "desc": "How to use QtSensors to implement an electronic compass",
@@ -321,7 +321,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/COMPASS",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bb10", "compass", "extension", "notrim" ]
+     "tags": [ "html5", "client", "bb10", "compass", "extension", "notrim", "ext-bb10" ]
  },
  "ContextMenu": {
      "desc": "WebWorks sample outlining usage of Context Menu APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
@@ -412,7 +412,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/EmailListener",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "email", "events" ]
+     "tags": [ "html5", "client", "bbos", "extension", "email", "events", "ext-bbos" ]
  },
  "FaceBook-OAuth-2": {
      "desc": "Integrate Facebook and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
@@ -435,7 +435,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/FileDownloader",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "download" ]
+     "tags": [ "html5", "client", "bbos", "extension", "download", "ext-bbos" ]
  },
  "filepicker": {
      "desc": "How to use the FilePicker class",
@@ -449,14 +449,14 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/FilePicker",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "file", "picker" ]
+     "tags": [ "html5", "client", "bbos", "extension", "file", "picker", "ext-bbos" ]
  },
  "FileUploader(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to upload files to a server",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/FileUploader",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "upload", "file" ]
+     "tags": [ "html5", "client", "bbos", "extension", "upload", "file", "ext-bbos" ]
  },
  "filtereddatamodel": {
      "desc": "How to use a custom DataModel to dynamically filter the data displayed by a ListView",
@@ -534,7 +534,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/GlobalEvent",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "events" ]
+     "tags": [ "html5", "client", "bbos", "extension", "events","ext-bbos" ]
  },
  "GoodCitizen": {
      "desc": "Introduction to a number of common development practices",
@@ -757,7 +757,7 @@
      "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/LED",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bb10", "extension", "led" ]
+     "tags": [ "html5", "client", "bb10", "extension", "led", "ext-bb10" ]
  },
  "lightningcrossfadecpp": {
      "desc": "Lightning Crossfade for Text and Image, usinc C++",
@@ -796,14 +796,14 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/Locale",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "playbook", "locale", "extension" ]
+     "tags": [ "html5", "client", "playbook", "locale", "extension", "ext-pb" ]
  },
  "Locale(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to retrieve the locale string",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Locale",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "locale" ]
+     "tags": [ "html5", "client", "bbos", "extension", "locale", "ext-bbos" ]
  },
  "LocaleSample": {
      "desc": "How to retrieve locale information from the device",
@@ -825,7 +825,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/LocationPicker",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "location", "picker" ]
+     "tags": [ "html5", "client", "bbos", "extension", "location", "picker", "ext-bbos" ]
  },
  "LogExceptionSample": {
      "desc": "How to handle an exception, log it, and display meaningful data back to the user",
@@ -840,7 +840,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/MailAttachment",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "mail" ]
+     "tags": [ "html5", "client", "bbos", "extension", "mail", "ext-bbos" ]
  },
  "Maps": {
      "desc": "How to integrate several mapping services into a BlackBerry WebWorks application",
@@ -877,7 +877,7 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "warning": "work in progress",
-     "tags": [ "html5", "client", "bbos", "extension", "message" ]
+     "tags": [ "html5", "client", "bbos", "extension", "message", "ext-bbos" ]
  },
  "NativeAndOpenGLWindows": {
      "desc": "Combines rendering to Native and OpenGL Windows at the same time",
@@ -907,7 +907,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/NFC",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "nfc" ]
+     "tags": [ "html5", "client", "bbos", "extension", "nfc", "ext-bbos" ]
  },
  "nfcdemo": {
      "desc": "Shows how to exchange content, such as messages or files, with another NFC enabled device, or just how to read NFC tags",
@@ -1032,7 +1032,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/notification",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "notification", "alerts", "profile" ]
+     "tags": [ "html5", "client", "bbos", "extension", "notification", "alerts", "profile", "ext-bbos" ]
  },
  "NotificationsHub": {
      "desc": "WebWorks sample outlining usage of Notification APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
@@ -1557,7 +1557,7 @@
      "repo": "Community-APIs-for-AIR",
      "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
      "note": "<p>This extension is also currently on Samples-for-AIR but does not belong there</p>",
-     "tags": [ "air", "client", "bb10", "extension" ]
+     "tags": [ "air", "client", "bb10", "extension", "ext-air" ]
  },
  "SampleBwsClient(C#)": {
      "desc": "A C# program that uses the BlackBerry Web Services (BWS) for Enterprise Administration APIs",
@@ -1611,14 +1611,14 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Screen",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "screen", "keyboard" ]
+     "tags": [ "html5", "client", "bbos", "extension", "screen", "keyboard", "ext-bbos" ]
  },
  "Screen(ext,bb10)": {
      "desc": "WebWorks BB10 extension to set the Wallpaper and potentially other features",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/screen",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bb10", "extension", "screen" ]
+     "tags": [ "html5", "client", "bb10", "extension", "screen", "ext-bb10" ]
  },
  "ScreenTemplate": {
      "desc": "Template you can use to set your application to start using the BPS infrastructure",
@@ -1633,7 +1633,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/SendMenu",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "sendmenu" ]
+     "tags": [ "html5", "client", "bbos", "extension", "sendmenu", "ext-bbos" ]
  },
  "SensorDemo": {
      "desc": "A collection of pages demonstrating how to retrieve and process data from hardware sensors",
@@ -1670,7 +1670,6 @@
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/simplemap",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "this seems the new name for 'mapview'",
      "tags": [ "native", "client", "bb10", "cascades", "map" ]
  },
  "SketchPad": {
@@ -1686,14 +1685,14 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "warning": "Work in progress",
-     "tags": [ "html5", "client", "bbos", "extension", "sleep" ]
+     "tags": [ "html5", "client", "bbos", "extension", "sleep", "ext-bbos" ]
  },
  "Sleep(ext,pb)": {
      "desc": "WebWorks PlayBook extension to suspend changing the system IdleMode property",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/sleep",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "playbook", "sleep", "extension" ]
+     "tags": [ "html5", "client", "playbook", "sleep", "extension", "ext-pb" ]
  },
  "SmartSignals": {
      "desc": "Handle C-Level BPS events in the Cascades Framework",
@@ -1737,7 +1736,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/SpinnerControl",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "download" ]
+     "tags": [ "html5", "client", "bbos", "extension", "download", "ext-bbos" ]
  },
  "stampcollector": {
      "desc": "List with JSON and XML data",
@@ -1768,7 +1767,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Storage",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "storage" ]
+     "tags": [ "html5", "client", "bbos", "extension", "storage", "ext-bbos" ]
  },
  "Stumper.MakeThis!": {
      "desc": "The Post-It solution from Brian Scheirer",
@@ -1822,14 +1821,14 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/systemlog",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "playbook", "logging", "extension" ]
+     "tags": [ "html5", "client", "playbook", "logging", "extension", "ext-pb" ]
  },
  "SystemLog(ext,bbos)": {
      "desc": "WebWorks Java-based Smartphone extension to write to the BlackBerry System Event Log",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/systemlog",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "logging" ]
+     "tags": [ "html5", "client", "bbos", "extension", "logging","ext-bbos" ]
  },
  "systemsound": {
      "desc": "How to use play one of the predefined sounds to notify the user of a certain event",
@@ -1874,7 +1873,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/TransportCoverage",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "transport" ]
+     "tags": [ "html5", "client", "bbos", "extension", "transport", "ext-bbos" ]
  },
  "TunnelTilt": {
      "desc": "Demonstrates how to use WebGL and how to package it using WebWorks",
@@ -1913,7 +1912,7 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "warning": "Work in progress",
-     "tags": [ "html5", "client", "playbook", "upload", "download", "extension" ]
+     "tags": [ "html5", "client", "playbook", "upload", "download", "extension", "ext-pb" ]
  },
  "UrbanAirshipClient": {
      "desc": "The UrbanAirship sample client application for BlackBerry 10 written using the Cascades framework",

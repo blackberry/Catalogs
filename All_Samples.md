@@ -56,16 +56,15 @@ columns select the next column while pressing the 'SHIFT' (on mac) key.
 <em>Common tags:
 <span class='tagfilter' style='font-size:140%'><em>air</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>bb10</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>bbm</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>cascades</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>html5</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>java</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>native</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>nfc</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>playbook</em></span>,
-<span class='tagfilter' style='font-size:140%'><em>qt</em></span>
+<span class='tagfilter' style='font-size:140%'><em>qt</em></span>.
 </em>
-<!-- displaying was here -->
-
 <div label="More Tags" class="collapsable" style="margin-top:10px;">
 </div>
 <div style="margin-left:+10px;">
@@ -76,6 +75,18 @@ The samples use
 </p>
 </div>
 </div>
+
+<div label='Find Extensions' class='collapsable' style='margin-top:10px;'>
+</div>
+<div style='margin-top: 2px; margin-left:20px;'>
+<em>Extensions tags:
+<span class='tagfilter' style='font-size:140%'><em>ext-bbos</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>ext-pb</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>ext-bb10</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>ext-air</em></span>.
+</em>
+</div>
+
 
 <div style="margin-top:10px;" class='collapsable' label="Repositories">
 </div>
