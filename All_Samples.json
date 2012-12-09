@@ -97,6 +97,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "ads" ]
  },
+ "Backlight(ext,bbos)": {
+     "desc": "WebWorks Java-based Smartphone extension to control the smartphone backlightcheck",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Backlight",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bbos", "extension", "backlight", "ext-bbos" ]
+ },
  "Barcode(ext,pb)": {
      "desc": "WebWorks PlayBook extension to scan 1D or 2D barcode",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/Barcode",
@@ -361,6 +368,13 @@
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "opengl" ]
+ },
+ "DeviceInfo(ext,bbos)": {
+     "desc": "WebWorks Java-based Smartphone extension to get information about the device",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/DeviceInfo",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bbos", "extension", "deviceinfo", "ext-bbos" ]
  },
  "Dialog": {
      "desc": "How to display a dialog using the dialog service",
@@ -1928,6 +1942,13 @@
      "repo": "Cascades-Samples",
      "note": "See http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-your-own-DataModel/ta-p/1755893",
      "tags": [ "native", "cascades", "bb10", "list", "datamodel" ]
+ },
+ "Vibrate(ext,bbos)": {
+     "desc": "WebWorks Java-based Smartphone extension to control the device vibration",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Vibrate",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bbos", "extension", "vibrate", "ext-bbos" ]
  },
  "VideoPlayback": {
      "desc": "How to use the multimedia capabilities of the native SDK",
