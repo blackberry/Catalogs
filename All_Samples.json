@@ -1859,6 +1859,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "audio" ]
  },
+ "tldr": {
+     "desc": "(Too Long; Didn't Read) How to download images from the web in an RSS reader",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/tldr",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "rss", "image", "loading" ]
+ },
  "tossgame": {
      "desc": "How to use QtSensors to read values from the proximity sensor",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/tossgame",
