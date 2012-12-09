@@ -1209,6 +1209,14 @@
      "note": "<p>The Poem Maker is a simple application with three lines of text (labels) and a button. Clicking the button will generate a random 'refrigerator' poem</p><p>Among others, the application shows how to use JavaScript functions in QML</p>",
      "tags": [ "native", "client", "bb10", "cascades", "javascript", "qml" ]
  },
+ "PullDownToRefresh": {
+     "desc": "A standard way to implement pull down to refresh in browser/WebWorks applications in BlackBerry 10 Applications",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/PullDownToRefresh",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "pulldown" ]
+ },
  "pullmybeard": {
      "desc": "Simple Drag and Drop",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/pullmybeard",
