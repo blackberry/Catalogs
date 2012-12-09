@@ -263,7 +263,7 @@
  },
  "CascadesBasicSample": {
      "desc": "Demonstrates the use of signal / slot between QML and C++",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Cascades-BasicSample",
+     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesBasicSample",
      "repo": "Cascades-Samples",
      "note": "Learning Trail: HelloCascades &rarr; CascadesBasicSample &rarr; GoodCitizenCascades",
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
@@ -294,6 +294,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "intro", "foreignwindow", "opengl" ]
+ },
+ "circularslider": {
+     "desc": "How to use CustomControl to create a circular slider that can be used just like any other core control",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/circularslider",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "qml" ]
  },
  "Clipboard(ext,pb)": {
      "desc": "WebWorks PlayBook extension to access clipboard read/write",
@@ -1082,7 +1089,7 @@
  },
  "pageddatamodel": {
      "desc": "How to create a list view by QML and add items dynamically",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/master/pageddatamodel",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/pageddatamodel",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "repo": "Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "list", "datamodel" ]
@@ -1577,7 +1584,7 @@
  },
  "scratchpad": {
      "desc": "How to use QImage and QPainter to prepare a cascades::Image",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/master/scratchpad",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/scratchpad",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "repo": "Cascades-Samples",
      "note": "For more details, refer to the companion <a href='http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-QImage-and-QPainter-to-Prepare-a-cascades-Image/ta-p/1809841'>KB Article</a>",
@@ -1689,10 +1696,9 @@
  },
  "soapxml": {
      "desc": "How to access a SOAP service using QTSoap, and how to handle the XML Response",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/soapxml",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/soapxml",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "soap", "xml" ]
  },
  "SocialApp": {
@@ -1864,7 +1870,7 @@
  },
  "twittertimeline": {
      "desc": "Accesses the Twitter RESTful service an duses the JSON responde to display a list of tweets on screen",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/master/twittertimeline",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/twittertimeline",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "rest", "http", "json", "twitter" ]
@@ -1902,7 +1908,7 @@
  },
  "vegetablesdatamodel": {
      "desc": "Sample code for 'Using your own DataModel'",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/master/vegetablesdatamodel",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/vegetablesdatamodel",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "repo": "Cascades-Samples",
      "note": "See http://supportforums.blackberry.com/t5/Cascades-Development-Knowledge/Using-your-own-DataModel/ta-p/1755893",
