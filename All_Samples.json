@@ -667,6 +667,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "sensor", "accelerometer" ]
  },
+ "ImageSaver(AIR,ext,bb10)": {
+     "desc": "A AIR Native Extension that will save a BitmapData instance to a file on the disk via native C code using libimg",
+     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/ImageSaver",
+     "repo": "Community-APIs-for-AIR",
+     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "note": "See the (AIR,ext,pb) entry",
+     "tags": [ "air", "client", "bb10", "extension", "ext-air", "media" ]
+ },
  "Internationalization": {
      "desc": "How to use the built-in Internationalization engine to deliver your app in multiple languages",
      "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Internationalization",
@@ -1170,6 +1178,20 @@
      "note": "<p>How to use the Cascades multimedia library with the Camera, take a picture, manipulate the image to be grayscale, and add an image over another image",
      "tags": [ "native", "client", "bb10", "cascades", "camera", "image" ]
  },
+ "PhotoEditor(AIR,bb10)": {
+     "desc": "Shows how to create and interact with Composer, Previewer, and Picker Cards",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/PhotoViewer",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "tags": [ "air", "client", "bb10", "camera", "media" ]
+ },
+ "PhotoViewer(AIR,bb10)": {
+     "desc": "Uses a custom Viewer to display a random image from the shared camera folder",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/PhotoViewer",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "tags": [ "air", "client", "bb10", "camera", "media" ]
+ },
  "PictureWall": {
      "desc": "Control a collection of BlackBerry PlayBooks to display one or more images",
      "url": "https://github.com/blackberry/PictureWall",
@@ -1573,18 +1595,26 @@
  },
  "SampleApplication(AIR,pb)": {
      "desc": "An App that uses the Adobe AIR SDK for PlayBook and the SampleLibrary",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/SampleApp",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleApp",
      "repo": "Samples-for-AIR",
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "tags": [ "air", "client", "playbook" ]
  },
- "SampleBPSANE(AIR,ext)": {
-     "desc": "How to create an AIR Native Extension using the BPS system",
+ "SampleBPSANE(AIR,ext,bb10)": {
+     "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
      "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/SampleBPSANE",
      "repo": "Community-APIs-for-AIR",
      "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
-     "note": "<p>This extension is also currently on Samples-for-AIR but does not belong there</p>",
-     "tags": [ "air", "client", "bb10", "extension", "ext-air" ]
+     "note": "See the (AIR,ext,pb) entry",
+     "tags": [ "air", "client", "bb10", "extension", "ext-air", "sensor" ]
+ },
+ "SampleBPSANE(AIR,ext,pb)": {
+     "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
+     "url": "http://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleBPSANE",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "warning": "need to clarify if this is real, and relocate",
+     "tags": [ "air", "client", "playbook", "extension", "ext-air", "sensor" ]
  },
  "SampleBwsClient(C#)": {
      "desc": "A C# program that uses the BlackBerry Web Services (BWS) for Enterprise Administration APIs",
@@ -1602,7 +1632,7 @@
  },
  "SampleLibrary(AIR,pb)": {
      "desc": "Several component samples for the Adobe AIR SDK for PlayBook",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/SampleLibrary",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleLibrary",
      "repo": "Samples-for-AIR",
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p><p>Samples include Navigation Menu, Search, Download Manager, Media Playbar, Screen Animations, Cache, Scrolling Margee, Back button",
@@ -1622,7 +1652,6 @@
      "repo": "Scoreloop-Samples",
      "repourl": "http://github.com/blackberry/Scoreloop-Samples",
      "note": "<p>Variant to use for Applications written using the Cascades framework</p>",
-     "warning": "Also in Cascades-Samples - need to decide where it goes",
      "tags": [ "native", "client", "cascades", "bb10", "scoreloop"]
  },
  "scratchpad": {
@@ -1869,6 +1898,14 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "rss", "image", "loading" ]
+ },
+ "Toast": {
+     "desc": "How to integrate Toast messages into a BlackBerry WebWorks application for BlackBerry 10",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Toast",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "toast" ]
  },
  "tossgame": {
      "desc": "How to use QtSensors to read values from the proximity sensor",
