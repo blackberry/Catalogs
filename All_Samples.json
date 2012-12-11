@@ -1899,6 +1899,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "rss", "image", "loading" ]
  },
+ "Toast": {
+     "desc": "How to integrate Toast messages into a BlackBerry WebWorks application for BlackBerry 10",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Toast",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "toast" ]
+ },
  "tossgame": {
      "desc": "How to use QtSensors to read values from the proximity sensor",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/tossgame",
