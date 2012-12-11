@@ -667,6 +667,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "sensor", "accelerometer" ]
  },
+ "ImageSaver(AIR,ext,bb10)": {
+     "desc": "A AIR Native Extension that will save a BitmapData instance to a file on the disk via native C code using libimg",
+     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/ImageSaver",
+     "repo": "Community-APIs-for-AIR",
+     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "note": "See the (AIR,ext,pb) entry",
+     "tags": [ "air", "client", "bb10", "extension", "ext-air", "media" ]
+ },
  "Internationalization": {
      "desc": "How to use the built-in Internationalization engine to deliver your app in multiple languages",
      "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Internationalization",
@@ -1593,20 +1601,20 @@
      "tags": [ "air", "client", "playbook" ]
  },
  "SampleBPSANE(AIR,ext,bb10)": {
-     "desc": "How to create an AIR Native Extension using the BPS system",
+     "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
      "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/SampleBPSANE",
      "repo": "Community-APIs-for-AIR",
      "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
      "note": "See the (AIR,ext,pb) entry",
-     "tags": [ "air", "client", "bb10", "extension", "ext-air" ]
+     "tags": [ "air", "client", "bb10", "extension", "ext-air", "sensor" ]
  },
  "SampleBPSANE(AIR,ext,pb)": {
-     "desc": "How to create an AIR Native Extension using the BPS system",
+     "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
      "url": "http://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleBPSANE",
      "repo": "Samples-for-AIR",
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "warning": "need to clarify if this is real, and relocate",
-     "tags": [ "air", "client", "playbook", "extension", "ext-air" ]
+     "tags": [ "air", "client", "playbook", "extension", "ext-air", "sensor" ]
  },
  "SampleBwsClient(C#)": {
      "desc": "A C# program that uses the BlackBerry Web Services (BWS) for Enterprise Administration APIs",
