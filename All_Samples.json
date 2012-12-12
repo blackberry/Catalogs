@@ -436,13 +436,41 @@
      "tags": [ "html5", "client", "webworks", "dojo", "bb10"]
  },
  "EmailListener(bbos,ext)": {
-     "desc": "WebWorks Java-based Smartphone extension to receive a Event Objet when email is received",
+     "desc": "WebWorks Java-based Smartphone extension to receive a Event Object when email is received",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/EmailListener",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "email", "events", "ext-bbos" ]
  },
- "FaceBook-OAuth-2": {
+ "Enyo-1.0-StyleMatters": {
+     "desc": "This example shows how to build the Enyo 1.0 sample application Style Matters as a BlackBerry WebWorks application.",
+     "url": "https://github.com/blackberry/WebWorks-Community-Samples/tree/master/Enyo-1.0-StyleMatters",
+     "repo": "WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/WebWorks-Community-Samples",
+     "tags": [ "html5", "client", "playbook", "enyo", "webworks"]
+ },
+ "Enyo-2.0-BB10-WebWorks": {
+     "desc": "This example shows how to build an application with Enyo 2.0 and include native functionality with BlackBerry WebWorks extensions.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Enyo-2.0-BB10-WebWorks",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "client", "bb10", "enyo", "webworks"]
+ },
+ "Enyo-2.0-OnyxSampler": {
+     "desc": "This example shows how to build the Enyo 2.0 sample application Onyx Sampler as a BlackBerry WebWorks application.",
+     "url": "https://github.com/blackberry/WebWorks-Community-Samples/tree/master/Enyo-2.0-OnyxSampler",
+     "repo": "WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/WebWorks-Community-Samples",
+     "tags": [ "html5", "client", "playbook", "enyo", "webworks"]
+ },
+ "Enyo-2.0-WebWorksExtensions": {
+     "desc": "This example shows how to build an application with Enyo 2.0 and include native functionality with BlackBerry WebWorks extensions.",
+     "url": "https://github.com/blackberry/WebWorks-Community-Samples/tree/master/Enyo-2.0-WebWorksExtensions",
+     "repo": "WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/WebWorks-Community-Samples",
+     "tags": [ "html5", "client", "playbook", "enyo", "webworks"]
+ },
+  "FaceBook-OAuth-2": {
      "desc": "Integrate Facebook and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/FaceBook-OAuth-2",
      "repo": "BB10-WebWorks-Samples",
