@@ -83,6 +83,13 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "audio" ]
  },
+ "AudioLoopBackSampleToFile": {
+      "desc": "Demonstrates how to record and playback audio simultaneously and designed to easily plug into a VoIP application for encoding/decoding the audio stream",
+      "url": "https://github.com/Core-Native-Community-Samples/tree/master/AudioLoopBackSampleToFile",
+      "repo": "Core-Native-Community-Samples",
+      "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
+      "tags": [ "native", "client", "bb10", "asound", "audio", "record", "playback", "voip" ]
+ },
  "Aura": {
      "desc": "Shows how to integrate HTML5, Accelerometer and CSS3 into a grahically compelling app",
      "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/Aura",
