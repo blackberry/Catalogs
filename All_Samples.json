@@ -383,6 +383,13 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "opengl" ]
  },
+ "CustomContext": {
+     "desc": "How to set Custom Menus to DOM Elements in a BlackBerry WebWorks Application",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/CustomContext",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "dom" ]
+ },
  "DeviceInfo(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to get information about the device",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/DeviceInfo",
@@ -1750,9 +1757,23 @@
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "sensor", "flotr2" ]
  },
+ "SetWallpaper": {
+     "desc": "How to set the wallpaper in a BlackBerry 10 device using WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/SetWallpaper",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "wallpaper" ]
+ },
  "shareCard": {
-     "desc": "Implementing a Share Card using BlackBerry WebWorks",
+     "desc": "Implementing a Share Target (aka. Share Card) using BlackBerry WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/shareCard",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "card", "invocation" ]
+ },
+ "ShareTargets": {
+     "desc": "Shows how to invoke Share Targets (aka. Share Cards) in BlackBerry WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/ShareTargets",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "card", "invocation" ]
