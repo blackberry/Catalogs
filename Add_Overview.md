@@ -1,13 +1,12 @@
 ---
 title: Overview to Samples, Repositories and Catalogs
+jsfile: Simple.js
 
 layout: basic
 ---
 {% include common-defs.md %}
 
 This page provides a general overview of Samples, Repositories and Catalogs
-
-## WORK IN PROGRESS!
 
 ## Contacts
 
@@ -43,36 +42,42 @@ led by RIM or by an external contributor.
 
 ### Official and Community Samples
 
-Official Samples are maintained by RIM over all official releases of the platform.
+**Official Samples** are maintained by RIM over all official releases of the platform.
 
-Community Samples are maintained by the community (RIM and non-RIM members) on a best-effort
+<div style="margin-left:10px; margin-top:10px;" class="collapsable" label="Repos">
+</div>
+<div style="margin-top: 2px; margin-left:20px;">
+<ul>
+<li>NDK-Samples</li>
+<li>Cascades-Samples</li>
+<li>Samples-for-AIR</li>
+<li>Samples-for-Java</li>
+<li>WebWorks-Samples</li>
+<li>BB10-WebWorks-Samples</li>
+<li>WebGL-Samples (validate?)</li>
+</ul>
+</div>
+
+**Community Samples** are maintained by the community (RIM and non-RIM members) on a best-effort
 manner.
 
-The repositories containing official samples are:
-* NDK-Samples
-* Cascades-Samples
-* Samples-for-AIR
-* Samples-for-Java
-* WebWorks-Samples
-* BB10-WebWorks-Samples
-* WebGL-Samples (validate?)
-
-The repositories containing community samples are:
-* Core-Native-Community-Samples
-* Cascades-Community-Samples
-* BB10-WebWorks-Community-Samples
-* WebWorks-Community-Samples
-* WebWorks-Community-APIs
-
-__TODO__
-_The above lists should come from the Repo catalog, derived from annotations in the JSON file_
-
+<div style="margin-left:10px; margin-top:10px;" class="collapsable" label="Repos">
+</div>
+<div style="margin-top: 2px; margin-left:20px;">
+<ul>
+<li>Core-Native-Community-Samples</li>
+<li>Cascades-Community-Samples</li>
+<li>BB10-WebWorks-Community-Samples</li>
+<li>WebWorks-Community-Samples</li>
+<li>WebWorks-Community-APIs</li>
+</ul>
+</div>
 
 ## How To Contribute
 
 ### New Sample from RIM (to a RIM repo)
 
-Point your internal browser to the internal [OpenBerry site](go/openberry) for review and approval.
+Point your internal browser to the internal [OpenBerry site](http://go/openberry) for review and approval.
 
 ### Updates to an existing sample
 
@@ -93,6 +98,29 @@ We will perform some basic check of the code but you remain reponsible for the c
 
 We welcome your contributions but we cannot guarantee we will accept all submissions.  
 Acceptance into a community repo is much likely than to an official repo.
+
+### Contribute through your Fork
+
+Do not contribute directly to the repository, even if you have pull permissions to it;
+you should instead contribute through your own fork.  We have many contributors and the
+pull request history is extremely valuable in tracking code into our repositories.
+
+Verify your pull request as you submit it.  And have a second set of eyes look into your
+submission if in any doubt, as backing up from a public repository can be problematic.
+
+
+### On line separators
+
+Beware of changing the line separator used by the files you are modifying,
+specially on a Windows system.
+
+Windows editors that claim to support preserving separators include
+[emacs](http://www.gnu.org/software/emacs/),
+[vim](http://www.vim.org/download.php) and
+[WordPad](http://en.wikipedia.org/wiki/WordPad),
+but [Notepad][4] does not.
+
+[4]: <http://en.wikipedia.org/wiki/Notepad_(software)> "Notepad software"
 
 ## Updating the Catalog
 

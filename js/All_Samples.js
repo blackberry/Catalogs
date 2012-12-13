@@ -11,10 +11,19 @@
 // initialize name translation table
 function initializeTranslateTable() {
     return {
-	"BB10-WebWorks-Samples": "BB10-Web<em>...</em>Samples",
-	"Cascades-Community-Samples": "Cascades-Comm<em>...</em>",
+	// HTML5
+	"BB10-WebWorks-Samples": "BB10-WW<em>...</em>Samples",
+	"BB10-WebWorks-Community-Samples": "BB10-WW-Comm<em>...</em>Samples",
+	"WebWorks-Community-Samples": "WW-Comm<em>...</em>Samples",
+	"WebWorks-Samples": "WebWorks-Samples",
+	"WebWorks-Community-APIs": "WW-Comm<em>...</em>APIs",
+
 	"jQuery-Mobile-Samples": "jQuery-Mobile<em>...</em>",
-	"OpenGLES2-ProgrammingGuide": "OpenGLES<em>...</em>Guide",
+	"Enyo-2.0-BB10-WebWorks": "Enyo-2.0-BB10-WW",
+	"Enyo-2.0-WebWorksExtensions": "Enyo-2.0-WW-Extensions",
+
+	// Cascades
+	"Cascades-Community-Samples": "Cascades-Comm<em>...</em>",
 	"PushSampleApp(bb10,AIR)": "PushSample<em>...</em>(bb10,AIR)",
 	"Qt2Cascades-Samples": "Qt2Cascades<em>...</em>",
 	"Qt2Cascades.IPC": "Qt2<em>...</em>.IPC",
@@ -26,14 +35,19 @@ function initializeTranslateTable() {
 	"Qt2Cascades.SQL": "Qt2<em>...</em>.SQL",
 	"Qt2Cascades.Tools": "Qt2<em>...</em>.Tools",
 	"Qt2Cascades.XML": "Qt2<em>...</em>.XML",
+
+	"OpenGLES2-ProgrammingGuide": "OpenGLES<em>...</em>Guide",
+
+	// AIR
 	"SampleBPSANE(AIR)": "SampleBPSANE<em>...</em>(AIR)",
 	"SampleApplication(AIR)": "SampleApp<em>...</em>(AIR)",
 	"SampleLibrary(AIR)": "SampleLib<em>...</em>(AIR)",
-	"scoreloopintegrationsample": "Scoreloop<em>...</em>",
-	"scoreloopintegrationsample(Cascades)": "Scoreloop<em>...</em>(Cascades)",
 	"StarshipSettings(bb10,AIR)": "Starship<em>...</em>(bb10,AIR)",
 	"WeatherGuesser(bb10,AIR)": "Weather<em>...</em>(bb10,AIR)",
-	"WebWorks-Community-APIs": "WebWorks-<em>...</em>APIs"
+
+	// Scoreloop
+	"scoreloopintegrationsample": "Scoreloop<em>...</em>",
+	"scoreloopintegrationsample(Cascades)": "Scoreloop<em>...</em>(Cascades)",
     };
 }
 
