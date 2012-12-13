@@ -1,17 +1,17 @@
 ---
-title: Adding a Sample to the Catalog
+title: Adding New Samples
 
 layout: basic
 ---
 {% include common-defs.md %}
 
-This page describes how to add a new Sample to the Catalog.
+This page describes how to add a new Samples to the Community Catalog.
 
 ## Overview
 
-Start by reading the [Overview][add overview].
+Check our [Overview][add overview] of Samples and Repositories.
 
-## Contributing to the Sample
+## Contributing to the Sample Code
 
 Identify what repository you will want to contribute to, and its lead.
 
@@ -21,6 +21,9 @@ collaborating with the repository lead to secure appropriate technical and legal
 Fork the appropriate repository and apply the changes needed.  Then submit a pull request.
 Interact with the reviewers until the change is acceptable to all parties, at which point
 it will be merged in.
+
+See the notes on using your fork repositories
+in the [Overview](Add_Overview.html).
 
 
 ## Updating the Catalog
@@ -42,20 +45,9 @@ for simple changes, or very occasional contributors, you could edit
 [2]: <https://github.com/blog/844-forking-with-the-edit-button> "Forking with the Edit Button"
 [3]: <https://github.com/blog/905-edit-like-an-ace> "Edit Like an Ace"
 
-Alternatively, `git clone` your fork into a local repository,
-edit the file with an editor,
-`git commit` the change, `git pull` to your fork
-and then submit the pull request from there.
+A more common flow is to fork the Catalogs repository and use a local editor.
+See the notes on line separators in the [Overview](Add_Overview.html).
 
-**A note on line separators:** Beware of changing the line separator
-used by the JSON file, specially on a Windows system.
-Windows editors that claim to support preserving separators include
-[emacs](http://www.gnu.org/software/emacs/),
-[vim](http://www.vim.org/download.php) and
-[WordPad](http://en.wikipedia.org/wiki/WordPad),
-but [Notepad][4] does not.
-
-[4]: <http://en.wikipedia.org/wiki/Notepad_(software)> "Notepad software"
 
 ## Related Material
 
