@@ -718,12 +718,21 @@
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "i18n" ]
  },
- "Invoke": {
-     "desc": "Two sample applications that show how to use the blackberry.invoke API for WebWorks",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/invoke",
+ "invokable": {
+     "desc": "How to use the blackberry.invoke API for WebWorks; invocable side",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/invoke/invokable",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
-     "note": "There are two sample applications: invokable and invoker",
+     "note": "Also see invoker",
+     "warning": "The name of the sample is mispelled",
+     "tags": [ "html5", "client", "playbook", "bb10", "webworks", "invocation"]
+ },
+ "invoker": {
+     "desc": "How to use the blackberry.invoke API for WebWorks; invoking side",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/invoke/invoker",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Also see invokable",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "invocation"]
  },
  "invoke-card": {
@@ -926,7 +935,7 @@
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/mediacards",
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
-     "tags": [ "html5", "webworks", "bb10", "media", "invoke", "camera", "video", "picture", "file", "system" ]
+     "tags": [ "html5", "webworks", "bb10", "media", "invocation", "camera", "video", "picture", "file", "system" ]
  },
  "messages": {
      "desc": "How to implement a simple messenger application",
