@@ -35,7 +35,7 @@ with
 <span style='font-size:140%;'><span id='narrow-currenttag'><!-- dynamic content --></span>.&nbsp;&nbsp;<span id='showAllSamples'>[Reset]</span></span></em>
 </p>
 
-<div style="margin-top:10px;" class="collapsable" label="Table, Tooltips and Sorting">
+<div style="margin-top:10px;" class="collapsable" elabel="Table, Tooltips and Sorting" clabel="Table, Tooltips and Sorting">
 </div>
 <div style="margin-top: 2px; margin-left:20px;">
 There are <span id="stats-samplecount"><!-- dynamic content --></span> samples
@@ -50,7 +50,7 @@ The tables can be sorted on one or more columns: to select multiple
 columns select the next column while pressing the 'SHIFT' (on mac) key.
 </div>
 
-<div label='Find using Tags' class='collapsable' style='margin-top:10px;'>
+<div clabel='Find using Tags' elabel='Find using Tags' class='collapsable' style='margin-top:10px;'>
 </div>
 <div style='margin-top: 2px; margin-left:20px;'>
 <em>Common tags:
@@ -65,7 +65,7 @@ columns select the next column while pressing the 'SHIFT' (on mac) key.
 <span class='tagfilter' style='font-size:140%'><em>playbook</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>qt</em></span>.
 </em>
-<div label="More Tags" class="collapsable" style="margin-top:10px;">
+<div elabel="More Tags" clabel="More Tags" class="collapsable" style="margin-top:10px;">
 </div>
 <div style="margin-left:+10px;">
 <p>
@@ -76,7 +76,7 @@ The samples use
 </div>
 </div>
 
-<div label='Find Extensions' class='collapsable' style='margin-top:10px;'>
+<div clabel='Find Extensions' elabel='Find Extensions' class='collapsable' style='margin-top:10px;'>
 </div>
 <div style='margin-top: 2px; margin-left:20px;'>
 <em>Extensions tags:
@@ -88,7 +88,7 @@ The samples use
 </div>
 
 
-<div style="margin-top:10px;" class='collapsable' label="Repositories">
+<div style="margin-top:10px;" class='collapsable' clabel="Repositories" elabel="Repositories">
 </div>
 <div style="margin-top: 2px; margin-left:20px;">
 <p style="margin-top: 2px;">The tables list the repository hosting each sample, in some cases
@@ -98,7 +98,7 @@ Samples come from <span id='stats-repocount'><!-- dynamic content --></span> rep
 <p><div id='repoList'><!-- dynamic content --></div></p>
 </div>
 
-<div style="margin-top:10px;" class='collapsable' label="Feedback and Todo">
+<div style="margin-top:10px;" class='collapsable' clabel="Feedback and Todo" elabel="Feedback and Todo">
 <!-- dynamic content -->
 </div>
 <div style="margin-top:2px; margin-left:20px;">
