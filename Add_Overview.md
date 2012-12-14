@@ -12,9 +12,9 @@ This page provides a general overview of Samples, Repositories and Catalogs
 
 The current overall lead for Open Source is Eduardo Pelegri-Llopart.
 Preferred way to reach him is at [@pelegri](http://twitter.com/pelegri).
-We also maintain an
-[Blog](http://openbbnews.wordpress.com) (better URL 'soon'),
-and the [Forum](http://supportforums.blackberry.com/t5/General-Open-Source-Topics/bd-p/gost).
+Also see our
+[Open Source Blog](http://openbbnews.wordpress.com) (better URL 'soon'),
+and our [Forum](http://supportforums.blackberry.com/t5/General-Open-Source-Topics/bd-p/gost).
 
 Each repository has a lead, which is (or rather should be) documented in the repository.
 
@@ -37,14 +37,15 @@ contact the owner of that repository.
 
 Content of a non-RIM-led repo is responsibility of the lead for that repo.
 
-A RIM-led repo can be organized as a collection of Samples, and, in that case, each sample may be
-led by RIM or by an external contributor.
+Some repositories are organized as a collection of Samples.
+Most samples in RIM-led repositories are led by RIM,
+but some are led by external contributors.
 
 ### Official and Community Samples
 
 **Official Samples** are maintained by RIM over all official releases of the platform.
 
-<div style="margin-left:10px; margin-top:10px;" class="collapsable" label="Repos">
+<div style="margin-left:10px; margin-top:10px;" class="collapsable" clabel="Show Repos" elabel="Repos">
 </div>
 <div style="margin-top: 2px; margin-left:20px;">
 <ul>
@@ -61,7 +62,7 @@ led by RIM or by an external contributor.
 **Community Samples** are maintained by the community (RIM and non-RIM members) on a best-effort
 manner.
 
-<div style="margin-left:10px; margin-top:10px;" class="collapsable" label="Repos">
+<div style="margin-left:10px; margin-top:10px;" class="collapsable" clabel="Show Repos" elabel="Repos">
 </div>
 <div style="margin-top: 2px; margin-left:20px;">
 <ul>

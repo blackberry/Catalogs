@@ -354,13 +354,13 @@ $(document).ready(function(){
 	o.removeClass("expanded");
 	o.next().hide();
 	o.addClass("collapsed");
-	o.html("<strong>+" + o.attr("label") + "</strong>");
+	o.html("<strong>+" + o.attr("clabel") + "</strong>");
     }
     function expand(o) {
 	o.removeClass("collapsed");
 	o.next().show();
 	o.addClass("expanded");
-	o.html("<strong>-" + o.attr("label") + "</strong>");
+	o.html("<strong>-" + o.attr("elabel") + "</strong>");
     }
 
     $('div.collapsable').each(function() {
