@@ -83,6 +83,13 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "audio" ]
  },
+ "AudioLoopBackSample": {
+      "desc": "Demonstrates how to record and playback audio simultaneously (Full Duplex) using the Audio Library APIs as part of the BlackBerry 10 Native SDK",
+      "url": "https://github.com/Core-Native-Community-Samples/tree/master/AudioLoopBackSample",
+      "repo": "Core-Native-Community-Samples",
+      "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
+      "tags": [ "native", "client", "bb10", "asound", "audio", "record", "playback", "voip" ]
+ },
  "AudioLoopBackSampleToFile": {
       "desc": "Demonstrates how to record and playback audio simultaneously and designed to easily plug into a VoIP application for encoding/decoding the audio stream",
       "url": "https://github.com/Core-Native-Community-Samples/tree/master/AudioLoopBackSampleToFile",
