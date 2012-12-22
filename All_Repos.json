@@ -1,8 +1,8 @@
 {
  "_comment_": {
      "desc": "description",
-     "url": "URL to sample",
-     "type": "options are html5, native, air, java or docs",
+     "url": "URL to repo",
+     "type": "options are html5, native, air, java, tool or docs ",
      "branches": ["a", "list", "of", "the", "branches"],
      "branchinfo": "A description of the branches",
      "note": "More details about the repository",
@@ -141,6 +141,14 @@
      "branches": ["master"],
      "note": "Unlike Cascades-Community-Samples, RIM is committed to supporting these samples across releases",
      "tags": [ "native", "cascades", "samples" , "bb10", "official" ]
+ },
+ "Catalogs": {
+     "desc": "Community Catalogs: Samples, Repos and others",
+     "url": "http://github.com/blackberry/Catalogs",
+     "type": "docs",
+     "branches": ["gh-pages"],
+     "branchinfo": "Only the 'gh-pages' is important",
+     "tags": [ "docs", "bb10" ]
  },
  "Cocos2d-x": {
      "desc": "An Open-Source, C++-based Mobile 2D game engine",
@@ -449,7 +457,7 @@
      "type": "html5",
      "branches": ["master", "next"],
      "branchinfo": "'master' is current development, 'next' is next release",
-     "tags": [ "html5", "tools", "webworks" ]
+     "tags": [ "html5", "tool", "webworks" ]
  },
  "Ripple-Framework": {
      "desc": "Framework layer of Ripple",
@@ -458,7 +466,7 @@
      "branches": ["master", "next"],
      "branchinfo": "'master' is current development, 'next' is next release",
      "warning": "Update information based on latest status",
-     "tags": [ "html5", "tools", "webworks" ]
+     "tags": [ "html5", "tool", "webworks" ]
  },
  "Samples-for-AIR": {
      "desc": "Samples for Adobe AIR",
@@ -475,15 +483,21 @@
      "branches": ["master"],
      "tags": [ "java", "bbos", "samples" ]
  },
- "Skia": {
-     "desc": "Complete 2D Graphic Library",
-     "url": "http://github.com/blackberry/Skia",
+ "SBuilder": {
+     "desc": "A tool for browsing and editing SQLite Databases",
+     "url": "http://github.com/blackberry/SBuilder",
+     "type": "tool",
+     "branches": ["master"],
+     "tags": [ "tool", "bb10" ]
+ },
+ "Scoreloop-Samples": {
+     "desc": "Sample showing integration with Scoreloop",
+     "url": "http://github.com/blackberry/Scoreloop-Samples",
      "type": "native",
-     "note": "check the local wiki pages",
-     "portinfo": "from http://code.google.com/p/skia",
-     "branches": ["master", "BB10_Dev_Alpha", "gh-pages", "next"],
-     "branchinfo": "'master' and 'next' are playbook, 'BB10_Dev_Alpha' is alpha device, 'gh-pages' is a minimal redirect page to local wiki",
-     "tags": [ "native", "bb10", "playbook", "port", "graphics", "wiki" ]
+     "branches": ["master", "BB10.0.06", "BB10.0.09"],
+     "branchinfo": "'master' is PlayBook; 'BB10.0.09' is latest BlackBerry 10<br/>Name is arguably inconsistent with other conventions",
+     "note": "This repo includes 3 samples: two for Core Native apps and one for Apps using the Cascades framework. No WebWorks integration at the moment",
+     "tags": [ "native", "samples", "bb10", "scoreloop", "gaming", "cascades" ]
  },
  "SDL": {
      "desc": "The Simple DirectMedia Layer library",
@@ -494,14 +508,15 @@
      "warning": "Need to clarify with Jeremy on the different ports",
      "tags": [ "native", "bb10", "playbook", "port" ]
  },
- "Scoreloop-Samples": {
-     "desc": "Sample showing integration with Scoreloop",
-     "url": "http://github.com/blackberry/Scoreloop-Samples",
+ "Skia": {
+     "desc": "Complete 2D Graphic Library",
+     "url": "http://github.com/blackberry/Skia",
      "type": "native",
-     "branches": ["master", "BB10.0.06", "BB10.0.09"],
-     "branchinfo": "'master' is PlayBook; 'BB10.0.09' is latest BlackBerry 10<br/>Name is arguably inconsistent with other conventions",
-     "note": "This repo includes 3 samples: two for Core Native apps and one for Apps using the Cascades framework. No WebWorks integration at the moment",
-     "tags": [ "native", "samples", "bb10", "scoreloop", "gaming", "cascades" ]
+     "note": "check the local wiki pages",
+     "portinfo": "from http://code.google.com/p/skia",
+     "branches": ["master", "BB10_Dev_Alpha", "gh-pages", "next"],
+     "branchinfo": "'master' and 'next' are playbook, 'BB10_Dev_Alpha' is alpha device, 'gh-pages' is a minimal redirect page to local wiki",
+     "tags": [ "native", "bb10", "playbook", "port", "graphics", "wiki" ]
  },
  "SpiderMonkey": {
      "desc": "Mozilla's JavaScript Engine",
