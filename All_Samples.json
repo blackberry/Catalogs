@@ -981,6 +981,13 @@
      "note": "The sample shows:<ul><li>how to access the camera</li><li>how to start the viewfinder and acquire the corresponding viewfinder window handle</li><li>how to take a photo (non-blocking)</li><li>how to save a photo to the camera roll</li><li>how to pass argument data between the main thread and your callback threads</li><li>how to signal your main thread using user-defined bps events from your callback thread</li></ul>",
      "tags": [ "native", "client", "camera", "bb10" ]
  },
+ "ndefTagReading": {
+     "desc": "This library allows WebWorks to handle tag reading in pure JavaScript. No extensions are required - tags are delivered through the Invocation Framework.",
+     "url": "https://github.com/blackberry/WebWorks-Community-Samples/tree/master/nfc/ndefTagReading",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "nfc", "invocation" ]
+ },
  "NetworkStatus": {
      "desc": "How to retrieve the network status of the device",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/NetworkStatus",
