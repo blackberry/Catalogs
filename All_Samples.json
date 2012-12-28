@@ -831,6 +831,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-Samples",
      "tags": [ "html5", "client", "webworks", "playbook", "bbos" ]
  },
+ "KISSBBM: {
+     "desc": "A very simple BBM Integration Sample App for BlackBerry 10 WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/KISS%20BBM%20Integration",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "bbm" ]
+ },
  "led": {
      "desc": "The LED API",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/led",
