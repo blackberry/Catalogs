@@ -2146,6 +2146,14 @@
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "tags": [ "air", "client", "bb10", "sql", "json" ]
  },
+ "WindowCovers": {
+     "desc": "How to integrate Window Covers into a BlackBerry WebWorks application for BlackBerry 10",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/WindowCovers",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "note": "Improved version to that from WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "windowcover", "activeframe" ]
+ },
  "YouTubeClient": {
      "desc": "How to use the Communication API in BlackBerry 6.0 with YouTube Data API",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/YouTube%20Client",
