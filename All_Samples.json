@@ -1690,10 +1690,10 @@
  },
  "SampleBPSANE(AIR,ext,pb)": {
      "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
-     "url": "http://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleBPSANE",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "warning": "need to clarify if this is real, and relocate",
+     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/PlayBookOS/SampleBPSANE",
+     "repo": "Community-APIs-for-AIR",
+     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "warning": "used to be in Samples-for-AIR",
      "tags": [ "air", "client", "playbook", "extension", "ext-air", "sensor" ]
  },
  "SampleBwsClient(C#)": {
