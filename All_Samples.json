@@ -1273,12 +1273,19 @@
      "note": "<p>Uses socket.io on the client and nodeJS on the server</p><p>Should run on BB10</p>",
      "tags": [ "html5", "server", "client", "playbook", "webworks", "socketio", "nodejs" ]
  },
+ "pimcalendar": {
+     "desc": "WebWorks sample outlining usage of PIM Calendar APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/pimcalendar",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "pim", "calendar" ]
+ },
  "pimcontacts": {
      "desc": "WebWorks sample outlining usage of PIM Contact APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/pimcontacts",
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
-     "tags": [ "html5", "webworks", "bb10", "pim", "contact", "contacts" ]
+     "tags": [ "html5", "webworks", "bb10", "pim", "contact" ]
  },
  "placepicker": {
      "desc": "How to use the PlacePicker class to select a place from the favorites list, map lookup or an online search",
