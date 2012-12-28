@@ -983,7 +983,7 @@
  },
  "ndefTagReading": {
      "desc": "This library allows WebWorks to handle tag reading in pure JavaScript. No extensions are required - tags are delivered through the Invocation Framework.",
-     "url": "https://github.com/blackberry/WebWorks-Community-Samples/tree/master/nfc/ndefTagReading",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/nfc/ndefTagReading",
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "nfc", "invocation" ]
