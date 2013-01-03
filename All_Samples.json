@@ -565,6 +565,14 @@
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "tags": [ "native", "client", "bb10", "gaming" ]
  },
+ "Geocoding(AIR,ext,bb10)": {
+     "desc": "An AIR Native Extension using the geo_search library from the NDK to provide geo-coding and reverse geo-coding capabilities",
+     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/Geocoding",
+     "repo": "Community-APIs-for-AIR",
+     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "note": "See the (AIR,ext,pb) entry",
+     "tags": [ "air", "client", "bb10", "extension", "ext-air", "location" ]
+ },
  "GeoLocation": {
      "desc": "Display current location data",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Geolocation",
@@ -1698,10 +1706,10 @@
  },
  "SampleBPSANE(AIR,ext,pb)": {
      "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
-     "url": "http://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleBPSANE",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "warning": "need to clarify if this is real, and relocate",
+     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/PlayBookOS/SampleBPSANE",
+     "repo": "Community-APIs-for-AIR",
+     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "warning": "used to be in Samples-for-AIR",
      "tags": [ "air", "client", "playbook", "extension", "ext-air", "sensor" ]
  },
  "SampleBwsClient(C#)": {
