@@ -2169,6 +2169,13 @@
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "Note the white space in the URL",
      "tags": [ "java", "client", "youtube", "bbos" ]
+ },
+ "ExpandableSample": {
+     "desc": "ExpandableSample is a little app showing how to implement custom components to replicate known UI components.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ExpandableSample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "ui", "custom", "qml" ]
  }
 }
 
