@@ -389,6 +389,14 @@
      "branchinfo": "I suspect several of the branches are obsolete",
      "tags": [ "html5", "bb10", "playbook", "samples", "webworks"]
  },
+"PjsipDemo": {
+     "desc": "Demonstration of how to build, include and use PJSIP in a Cascades project",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/bb10-pjsipdemo",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>Currently a very simple application but contains bash scripts for building PJSIP for BB10</p><p>Building PJSIP has to be done on Linux/Mac but the resulting files can be overlayed on the SDK of any platform</p>",
+     "tags": [ "native", "cascades", "client", "pjsip", "bb10" ]
+},
  "Presentations": {
      "desc": "Samples and other code used in Presentations",
      "url": "http://github.com/blackberry/Presentations",

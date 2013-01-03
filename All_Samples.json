@@ -1287,6 +1287,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "pim", "contact" ]
  },
+ "PjsipDemo": {
+     "desc": "Demonstration of how to build, include and use PJSIP in a Cascades project",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/bb10-pjsipdemo",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>Currently a very simple application but contains bash scripts for building PJSIP for BB10</p><p>Building PJSIP has to be done on Linux/Mac but the resulting files can be overlayed on the SDK of any platform</p>",
+     "tags": [ "native", "cascades", "client", "pjsip", "bb10" ]
+ },
  "placepicker": {
      "desc": "How to use the PlacePicker class to select a place from the favorites list, map lookup or an online search",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/placepicker",
@@ -2161,6 +2169,13 @@
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "Note the white space in the URL",
      "tags": [ "java", "client", "youtube", "bbos" ]
+ },
+ "ExpandableSample": {
+     "desc": "ExpandableSample is a little app showing how to implement custom components to replicate known UI components.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ExpandableSample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "ui", "custom", "qml" ]
  }
 }
 
