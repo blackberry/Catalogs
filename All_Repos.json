@@ -308,11 +308,11 @@
      "tags": [ "haxe", "bb10" ]
  },
  "OGRE": {
-     "desc": "Scene-Oriented, real-time, flexible 3D rendering engine",
+     "desc": "Scene-Oriented, real-time, flexible 3D rendering engine. See <a href='http://ogre3d.org'>ogre3d.org</a>",
      "url": "http://github.com/blackberry/OGRE",
      "type": "native",
      "branches": ["master"],
-     "tags": [ "native", "port", "game" ]
+     "tags": [ "native", "port", "game", "bb10" ]
  },
  "OpenDataSpace-BBJava": {
      "desc": "The OpenSource Edition of the java-based client for SSP Europe's SecureDataSpace",
