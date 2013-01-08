@@ -307,6 +307,13 @@
      "note": "<p>NME is a free, open-source framework that enables development for iOS, Android, webOS, BlackBerry, Windows, Mac, Linux and Flash Player from a single codebase.</p><p>Haxe NME uses the Haxe cross-platform language.  For more information, see <a href='http://www.haxenme.org/'>HaxeNME.org</a></p>",
      "tags": [ "haxe", "bb10" ]
  },
+ "OGRE": {
+     "desc": "Scene-Oriented, real-time, flexible 3D rendering engine",
+     "url": "http://github.com/blackberry/OGRE",
+     "type": "native",
+     "branches": ["master"],
+     "tags": [ "native", "port", "game" ]
+ },
  "OpenDataSpace-BBJava": {
      "desc": "The OpenSource Edition of the java-based client for SSP Europe's SecureDataSpace",
      "url": "http://github.com/blackberry/opendataspace-bbjava",
