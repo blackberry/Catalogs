@@ -1831,6 +1831,20 @@
      "note": "<p>Note the whitespace embedded in the URL!</p>",
      "tags": [ "java", "client", "location", "bbos"]
  },
+ "SimplePushClient": {
+     "desc": "A simplified push client that also integrates with the device notifications and application thumbnail view.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SimplePushClient",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "push", "notification", "scenecover","thumbnail"]
+ },
+ "SimplePushServer": {
+     "desc": "A simple push server that runs on BlackBerry 10. Test both sides of push from the same device!",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SimplePushServer",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "push", "server"]
+ },
  "simplemap": {
      "desc": "How to display a location on a map control",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/simplemap",
