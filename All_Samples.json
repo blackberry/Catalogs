@@ -671,6 +671,14 @@
      "note": "<p>HelloVideoCamera is a minimalist Cascades-based video camera app. It illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>HelloVideoCamera has functionality for starting and sotpping the camera, changing between front and back cameras, and recording video files which are saved to the camera roll.</p>",
      "tags": [ "native", "cascades", "client", "camera", "bb10", "video" ]
  },
+ "HelloSceneCover": {
+     "desc": "Simple application cover code",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloSceneCover",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>HelloSceneCover is a minimalist Cascades-based app. It illustrates how to set up an Application Cover (viewable in Active Frames) for when the application is minimised.</p>",
+     "tags": [ "native", "cascades", "client", "active frames", "bb10", "cover" ]
+ },
  "HelloWorld": {
      "desc": "Simple WebWorks application; uses Location API",
      "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/HelloWorld",
