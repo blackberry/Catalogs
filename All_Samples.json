@@ -397,6 +397,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "dom" ]
  },
+ "custommapview": {
+     "desc": "Displays a city map overlayed with three sliders and shows how to put an overlay on another control on top of that",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/custommapview",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "map" ]
+ },
  "DeviceInfo(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to get information about the device",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/DeviceInfo",
@@ -954,7 +961,7 @@
      "tags": [ "html5", "webworks", "bb10", "map" ]
  },
  "mapview": {
-     "desc": "How to display a location on a map control",
+     "desc": "Displays a city map overlayed with three sliders and also shows how to drop push pins on chosen locations",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/mapview",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
