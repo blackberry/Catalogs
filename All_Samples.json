@@ -139,12 +139,26 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "barcode", "ext-bbos" ]
  },
+ "barcodeinvoker": {
+     "desc": "A page that shows how to invoke the Barcode Scanner card",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodeinvoker",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation"]
+ },
  "barcodereader": {
      "desc": "How to use the camera of the device to scan QR codes and display decoded content",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodereader",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "barcode"]
+ },
+ "barcodescanner": {
+     "desc": "A Barcode Scanner card",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodescanner",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation"]
  },
  "batterysample": {
      "desc": "A battery display app from a radio group and an image",
@@ -403,6 +417,20 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "map" ]
+ },
+ "databasecrud": {
+     "desc": "How to create, read, update and delete records from a database table using QSqlDatabase",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/databasecrud",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "sqlite" ]
+ },
+ "databasecreation": {
+     "desc": "How to create a database, table and table records using SqlDataAccess",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/databasecreation",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "sqlite" ]
  },
  "DeviceInfo(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to get information about the device",
