@@ -151,6 +151,7 @@
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodereader",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "Invokes scanner library through Cascades API",
      "tags": [ "native", "client", "bb10", "cascades", "barcode"]
  },
  "barcodescanner": {
@@ -158,7 +159,8 @@
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodescanner",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation"]
+     "note": "Invokes ZXing directly",
+     "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation", "zxing"]
  },
  "batterysample": {
      "desc": "A battery display app from a radio group and an image",
