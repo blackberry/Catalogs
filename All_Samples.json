@@ -139,12 +139,26 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "barcode", "ext-bbos" ]
  },
+ "barcodeinvoker": {
+     "desc": "A page that shows how to invoke the Barcode Scanner card",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodeinvoker",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation"]
+ },
  "barcodereader": {
      "desc": "How to use the camera of the device to scan QR codes and display decoded content",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodereader",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "barcode"]
+ },
+ "barcodescanner": {
+     "desc": "A Barcode Scanner card",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodescanner",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation"]
  },
  "batterysample": {
      "desc": "A battery display app from a radio group and an image",
@@ -396,6 +410,27 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "dom" ]
+ },
+ "custommapview": {
+     "desc": "Displays a city map overlayed with three sliders and shows how to put an overlay on another control on top of that",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/custommapview",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "map" ]
+ },
+ "databasecrud": {
+     "desc": "How to create, read, update and delete records from a database table using QSqlDatabase",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/databasecrud",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "sqlite" ]
+ },
+ "databasecreation": {
+     "desc": "How to create a database, table and table records using SqlDataAccess",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/databasecreation",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "sqlite" ]
  },
  "DeviceInfo(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to get information about the device",
@@ -962,7 +997,7 @@
      "tags": [ "html5", "webworks", "bb10", "map" ]
  },
  "mapview": {
-     "desc": "How to display a location on a map control",
+     "desc": "Displays a city map overlayed with three sliders and also shows how to drop push pins on chosen locations",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/mapview",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
@@ -1258,6 +1293,13 @@
      "repourl": "http://github.com/blackberry/WebGL-Samples",
      "note": "<p>Sample showcases rendering, textures, lighting, skybox and terrain generation and more</p><p>This game runs on the BlackBerry PlayBook and BlackBerry 10 as well as on desktop browsers.</p><p>There is no online version yet (unlike TunnelTilt)</p>",
      "tags": [ "html5", "client", "bb10", "playbook", "webgl", "webworks" ]
+ },
+ "persistentobjects": {
+     "desc": "How to create/load/write/update a persistent object",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/persistentobjects",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "persistent" ]
  },
  "photobomber": {
      "desc": "Camera App",
