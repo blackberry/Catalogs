@@ -1286,6 +1286,13 @@
      "note": "<p>Sample showcases rendering, textures, lighting, skybox and terrain generation and more</p><p>This game runs on the BlackBerry PlayBook and BlackBerry 10 as well as on desktop browsers.</p><p>There is no online version yet (unlike TunnelTilt)</p>",
      "tags": [ "html5", "client", "bb10", "playbook", "webgl", "webworks" ]
  },
+ "persistentobjects": {
+     "desc": "How to create/load/write/update a persistent object",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/persistentobjects",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "persistent" ]
+ },
  "photobomber": {
      "desc": "Camera App",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/photobomber",
