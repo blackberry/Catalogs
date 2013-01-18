@@ -170,6 +170,14 @@
      "note": "<p>A radio group and an image are used to display and describe the different battery states.</p><p>  The QML uses stackLayout</p>",
      "tags": [ "native", "client", "bb10", "cascades", "battery", "stacklayout"]
  },
+ "BB10-Bootstrap": {
+     "desc": "Demonstrates how to build a BlackBerry WebWorks app with PhoneGap, which uses Apache Cordova",
+     "url": "https://github.com/blackberry/Cordova-Samples/tree/master/BB10-Bootstrap",
+     "repo": "Cordova-Samples",
+     "repourl": "http://github.com/blackberry/Cordova-Samples",
+     "note": "Adobe Phonegap is based on Apache Cordova",
+     "tags": [ "html5", "webworks", "bb10", "phonegap", "cordova" ]
+ },
  "bbm": {
      "desc": "Using BBM APIs from WebWorks on the BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/bbm",
