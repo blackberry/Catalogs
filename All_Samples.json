@@ -306,6 +306,13 @@
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "camera" ]
  },
+ "canvasToFilesystem": {
+     "desc": "Sample implementation of saving <canvas> contents to the BlackBerry 10 filesystem.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/canvasToFilesystem",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "filesystem", "canvas" ]
+ },
  "CascadesBasicSample": {
      "desc": "Demonstrates the use of signal / slot between QML and C++",
      "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesBasicSample",
