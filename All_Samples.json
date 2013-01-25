@@ -178,6 +178,14 @@
      "note": "Adobe Phonegap is based on Apache Cordova",
      "tags": [ "html5", "webworks", "bb10", "phonegap", "cordova" ]
  },
+ "BB10-Look-And-Feel": {
+     "desc": "demonstrates how to achieve a BlackBerry 10 "Looks and Feel" from an HTML5 app using PhoneGap",
+     "url": "https://github.com/blackberry/Cordova-Samples/tree/master/BB10-Look-And-Feel",
+     "repo": "Cordova-Samples",
+     "repourl": "http://github.com/blackberry/Cordova-Samples",
+     "note": "Adobe Phonegap is based on Apache Cordova",
+     "tags": [ "html5", "webworks", "bb10", "phonegap", "cordova" ]
+ },
  "bbm": {
      "desc": "Using BBM APIs from WebWorks on the BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/bbm",
