@@ -1742,6 +1742,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "client", "bb10", "cascades" ]
  },
+ "RotationCamera": {
+     "desc": "A demonstration of how to handle camera rotation",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/RotationCamera",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>RotationCamera is a modified version of HelloVideoCamera with the added capability of being able to handle navigator orientation events.  Care is given to illustrate how to handle reorienting the camera images whether using the front or rear-facing camera, and whether recording video or simply displaying the viewfinder.  Future platform capabilities are also accounted for in this code, so it should be relatively future-proof.  This is a tricky topic, so there is plenty of in-line documentation both in the code, and in the readme.</p>",
+     "tags": [ "native", "cascades", "client", "camera", "bb10", "video", "rotation" ]
+ },
  "routemapinvoker": {
      "desc": "How to invoke the map application and configure it to show a certain route between two locations",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/routemapinvoker",
