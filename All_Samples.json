@@ -139,12 +139,28 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "barcode", "ext-bbos" ]
  },
+ "barcodeinvoker": {
+     "desc": "A page that shows how to invoke the Barcode Scanner card",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodeinvoker",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation"]
+ },
  "barcodereader": {
      "desc": "How to use the camera of the device to scan QR codes and display decoded content",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodereader",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "Invokes scanner library through Cascades API",
      "tags": [ "native", "client", "bb10", "cascades", "barcode"]
+ },
+ "barcodescanner": {
+     "desc": "A Barcode Scanner card",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodescanner",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "note": "Invokes ZXing directly",
+     "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation", "zxing"]
  },
  "batterysample": {
      "desc": "A battery display app from a radio group and an image",
@@ -153,6 +169,22 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "<p>A radio group and an image are used to display and describe the different battery states.</p><p>  The QML uses stackLayout</p>",
      "tags": [ "native", "client", "bb10", "cascades", "battery", "stacklayout"]
+ },
+ "BB10-Bootstrap": {
+     "desc": "Demonstrates how to build a BlackBerry WebWorks app with PhoneGap, which uses Apache Cordova",
+     "url": "https://github.com/blackberry/Cordova-Samples/tree/master/BB10-Bootstrap",
+     "repo": "Cordova-Samples",
+     "repourl": "http://github.com/blackberry/Cordova-Samples",
+     "note": "Adobe Phonegap is based on Apache Cordova",
+     "tags": [ "html5", "webworks", "bb10", "phonegap", "cordova" ]
+ },
+ "BB10-Look-And-Feel": {
+     "desc": "demonstrates how to achieve a BlackBerry 10 'Looks and Feel' from an HTML5 app using PhoneGap",
+     "url": "https://github.com/blackberry/Cordova-Samples/tree/master/BB10-Look-And-Feel",
+     "repo": "Cordova-Samples",
+     "repourl": "http://github.com/blackberry/Cordova-Samples",
+     "note": "Adobe Phonegap is based on Apache Cordova",
+     "tags": [ "html5", "webworks", "bb10", "phonegap", "cordova" ]
  },
  "bbm": {
      "desc": "Using BBM APIs from WebWorks on the BlackBerry 10",
@@ -282,6 +314,13 @@
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "camera" ]
  },
+ "canvasToFilesystem": {
+     "desc": "Sample implementation of saving &lt;canvas&gt; contents to the BlackBerry 10 filesystem.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/canvasToFilesystem",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "filesystem", "canvas" ]
+ },
  "CascadesBasicSample": {
      "desc": "Demonstrates the use of signal / slot between QML and C++",
      "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesBasicSample",
@@ -396,6 +435,27 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "dom" ]
+ },
+ "custommapview": {
+     "desc": "Displays a city map overlayed with three sliders and shows how to put an overlay on another control on top of that",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/custommapview",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "map" ]
+ },
+ "databasecrud": {
+     "desc": "How to create, read, update and delete records from a database table using QSqlDatabase",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/databasecrud",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "sqlite" ]
+ },
+ "databasecreation": {
+     "desc": "How to create a database, table and table records using SqlDataAccess",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/databasecreation",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "sqlite" ]
  },
  "DeviceInfo(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to get information about the device",
@@ -565,6 +625,14 @@
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "tags": [ "native", "client", "bb10", "gaming" ]
  },
+ "Geocoding(AIR,ext,bb10)": {
+     "desc": "An AIR Native Extension using the geo_search library from the NDK to provide geo-coding and reverse geo-coding capabilities",
+     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/Geocoding",
+     "repo": "Community-APIs-for-AIR",
+     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "note": "See the (AIR,ext,pb) entry",
+     "tags": [ "air", "client", "bb10", "extension", "ext-air", "location" ]
+ },
  "GeoLocation": {
      "desc": "Display current location data",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Geolocation",
@@ -662,6 +730,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>HelloVideoCamera is a minimalist Cascades-based video camera app. It illustrates how to set up a Cascades foreign window and connect the Camera viewfinder to it.</p><p>HelloVideoCamera has functionality for starting and sotpping the camera, changing between front and back cameras, and recording video files which are saved to the camera roll.</p>",
      "tags": [ "native", "cascades", "client", "camera", "bb10", "video" ]
+ },
+ "HelloSceneCover": {
+     "desc": "Simple application cover code",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloSceneCover",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>HelloSceneCover is a minimalist Cascades-based app. It illustrates how to set up an Application Cover (viewable in Active Frames) for when the application is minimised.</p>",
+     "tags": [ "native", "cascades", "client", "active frames", "bb10", "cover" ]
  },
  "HelloWorld": {
      "desc": "Simple WebWorks application; uses Location API",
@@ -946,7 +1022,7 @@
      "tags": [ "html5", "webworks", "bb10", "map" ]
  },
  "mapview": {
-     "desc": "How to display a location on a map control",
+     "desc": "Displays a city map overlayed with three sliders and also shows how to drop push pins on chosen locations",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/mapview",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
@@ -1243,6 +1319,13 @@
      "note": "<p>Sample showcases rendering, textures, lighting, skybox and terrain generation and more</p><p>This game runs on the BlackBerry PlayBook and BlackBerry 10 as well as on desktop browsers.</p><p>There is no online version yet (unlike TunnelTilt)</p>",
      "tags": [ "html5", "client", "bb10", "playbook", "webgl", "webworks" ]
  },
+ "persistentobjects": {
+     "desc": "How to create/load/write/update a persistent object",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/persistentobjects",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "storage", "persistent" ]
+ },
  "photobomber": {
      "desc": "Camera App",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/photobomber",
@@ -1286,6 +1369,14 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "pim", "contact" ]
+ },
+ "PjsipDemo": {
+     "desc": "Demonstration of how to build, include and use PJSIP in a Cascades project",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/bb10-pjsipdemo",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>Currently a very simple application but contains bash scripts for building PJSIP for BB10</p><p>Building PJSIP has to be done on Linux/Mac but the resulting files can be overlayed on the SDK of any platform</p>",
+     "tags": [ "native", "cascades", "client", "pjsip", "bb10" ]
  },
  "placepicker": {
      "desc": "How to use the PlacePicker class to select a place from the favorites list, map lookup or an online search",
@@ -1659,6 +1750,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "client", "bb10", "cascades" ]
  },
+ "RotationCamera": {
+     "desc": "A demonstration of how to handle camera rotation",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/RotationCamera",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>RotationCamera is a modified version of HelloVideoCamera with the added capability of being able to handle navigator orientation events.  Care is given to illustrate how to handle reorienting the camera images whether using the front or rear-facing camera, and whether recording video or simply displaying the viewfinder.  Future platform capabilities are also accounted for in this code, so it should be relatively future-proof.  This is a tricky topic, so there is plenty of in-line documentation both in the code, and in the readme.</p>",
+     "tags": [ "native", "cascades", "client", "camera", "bb10", "video", "rotation" ]
+ },
  "routemapinvoker": {
      "desc": "How to invoke the map application and configure it to show a certain route between two locations",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/routemapinvoker",
@@ -1690,10 +1789,10 @@
  },
  "SampleBPSANE(AIR,ext,pb)": {
      "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
-     "url": "http://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleBPSANE",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "warning": "need to clarify if this is real, and relocate",
+     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/PlayBookOS/SampleBPSANE",
+     "repo": "Community-APIs-for-AIR",
+     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "warning": "used to be in Samples-for-AIR",
      "tags": [ "air", "client", "playbook", "extension", "ext-air", "sensor" ]
  },
  "SampleBwsClient(C#)": {
@@ -1814,6 +1913,20 @@
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "<p>Note the whitespace embedded in the URL!</p>",
      "tags": [ "java", "client", "location", "bbos"]
+ },
+ "SimplePushClient": {
+     "desc": "A simplified push client that also integrates with the device notifications and application thumbnail view.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SimplePushClient",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "push", "notification", "scenecover","thumbnail"]
+ },
+ "SimplePushServer": {
+     "desc": "A simple push server that runs on BlackBerry 10. Test both sides of push from the same device!",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SimplePushServer",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "push", "server"]
  },
  "simplemap": {
      "desc": "How to display a location on a map control",
@@ -2161,6 +2274,20 @@
      "repourl": "http://github.com/blackberry/Samples-for-Java",
      "note": "Note the white space in the URL",
      "tags": [ "java", "client", "youtube", "bbos" ]
+ },
+ "ExpandableSample": {
+     "desc": "ExpandableSample is a little app showing how to implement custom components to replicate known UI components.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ExpandableSample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "ui", "custom", "qml" ]
+ },
+ "LocalizationSample": {
+     "desc": "How to localize your WebWorks applicaiton on BlackBerry 10",
+     "url": "https://github.com/nmurugesu/BB10-WebWorks-Samples/tree/master/Localization",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "localization", "internationalization" ]
  }
 }
 
