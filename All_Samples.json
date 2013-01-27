@@ -179,7 +179,7 @@
      "tags": [ "html5", "webworks", "bb10", "phonegap", "cordova" ]
  },
  "BB10-Look-And-Feel": {
-     "desc": "demonstrates how to achieve a BlackBerry 10 "Looks and Feel" from an HTML5 app using PhoneGap",
+     "desc": "demonstrates how to achieve a BlackBerry 10 'Looks and Feel' from an HTML5 app using PhoneGap",
      "url": "https://github.com/blackberry/Cordova-Samples/tree/master/BB10-Look-And-Feel",
      "repo": "Cordova-Samples",
      "repourl": "http://github.com/blackberry/Cordova-Samples",
