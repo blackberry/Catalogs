@@ -1422,7 +1422,7 @@
      "tags": [ "native", "client", "bb10", "cascades", "javascript", "qml" ]
  },
   "Psychic8": {
-     "desc": "Magic 8 Ball &reg; BBM Integration and Shake To Update sample.",
+     "desc": "Magic 8 Ball&reg; BBM Integration and Shake To Update sample.",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Psychic8",
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
