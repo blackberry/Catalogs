@@ -97,6 +97,13 @@
       "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
       "tags": [ "native", "client", "bb10", "asound", "audio", "record", "playback", "voip" ]
  },
+ "AudioPlayer": {
+      "desc": "Allows you to pick your pre-packaged audio files from a dropdown list",
+      "url": "http://github.com/Cascades-Community-Samples/tree/master/AudioPlayer",
+      "repo": "Cascades-Community-Samples",
+      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+      "tags": [ "native", "client", "bb10", "audio", "playback", "cascades" ]
+ },
  "Aura": {
      "desc": "Shows how to integrate HTML5, Accelerometer and CSS3 into a grahically compelling app",
      "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/Aura",
