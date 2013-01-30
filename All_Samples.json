@@ -244,14 +244,6 @@
      "note": "Cascades is used for the UI; we are planning a rewrite but the sample is useful as-is",
      "tags": [ "native", "bb10", "bbm", "bps" ]
  },
- "bbUI-localstorage(many)": {
-     "desc": "Multiple ways to use localStorage to improve the end-user experience of a WebWorks Application",
-     "url": "https://github.com/blackberry/WebWorks-Community-Samples/tree/master/bbUI-localStorage",
-     "repo": "WebWorks-Community-Samples",
-     "repourl": "http://github.com/blackberry/WebWorks-Community-Samples",
-     "note": "Sample supports BlackBerry Java, BlackBerry PlayBook and BlackBerry 10; BlackBerry 10 specific version is in the BB10-Community-Samples Repo.",
-     "tags": [ "html5", "bb10", "playbook", "localstorage", "bbos" ]
- },
  "BelligerentBlocks": {
      "desc": "Simple Game that uses Scoreloop, 2D graphics, Box2D, SQLite3 and other features",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/BelligerentBlocks",
@@ -1430,12 +1422,12 @@
      "tags": [ "native", "client", "bb10", "cascades", "javascript", "qml" ]
  },
   "Psychic8": {
-     "desc": "Magic 8 Ball™ BBM Integration and Shake To Update sample.",
+     "desc": "Magic 8 Ball&reg; BBM Integration and Shake To Update sample.",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Psychic8",
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbUI", "sensors", "bbm" ]
- }
+ },
  "PullDownToRefresh": {
      "desc": "A standard way to implement pull down to refresh in browser/WebWorks applications in BlackBerry 10 Applications",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/PullDownToRefresh",
@@ -2111,7 +2103,7 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbUI", "system" ]
- }
+ },
  "SystemLog(pb,ext)": {
      "desc": "WebWorks PlayBook extension to write to the BlackBerry System Event Log",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/systemlog",
@@ -2154,7 +2146,7 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbm", "JQuery Mobile" ]
- }
+ },
  "tossgame": {
      "desc": "How to use QtSensors to read values from the proximity sensor",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/tossgame",
@@ -2313,7 +2305,7 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbUI" ]
- }
+ },
  "WindowCovers": {
      "desc": "How to integrate Window Covers into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/WindowCovers",
