@@ -2098,7 +2098,7 @@
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "framework" ]
  },
  "SystemAPIs": {
-     "desc": "Examples of BlackBerry System APIs from https://developer.blackberry.com/html5/apis/blackberry.system.html.",
+     "desc": "Examples of BlackBerry System APIs from the <a href='https://developer.blackberry.com/html5/apis/blackberry.system.html'>developer microsite</a>",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/SystemAPIs",
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
