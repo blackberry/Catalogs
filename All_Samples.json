@@ -1428,6 +1428,13 @@
      "note": "<p>The Poem Maker is a simple application with three lines of text (labels) and a button. Clicking the button will generate a random 'refrigerator' poem</p><p>Among others, the application shows how to use JavaScript functions in QML</p>",
      "tags": [ "native", "client", "bb10", "cascades", "javascript", "qml" ]
  },
+ "PreventSleep(bb10,ext)": {
+     "desc": "WebWorks BB10 extension to prevent the screen from sleeping",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/PreventSleep",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "preventsleep", "ext-bb10" ]
+ },
   "Psychic8": {
      "desc": "Magic 8 Ball&reg; BBM Integration and Shake To Update sample.",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Psychic8",
