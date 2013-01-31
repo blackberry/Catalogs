@@ -1047,6 +1047,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "media", "invocation", "camera", "video", "picture", "file", "system" ]
  },
+ "Memory(bb10,ext)": {
+     "desc": "WebWorks BB10 extension for getting free memory",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/Memory",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "memory", "ext-bb10" ]
+ },
  "messages": {
      "desc": "How to implement a simple messenger application",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/messages",
@@ -2125,6 +2132,20 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "audio" ]
  },
+ "Template(bb10,ext)": {
+     "desc": "WebWorks BB10 extension template",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/Template",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "JSON", "ext-bb10" ]
+ },
+"Thumbnail(bb10,ext)": {
+     "desc": "WebWorks BB10 extension for creating Image Thumbnails",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/thumbnail",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "thumbnail", "image", "ext-bb10" ]
+ },
  "tldr": {
      "desc": "(Too Long; Didn't Read) How to download images from the web in an RSS reader",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/tldr",
@@ -2215,6 +2236,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Samples",
      "warning": "This is obsolete; use bbUI.js instead",
      "tags": [ "html5", "client", "webworks", "bbos" ]
+ },
+ "Unzip(bb10,ext)": {
+     "desc": "WebWorks BB10 extension for unzipping files",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/UNZIP",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "Zip", "UnZip", "ext-bb10" ]
  },
  "UploadDownload(pb,ext)": {
      "desc": "WebWorks PlayBook extension to upload and download files from/to server",
@@ -2337,4 +2365,3 @@
      "tags": [ "html5", "webworks", "bb10", "localization", "internationalization" ]
  }
 }
-
