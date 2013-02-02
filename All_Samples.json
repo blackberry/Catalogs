@@ -2289,6 +2289,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "vibrate", "ext-bbos" ]
  },
+ "Vibration":{
+     "desc": "WebWorks BB10 Smartphone extension to control the device vibration",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/VIBRATION",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "vibration", "bb10" ]
+ }
  "Video-Camera": {
      "desc": "Invoke the PlayBook Video Camera; close an app.",
      "url": "https://github.com/blackberry/WebWorks-Community-Samples/tree/master/Video-Camera",
