@@ -593,6 +593,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "file", "picker", "ext-bbos" ]
  },
+ "FilePickerAndCanvas" : {
+     "desc": "This is a sample designed to show how to actually use the File Picker and images. It contains a custom written memoizing 'extention' for blackberry.io which takes a file name and returns the base64 encoded values of the file for use in an image.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/FilePickerAndCanvas",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "WebWorks", "bb10", "file", "canvas", "image" ]
+ },
  "FileUploader(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to upload files to a server",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/FileUploader",
