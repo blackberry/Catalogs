@@ -46,6 +46,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "pim" ]
  },
+ "AdSample": {
+     "desc": "How to incorporate advertisements in your native application",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/AdSample",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "tags": [ "native", "client", "ads" ]
+ },
  "AdvancedUI": {
      "desc": "Advanced Buttons, Fields and Managers for Java-based BlackBerry Smartphones",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Advanced%20UI",
