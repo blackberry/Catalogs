@@ -556,6 +556,13 @@
      "repourl": "https://github.com/blackberry/WebWorks-Community-Samples",
      "tags": [ "html5", "client", "playbook", "enyo", "webworks"]
  },
+ "eula": {
+     "desc": "This sample provides an easy to use EULA framework that leverages UTF-8 source files and present the appropriate EULA to the end user based on device language.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/eula",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "eula", "bb10", "webworks"]
+ },
   "FaceBook-OAuth-2": {
      "desc": "Integrate Facebook and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/FaceBook-OAuth-2",
