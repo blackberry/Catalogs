@@ -628,6 +628,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "filetransfer", "file" ]
  },
+ "Foursquare-Cards": {
+     "desc": "How to integrate the new Foursquare SDK into a BlackBerry WebWorks application for BlackBerry 10",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Foursquare-Cards",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "foursquare", "bb10", "invoke" ]
+ },
  "Foursquare-OAuth-2": {
      "desc": "Integrate Foursquare and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Foursquare-OAuth-2",
@@ -674,6 +681,13 @@
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "touch", "gesture" ]
+ },
+"Gestures": {
+     "desc": "How to use gestures in WebWorks with the Hammer.js library",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/gestures",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "gestures" ]
  },
  "GLES11Template": {
      "desc": "Template showing how to set up the BPS infrastructure and  OpenGL ES 1.1",
@@ -2139,6 +2153,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Sample application that demonstrates swipemenu.js: A swipe-down menu framework for BlackBerry WebWorks SDK",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "framework" ]
+ },
+"Swipe-Navigation": {
+     "desc": "How to use gestures to navigate different pages in a WebWorks app",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Swipe-Navigation",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "gestures", "hammer.js", "bbui.js", "swipe" ]
  },
  "SystemAPIs": {
      "desc": "Examples of BlackBerry System APIs from the <a href='https://developer.blackberry.com/html5/apis/blackberry.system.html'>developer microsite</a>",
