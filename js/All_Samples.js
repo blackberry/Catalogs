@@ -218,7 +218,7 @@ function parseRepoData(data,
 
     $.each(data, function(key, val) {
 	/* The "_comment_" record is used to document the JSON format */
-	if ( key === "_comment_" ) {
+	if ( key.substring(0, 9) === "_comment_" ) {
 	    return true; /* skip this item */
 	}
 
@@ -402,7 +402,7 @@ $(document).ready(function(){
 	/* Collect tags and repos */
 	$.each(data, function(key, val) {
 	    /* The "_comment_" record is used to document the JSON format */
-	    if ( key === "_comment_" ) {
+	    if ( key.substring(0, 9) === "_comment_" ) {
 		return true; /* skip this item */
 	    }
 	    
