@@ -274,7 +274,7 @@
      "warning": "Enabling sound may cause loss of frames on a BlackBerry PlayBook",
      "tags": [ "html5", "client", "webworks", "bb10", "cocos2d", "cocos2d-html5" ]
  },
- "BrickBreaker": {
+ "_comment_ - BrickBreaker": {
      "desc": "The classic BlackBerry game, reimagined using HTML5 technologies",
      "url": "http://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/BrickBreaker",
      "repo": "BB10-WebWorks-Community-Samples",
