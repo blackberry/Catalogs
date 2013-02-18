@@ -18,6 +18,13 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "accelerometer", "sensor" ]
  },
+ "Accelerometer-Fight": {
+     "desc": "How to use the accelerometer in BlackBerry WebWorks",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Accelerometer-Fight",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "accelerometer", "sensor" ]
+ },
  "accelgame": {
      "desc": "How to use QtSensors to navigate a player through a maze using the acceleration sensor",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/accelgame",
