@@ -2055,6 +2055,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "soap", "xml" ]
  },
+ "socialinvocation": {
+     "desc": "The Social Invocation example demonstrates how to integrate your application with various social networks through the BB10 platform",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/socialinvocation",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "social", "invocation" ]
+ },
  "SocialApp": {
      "desc": "Shows integration with Social Apps like FaceBook, Twitter, etc",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/SocialApp",
