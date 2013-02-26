@@ -2323,6 +2323,13 @@
      "warning": "Work in progress",
      "tags": [ "html5", "client", "playbook", "upload", "download", "extension", "ext-pb" ]
  },
+ "Upload-To-YouTube": {
+     "desc": "A BBM Integrated Sample demonstrating invoking the BlackBerry File Picker and YouTube Video Upload.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Upload-To-Youtube",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "bbm", "bbUI", "invoke" ]
+ },
  "UrbanAirshipClient": {
      "desc": "The UrbanAirship sample client application for BlackBerry 10 written using the Cascades framework",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/UrbanAirshipClient",
