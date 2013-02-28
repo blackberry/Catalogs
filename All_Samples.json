@@ -2270,6 +2270,13 @@
      "note": "<p>Note there is a TitleBar API for BlackBerry OS 6.0 and above</p>",
      "tags": [ "java", "client", "titlebar", "bbos"]
  },
+ "ToneGenerator": {
+      "desc": "A fun demo that demonstrates how to add low-latency audio generation and playback to your native application using the QNX Audio Library APIs in the BlackBerry 10 Native SDK",
+      "url": "https://github.com/Core-Native-Community-Samples/tree/master/ToneGenerator",
+      "repo": "Core-Native-Community-Samples",
+      "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
+      "tags": [ "native", "client", "bb10", "asound", "audio", "low-latency", "playback", "tone","generation","OpenGL" ]
+ },
  "TransportCoverage(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to check availability and coverage of a specic transport",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/TransportCoverage",
