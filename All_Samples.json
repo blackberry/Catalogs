@@ -1931,13 +1931,6 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "screen", "keyboard", "ext-bbos" ]
  },
- "Screen(bb10,ext)": {
-     "desc": "WebWorks BB10 extension to set the Wallpaper and potentially other features",
-     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/screen",
-     "repo": "WebWorks-Community-APIs",
-     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bb10", "extension", "screen", "ext-bb10" ]
- },
  "ScreenTemplate": {
      "desc": "Template you can use to set your application to start using the BPS infrastructure",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/ScreenTemplate",
