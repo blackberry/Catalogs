@@ -2405,6 +2405,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbUI" ]
  },
+ "webmapview": {
+     "desc": "Lets the user browse maps from different providers (Google, Bing and OpenLayers).",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/webmapview",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "mapview", "map", "pins" ]
+ },
  "WindowCovers": {
      "desc": "How to integrate Window Covers into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/WindowCovers",
