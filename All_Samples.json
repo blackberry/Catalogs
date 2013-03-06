@@ -1050,7 +1050,7 @@
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/LocationPicker",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bbos", "extension", "location", "picker", "ext-bbos" ]
+     "tags": [ "html5", "client", "bbos", "extension", "location", "picker", "ext-bbos", "map" ]
  },
  "LogExceptionSample": {
      "desc": "How to handle an exception, log it, and display meaningful data back to the user",
@@ -1444,7 +1444,7 @@
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/placepicker",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "tags": [ "native", "client", "bb10", "cascades", "place", "picker" ]
+     "tags": [ "native", "client", "bb10", "cascades", "place", "picker", "map" ]
  },
  "PlayAudio": {
      "desc": "How to play an MP3 file",
