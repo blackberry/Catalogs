@@ -2196,6 +2196,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "audio" ]
  },
+  "TabAppMenu": {
+     "desc": "Cascades app menu - Shows correct usage of following Cascades components together: TabbedPane, Tab, Application Menu, Sheet, NavigationPane",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/TabAppMenu",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "This is a simple Cascades sample app for developers only.\n The purpose of this app is to demonstrate how to correctly use the following Cascades components together in one app: TabbedPane, Tab, Application Menu, Sheet, NavigationPane.\n This github sample app is also accompanied by the devblog post here: http://devblog.blackberry.com/2013/03/blackberry-10-app-menu/",
+     "tags": [ "cascades", "native", "bb10", "menu", "tabbedpane", "sheet", "navigationpane", "tab" ]
+ },
  "Template(bb10,ext)": {
      "desc": "WebWorks BB10 extension template",
      "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/Template",
