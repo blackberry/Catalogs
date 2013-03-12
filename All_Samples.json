@@ -737,6 +737,13 @@
      "note": "<p>This sample features best practices on how to properly structure the Open GL code and link it with Cascades.</p><p>The sample shows how to leverage Actions and the use of NavigatorPanes for multiple panels, as well as how to process touch events and use them to control a 3D scene rendered in OpenGL, using Qt objects and JavaScript</p>",
      "tags": [ "native", "cascades", "client", "opengl", "bb10" ]
  },
+ "gseCrypto(bb10,ext)": {
+     "desc": "WebWorks BlackBerry 10 extension to access cryptographic API",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/gseCrypto",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "bb10", "crypto", "gse", "certicom", "extension", "ext-bb10" ]
+ },
  "HelloCamera": {
      "desc": "Sets up a Cascades foreign window and connects a Camera Viewfinder to it",
      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCamera",
