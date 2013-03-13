@@ -1982,6 +1982,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "card", "invocation" ]
  },
+ "ShareFile": {
+     "desc": "How to use the Share a File from QML",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ShareFile",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "share", "file" ]
+ },
  "ShareTargets": {
      "desc": "Shows how to invoke Share Targets (aka. Share Cards) in BlackBerry WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/ShareTargets",
