@@ -456,6 +456,14 @@
      "note": "Also see Qt and QtNFCSubset",
      "tags": [ "native", "bb10", "Qt", "port", "location" ]
  },
+ "QTweetLib": {
+     "desc": "Changes to Toni Jovanoski's modular library supporting Twitter 1.1 API",
+     "url": "https://github.com/blackberry/QTweetLib",
+     "type": "native",
+     "branches": ["master"],
+     "portinfo": "This code is a modification of Toni Jovanoski's (minimoog) QTweetLib. Changes include support for Tweeter 1.1 API and some factoring",
+     "tags": [ "native", "bb10", "Qt", "tweeter" ]
+ },
  "Qt2Cascades-Samples": {
      "desc": "Port of Samples from Qt documentation to use Cascades",
      "url": "http://github.com/blackberry/Qt2Cascades-Samples",
