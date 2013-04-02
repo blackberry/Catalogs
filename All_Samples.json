@@ -259,6 +259,13 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "scoreloop", "graphics", "box2d", "sqlite" ]
  },
+ "bluetoothgatt": {
+     "desc": "Retrieval of information from Bluetooth devices that offer the low-energy profile.",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/bluetoothgatt",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "bb10", "bluetooth", "Qt", "cascades" ]
+ },
  "bluetoothsppchat": {
      "desc": "Auto discoverability of other Bluetooth devices within range and chatting via SPP",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/bluetoothsppchat",
