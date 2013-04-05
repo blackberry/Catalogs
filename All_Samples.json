@@ -577,6 +577,13 @@
      "repourl": "https://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "eula", "bb10", "webworks"]
  },
+  "EXIF Data Reader": {
+     "desc": "How to read the EXIF data from an image, and rotate it accordingly",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/EXIF-Data-Reader",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "webworks", "exif", "bb10", "canvas" ]
+ },
   "FaceBook-OAuth-2": {
      "desc": "Integrate Facebook and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/FaceBook-OAuth-2",
