@@ -183,6 +183,13 @@
      "note": "Invokes ZXing directly",
      "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation", "zxing"]
  },
+ "BarcodeScanner": {
+     "desc": "BB10 WebWorks Extension for scanning Barcodes",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/BarcodeScanner",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "zxing", "barcode", "qrcode", "extension", "ext-bb10" ]
+ },
  "batterysample": {
      "desc": "A battery display app from a radio group and an image",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/batterysample",
