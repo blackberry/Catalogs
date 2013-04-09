@@ -765,6 +765,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "bb10", "crypto", "gse", "certicom", "extension", "ext-bb10" ]
  },
+ "HeartMonitor": {
+     "desc": "A Bluetooth Low Energy Heart Rate Monitor application",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HeartMonitor",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to use selected BlackBerry 10 Bluetooth Low Energy APIs in the context of a practical real-world use case.</p><p>The use case examines how to interface to a Bluetooth Low Energy Heart Rate Monitor device in order to acquire and display data from the device. The application uses the standard Heart Rate Service as specificied by the Bluetooth SIG enabling it to interwork with any Bluetooth Smart device that implements this profile.</p>",
+     "tags": [ "native", "cascades", "client", "bluetooth", "bb10" ]
+ },
  "HelloCamera": {
      "desc": "Sets up a Cascades foreign window and connects a Camera Viewfinder to it",
      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/HelloCamera",
