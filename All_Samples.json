@@ -160,9 +160,9 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "barcode", "ext-bbos" ]
  },
- "barcodeinvoker": {
+ "custombarcodeinvoker": {
      "desc": "A page that shows how to invoke the Barcode Scanner card",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodeinvoker",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/custombarcodeinvoker",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "barcode", "invocation"]
@@ -175,9 +175,9 @@
      "note": "Invokes scanner library through Cascades API",
      "tags": [ "native", "client", "bb10", "cascades", "barcode"]
  },
- "barcodescanner": {
+ "custombarcodescanner": {
      "desc": "A Barcode Scanner card",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/barcodescanner",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/custombarcodescanner",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "note": "Invokes ZXing directly",
