@@ -68,6 +68,13 @@
      "note": "<p>More details on the functionality in this <a href='http://supportforums.blackberry.com/t5/Java-Development/Implement-advanced-buttons-fields-and-managers/ta-p/488276'>DevZone Article</a></p><p>Note the whitespace in the URL to the sample</p>",
      "tags": [ "java", "client", "analytics", "bbos" ]
  },
+ "advertising": {
+     "desc": "Community sample implementation of Mocean Ad service in a WebWorks application.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/advertising",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "webworks", "advertising", "mocean", "community" ]
+ },
  "Analytics": {
      "desc": "Sample from the Analytics SDK",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Analytics",
