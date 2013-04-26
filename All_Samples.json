@@ -310,6 +310,14 @@
      "warning": "Enabling sound may cause loss of frames on a BlackBerry PlayBook",
      "tags": [ "html5", "client", "webworks", "bb10", "playbook" ]
  },
+ "BtLeFindMe": {
+     "desc": "A Bluetooth Low Energy Lost Keys Finder application",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BtLeFindMe",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to use selected BlackBerry 10 Bluetooth Low Energy APIs in the context of a practical real-world use case.</p><p>The use case examines how to interface to a Bluetooth Low Energy device that will, on demand, issue alerts in the form of audible beeps and flashing LEDs. Think of a key fob that that can be activated from your BlackBerry 10 device to allow it to be found again easily.</p><p>The application uses the standard Find Me Profile (<a href="http://developer.bluetooth.org/TechnologyOverview/Pages/FMP.aspx">overview available here</a>) as specified by the Bluetooth SIG enabling it to interwork with any Bluetooth Smart device that implements this profile.</p>"
+     "tags": [ "native", "cascades", "client", "bluetooth", "bb10" ]
+ },
  "bucketlist": {
      "desc": "Multi-Select",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/bucketlist",
