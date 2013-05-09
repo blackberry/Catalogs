@@ -692,6 +692,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Also see the <a href='https://github.com/blackberry/bb-cascades-oauth'>bb-cascades-oauth</a> repo",
      "tags": [ "native", "facebook", "bb10", "oauth", "foursquare" ]
+ },,
+ "FreemiumSampleApp": {
+     "desc": "This sample demonstrates one possible implementation of a freemium business model. The game mocked up in this sample, \"BYO UFO\", allows users to purchase various upgrades to their UFO as well as remove adverts from the application.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/FreemiumSampleApp",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "payment", "bb10", "iap", "QML" ]
  },
  "FunWithSensors": {
      "desc": "How to activate and listen to the sensors in the device",
