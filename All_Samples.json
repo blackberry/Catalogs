@@ -41,7 +41,7 @@
  },
  "ActiveFrameSample(AIR,bb10)": {
      "desc": "How to create an Active Frame when your App is minimized",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/ActiveFrameApp",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/ActiveFrameSample",
      "repo": "Samples-for-AIR",
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "tags": [ "air", "client", "bb10", "activeframe" ]
@@ -106,21 +106,21 @@
  },
  "AudioLoopBackSample": {
       "desc": "Demonstrates how to record and playback audio simultaneously (Full Duplex) using the Audio Library APIs as part of the BlackBerry 10 Native SDK",
-      "url": "https://github.com/Core-Native-Community-Samples/tree/master/AudioLoopBackSample",
+      "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/AudioLoopBackSample",
       "repo": "Core-Native-Community-Samples",
       "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
       "tags": [ "native", "client", "bb10", "asound", "audio", "record", "playback", "voip" ]
  },
  "AudioLoopBackSampleToFile": {
       "desc": "Demonstrates how to record and playback audio simultaneously and designed to easily plug into a VoIP application for encoding/decoding the audio stream",
-      "url": "https://github.com/Core-Native-Community-Samples/tree/master/AudioLoopBackSampleToFile",
+      "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/AudioLoopBackSampleToFile",
       "repo": "Core-Native-Community-Samples",
       "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
       "tags": [ "native", "client", "bb10", "asound", "audio", "record", "playback", "voip" ]
  },
  "AudioPlayer": {
       "desc": "Allows you to pick your pre-packaged audio files from a dropdown list",
-      "url": "http://github.com/Cascades-Community-Samples/tree/master/AudioPlayer",
+      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/AudioPlayer",
       "repo": "Cascades-Community-Samples",
       "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
       "tags": [ "native", "client", "bb10", "audio", "playback", "cascades" ]
@@ -378,7 +378,7 @@
  },
  "CascadesBasicSample": {
      "desc": "Demonstrates the use of signal / slot between QML and C++",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesBasicSample",
+     "url": "https://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesBasicSample",
      "repo": "Cascades-Samples",
      "note": "Learning Trail: HelloCascades &rarr; CascadesBasicSample &rarr; GoodCitizenCascades",
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
@@ -403,7 +403,7 @@
  },
  "CascadesOpenGL": {
      "desc": "Simple demonstration on how to use OpenGL in a ForeignWindow",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesOpenGL",
+     "url": "https://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesOpenGL",
      "repo": "Cascades-Samples",
      "note": "Learning Trail: HelloCascades &rarr; CascadesBasicSample &rarr; GoodCitizenCascades",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
@@ -695,7 +695,7 @@
  },
  "FunWithSensors": {
      "desc": "How to activate and listen to the sensors in the device",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/FunWithSensors",
+     "url": "https://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/FunWithSensors",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
@@ -914,7 +914,7 @@
  },
  "Internationalization": {
      "desc": "How to use the built-in Internationalization engine to deliver your app in multiple languages",
-     "url": "http://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Internationalization",
+     "url": "https://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Internationalization",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
@@ -1363,7 +1363,7 @@
  },
  "OpenDataSpace-BBJava": {
      "desc": "The OpenSource Edition of the java-based client for SSP Europe's SecureDataSpace",
-     "url": "http://github.com/blackberry/opendataspace-bbjava",
+     "url": "https://github.com/blackberry/opendataspace-bbjava/tree/master/",
      "repo": "OpenDataSpace-BBJava",
      "repourl": "http://github.com/blackberry/opendataspace-bbjava",
      "note": "<p>This is a production-ready application</p><p>This project is led by SPP Europe</p>",
@@ -1371,7 +1371,7 @@
  },
  "OpenDataSpace-Cascades": {
      "desc": "The OpenSource Edition of the Cascades-based client for SSP Europe's SecureDataSpace",
-     "url": "http://github.com/blackberry/opendataspace-cascades",
+     "url": "https://github.com/blackberry/opendataspace-cascades/tree/master/",
      "repo": "OpenDataSpace-Cascades",
      "repourl": "http://github.com/blackberry/opendataspace-cascades",
      "note": "<p>This is a production-ready application</p><p>This project is led by SPP Europe</p>",
@@ -1469,7 +1469,7 @@
  },
  "PictureWall": {
      "desc": "Control a collection of BlackBerry PlayBooks to display one or more images",
-     "url": "https://github.com/blackberry/PictureWall",
+     "url": "https://github.com/blackberry/PictureWall/tree/master/",
      "repo": "PictureWall",
      "repourl": "http://github.com/blackberry/PictureWall",
      "note": "<p>Uses socket.io on the client and nodeJS on the server</p><p>Should run on BB10</p>",
@@ -1575,7 +1575,7 @@
  },
  "PushSampleApp(AIR,bb10)": {
      "desc": "A BlackBerry 10 Adobe AIR App that can receive Push Events",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/PushSampleApp",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/PushSampleApp",
      "repo": "Samples-for-AIR",
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "tags": [ "air", "client", "bb10", "push" ]
@@ -2338,7 +2338,7 @@
  },
  "ToneGenerator": {
       "desc": "A fun demo that demonstrates how to add low-latency audio generation and playback to your native application using the QNX Audio Library APIs in the BlackBerry 10 Native SDK",
-      "url": "https://github.com/Core-Native-Community-Samples/tree/master/ToneGenerator",
+      "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/ToneGenerator",
       "repo": "Core-Native-Community-Samples",
       "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
       "tags": [ "native", "client", "bb10", "asound", "audio", "low-latency", "playback", "tone","generation","OpenGL" ]
