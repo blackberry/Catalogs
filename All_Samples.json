@@ -2542,5 +2542,20 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "localization", "internationalization" ]
+ },
+ "BBM ANE(AIR,ext,bb10)": {
+     "desc": "The BBM AIR Native Extension allows AIR developers to interact with the BBM Social Platform native APIs.",
+     "url": "https://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/bbm",
+     "repo": "Community-APIs-for-AIR",
+     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+     "note": "See the (AIR,ext,pb) entry",
+     "tags": [ "air", "BBM", "bb10", "extension", "ext-air" ]
+ },
+ "AIR Built For BlackBerry App Framework(AIR,bb10)": {
+     "desc": "The BlackBerry 10 Experience App Framework for AIR, is a application framework that makes it easy to create applications that follow the UI Guidelines.",
+     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/appframework",
+     "repo": "Samples-for-AIR",
+     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+     "tags": [ "air", "client", "bb10", "framework" ]
  }
 }
