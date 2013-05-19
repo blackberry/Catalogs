@@ -2139,7 +2139,7 @@
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/socialinvocation",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "tags": [ "native", "cascades", "bb10", "social", "invocation" ]
+     "tags": [ "native", "cascades", "bb10", "social", "invocation", "foursquare", "twitter", "facebook", "linkedin" ]
  },
  "SocialApp": {
      "desc": "Shows integration with Social Apps like FaceBook, Twitter, etc",
