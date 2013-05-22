@@ -167,6 +167,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "barcode", "ext-bbos" ]
  },
+"Built-For-BlackBerry(Cordova)": {
+     "desc": "A boilerplate of a Built For BlackBerry app using Cordova.",
+     "url": "https://github.com/blackberry/Cordova-Samples/tree/master/Built-For-BlackBerry",
+     "repo": "Cordova-Samples",
+     "repourl": "http://github.com/blackberry/Cordova-Samples",
+     "tags": [ "html5", "webworks", "cordova", "phonegap", "bb10", "bfb", "built for blackberry" ]
+ },
 "Built-For-BlackBerry(WebWorks)": {
      "desc": "A boilerplate of a Built For BlackBerry app.",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Built-For-BlackBerry",
