@@ -383,6 +383,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "filesystem", "canvas" ]
  },
+ "CascadesLibraryTemplate": {
+     "desc": "Template and sample for building Cascades and Qt libraries with momentics and qmake",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/Cascades-Library-Template",
+     "repo": "Cascades-Community-Samples",
+     "note": "Based on the BBLive 2013 Build and Packaging Session",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "cascades", "bb10", "Qt" ]
+ },
  "CascadesBasicSample": {
      "desc": "Demonstrates the use of signal / slot between QML and C++",
      "url": "https://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/CascadesBasicSample",
