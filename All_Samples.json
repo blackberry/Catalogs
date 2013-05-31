@@ -2033,6 +2033,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "screen", "keyboard", "ext-bbos" ]
  },
+ "ScreenDisplay": {
+     "desc": "BB10 WebWorks Extension for calculating Screen pixel data",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/ScreenDisplay",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "screen", "pixel", "extension", "ext-bb10" ]
+ },
  "ScreenTemplate": {
      "desc": "Template you can use to set your application to start using the BPS infrastructure",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/ScreenTemplate",
