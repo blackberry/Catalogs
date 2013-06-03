@@ -2063,6 +2063,13 @@
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "sensor", "flotr2" ]
  },
+ "ServerNotify": {
+     "desc": "Demonstrates how to implement a BlackBerry Enterprise Push client and server application in Cascades.",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/ServerNotify",
+     "repo": "BES10-Cascades",
+     "repourl": "http://github.com/blackberry/BES10-Cascades",
+     "tags": [ "enterprise", "native", "client", "server", "bb10", "cascades", "push", "bes", "mds" ]
+ },
  "SetWallpaper": {
      "desc": "How to set the wallpaper in a BlackBerry 10 device using WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/SetWallpaper",
@@ -2112,6 +2119,13 @@
      "repo": "Cascades-Community-Samples",
      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "cascades", "push", "server"]
+ },
+ "SimplePushTest": {
+     "desc": "Demonstrates how to implement a BlackBerry Enterprise Push WebWorks client and server application.",
+     "url": "https://github.com/blackberry/BES10-WebWorks/tree/master/SimplePushTest",
+     "repo": "BES10-WebWorks",
+     "repourl": "http://github.com/blackberry/BES10-WebWorkss",
+     "tags": [ "enterprise", "webworks", "client", "bb10", "html5", "push", "bes", "mds", "server"]
  },
  "simplemap": {
      "desc": "How to display a location on a map control",
