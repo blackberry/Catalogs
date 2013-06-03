@@ -2602,5 +2602,12 @@
      "repo": "Samples-for-AIR",
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "tags": [ "air", "client", "bb10", "framework" ]
+ },
+ "ExtendedSearchSample": {
+     "desc": "ExtendedSearchSample is a quick app that shows you how to integrate your app with the built in Search app.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ExtendedSearchSample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "search", "invocation", "integration" ]
  }
 }
