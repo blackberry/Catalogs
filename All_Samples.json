@@ -1095,6 +1095,14 @@
      "note": "<p>Add images to a UI, use layouts and add a slider attached to it.</p><p>Do this in QML</p>",
      "tags": [ "native", "client", "bb10", "cascades", "qml", "events" ]
  },
+ "ListGroupData": {
+     "desc": "Example of runtime manipulation of GroupDataModel",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ListGroupData",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>Provides concrete examples for the manipulation of GroupDataModel from QML, demonstrated through a series of ActionItems.</p>",
+     "tags": [ "native", "bb10", "cascades", "qml", "list", "datamodel" ]
+ }, 
  "LLCPDemo": {
      "desc": "Shows how to transfer data between two NFC-enabled BlackBerry Smartphones using the NFC Logical Link Control Protocol",
      "url": "http://github.com/blackberry/Samples-for-Java/tree/master/NFC/LLCPDemo",
