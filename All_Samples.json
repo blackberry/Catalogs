@@ -587,8 +587,15 @@
      "note": "Also see the version for BBOS",
      "tags": [ "html5", "client", "webworks", "dojo", "bb10"]
  },
- "ECL": {
-     "desc": "Simple Emergency Contact List application demonstrating Enterprise Push.",
+ "ECL (html5)": {
+     "desc": "Sample HTML5 Emergency Contact List application demonstrating Enterprise Push.",
+     "url": "https://github.com/blackberry/BES10-WebWorks/tree/master/ECL",
+     "repo": "BES10-WebWorks",
+     "repourl": "http://github.com/blackberry/BES10-WebWorks",
+     "tags": [ "enterprise", "native", "client", "server", "bb10", "ecl", "webworks", "html5", "push", "bes", "mds" ]
+ },
+ "ECL(native)": {
+     "desc": "Sample Native Emergency Contact List application demonstrating Enterprise Push.",
      "url": "https://github.com/blackberry/BES10-Cascades/tree/master/ECL",
      "repo": "BES10-Cascades",
      "repourl": "http://github.com/blackberry/BES10-Cascades",
