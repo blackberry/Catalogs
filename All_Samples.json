@@ -1258,9 +1258,30 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "nfc", "ext-bbos" ]
  },
- "nfcdemo": {
-     "desc": "Shows how to exchange content, such as messages or files, with another NFC enabled device, or just how to read NFC tags",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/nfcdemo",
+ "nfcmacaddress": {
+     "desc": "The NFC MAC address example displays the MAC address of the sender device when receiving data via NFC",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/nfcmacaddress",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
+ },
+ "nfcreceiver": {
+     "desc": "The NFC Receiver example allows the user to simply read data from NFC tags.",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/nfcreceiver",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
+ },
+ "nfcsender": {
+     "desc": "The NFC Sender example allows a user to send content to another NFC enabled device.",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/nfcsender",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
+ },
+ "nfcshare": {
+     "desc": "The NFC Share example allows a user to exchange content, such as messages or files with another NFC enabled device.",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/nfcshare",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
