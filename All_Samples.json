@@ -2658,5 +2658,12 @@
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "cascades", "search", "invocation", "integration" ]
+ },
+ "ExtendedSearch WebWorks Sample": {
+     "desc": "This is a quick app that shows you how to integrate your WebWorks app with the built in Search app.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Extended%20Search",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "search", "invocation", "integration" ]
  }
 }
