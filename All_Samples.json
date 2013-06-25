@@ -2665,5 +2665,12 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "search", "invocation", "integration" ]
+ },
+ "QtFont Sample": {
+     "desc": "This sample Qt application shows you all available Qt fonts in the system.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/QtFonts",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "cascades", "fonts", "Qt"]
  }
 }
