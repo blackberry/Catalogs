@@ -96,6 +96,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "script", "tool", "bbos", "bb10", "tablet" ]
  },
+ "AudioAccessory": {
+     "desc": "Demonstrates how to use the BlackBerry 10 audio jack to transfer data",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/AudioAccessory",
+     "repo": "Cascades-Community-SamplesCascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to use selected BlackBerry 10 Audio APIs in the context of a practical real-world use case which examines how to interface to an external device that is connected via the BlackBerry 10 Audio Jack. This mechanism for connecting accessories is used by a number of vendors in the marketplace as an alternative to Bluetooth Low Energy, WiFi or NFC and this example examines the points you need to consider when taking this approach.</p>",
+     "tags": [ "native", "cascades", "client", "audio", "bb10" ]
+ },
  "AudioControl": {
      "desc": "Determine audio control settings",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/AudioControl",
