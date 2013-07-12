@@ -258,6 +258,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "bb10", "bbm", "bps" ]
  },
+ "bbmcontacts": {
+     "desc": "Qt-based sample to register an app with the BlackBerry Messenger Social Platform and read the user's Contacts",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/bbmcontacts",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
+ },
  "bbminvitetodownload": {
      "desc": "Qt-based sample to register an app with the BlackBerry Messenger Social Platform and invite a contact to download the application",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/bbminvitetodownload",
@@ -323,6 +330,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "warning": "Enabling sound may cause loss of frames on a BlackBerry PlayBook",
      "tags": [ "html5", "client", "webworks", "bb10", "cocos2d", "cocos2d-html5" ]
+ },
+ "bpstoqml": {
+     "desc": "Qt-based sample to show how the AbstractBpsEventHandler interface can be extended to receive BPS events without needing to create a separate thread",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/bpstoqml",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "bb10", "bps", "Qt", "cascades" ]
  },
  "_comment_ - BrickBreaker": {
      "desc": "The classic BlackBerry game, reimagined using HTML5 technologies",
