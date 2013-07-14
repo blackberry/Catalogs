@@ -1206,6 +1206,13 @@
      "warning": "Not yet updated to the beta 3 APIs; may move to Cascades-Community-Samples. Temporarily in branch of BlackBerry-core repo",
      "tags": [ "native", "cascades", "bb10", "logging" ]
  },
+ "LowLatencyAudio(bb10,ext)": {
+     "desc": "WebWorks BB10 extension for low latency audio using Apache Cordova",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/LowLatencyAudio",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "audio", "cordova", "ext-bb10" ]
+ },
  "MailAttachment(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to send an email with an attachment",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/MailAttachment",
