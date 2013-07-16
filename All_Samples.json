@@ -1213,6 +1213,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "audio", "cordova", "ext-bb10" ]
  },
+ "LowLatencySequencer": {
+     "desc": "Cordova sample for BlackBerry 10 showing usage of LowLatencyAudio plugin.",
+     "url": "https://github.com/blackberry/Cordova-Samples/tree/master/LowLatencySequencer",
+     "repo": "Cordova-Samples",
+     "repourl": "https://github.com/blackberry/Cordova-Samples",
+     "tags": [ "html5", "audio", "bb10", "cordova", "sequencer" ]
+ },
  "MailAttachment(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to send an email with an attachment",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/MailAttachment",
