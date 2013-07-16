@@ -744,6 +744,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "filetransfer", "file" ]
  },
+ "Flurry(WebWorks)": {
+     "desc": "How to integrate Flurry Analytics in to a WebWorks app.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Flurry",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "analytics", "flurry" ]
+ },
  "Foursquare-Cards": {
      "desc": "How to integrate the new Foursquare SDK into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Foursquare-Cards",
