@@ -732,17 +732,17 @@
  },
  "FileTransfer": {
      "desc": "Sample applications that demonstrate how to use the blackberry.io and blackberry.io.filetransfer APIs",
-     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/FlurryAnalyticsSample",
-     "repo": "Cascades-Community-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "tags": [ "Cascades", "analytics", "Flurry", "platform services" ]
- },
- "FlurryAnalyticsSample": {
-     "desc": "Learn how to integrate Flurry Analytics into your application using this sample application!",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/fileTransfer",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "client", "playbook", "bb10", "webworks", "filetransfer", "file" ]
+ },
+ "FlurryAnalyticsSample": {
+     "desc": "Learn how to integrate Flurry Analytics into your application using this sample application!",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/FlurryAnalyticsSample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "Cascades", "analytics", "Flurry", "platform services" ]
  },
  "Flurry(WebWorks)": {
      "desc": "How to integrate Flurry Analytics in to a WebWorks app.",
