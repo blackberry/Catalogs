@@ -251,6 +251,13 @@
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbm" ]
  },
+ "BBM Carousel Sample": {
+     "desc": "Sample BBM app that invokes available features in the work perimeter",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/BBM Carousel",
+     "repo": "BES10-Cascades",
+     "repourl": "http://github.com/blackberry/BES10-Cascades",
+     "tags": [ "enterprise", "native", "BBM", "Invocation", "bb10", "Carousel", "cascades", "bes"]
+ },
  "BBMbpsRegistration": {
      "desc": "Demonstrates registering with the BlackBerry Messenger Social Platform using the C BlackBerry Platform Service APIs",
      "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMbpsRegistration",
