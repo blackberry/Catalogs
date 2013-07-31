@@ -2264,6 +2264,22 @@
      "note": "Written using Beta 3. This sample shows how the AbstractBpsEventHandler interface can be extended to receive BPS events without needing to create a separate thread. These events are then made accessible to the QML layer by creating and registering a C++ class, BPSMonitor, so it is known to QML",
      "tags": [ "native", "client", "bps", "bb10", "qml", "cascades", "accelerometer", "gps" ]
  },
+ "SmsMessageService": {
+     "desc": "Illustrates sending and receiving user directed SMS messages and how to receive and process delivery receipts",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/SmsMessageService",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Illustrates sending and receiving user directed SMS messages and how to receive and process delivery receipts",
+     "tags": [ "native", "client", "sms", "bb10", "qml", "cascades" ]
+ },
+ "SmsPortDirected": {
+     "desc": "Illustrates sending and receiving port directed SMS messages",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/SmsPortDirected",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "Illustrates sending and receiving port directed SMS messages",
+     "tags": [ "native", "client", "sms", "bb10", "qml", "cascades" ]
+ },
  "ScrollableLists": {
      "desc": "A UI that scrolls horizontally in Cascades",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/ScrollableLists",
