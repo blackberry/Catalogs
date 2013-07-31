@@ -75,6 +75,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "webworks", "advertising", "mocean", "community" ]
  },
+ "AESCryptoDemo": {
+     "desc": "Shows how to use the Certicom library and contexts - in particular the AES cipher - from Cascades/Qt",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/AESCryptoDemo",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "crypto", "aes", "certicom", "bb10", "qt", "cascades" ]
+ },
  "Analytics": {
      "desc": "Sample from the Analytics SDK",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Analytics",
