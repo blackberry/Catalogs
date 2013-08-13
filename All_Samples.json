@@ -968,6 +968,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbUI" ]
  },
+  "HomegrownAdNet": {
+     "desc": "This sample allows you to advertise whatever you would like within your app! It has built-in support for web sites as well as the ability to launch BlackBerry World directly to a specified app.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/HomegrownAdNet",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "Cascades", "advertise", "monetize"]
+ },
  "HttpProxy": {
      "desc": "Retrieve the proxy information of the device, and query a URL",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/HttpProxy",
