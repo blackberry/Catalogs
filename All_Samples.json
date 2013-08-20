@@ -2759,5 +2759,12 @@
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "cascades", "fonts", "Qt"]
+ },
+  "SpaceGame": {
+      "desc": "SpaceGame is a space shooting game created as part of the blog tutorial on creating a complete game for BlackBerry 10 step by step",
+      "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/SpaceGame",
+      "repo": "Core-Native-Community-Samples",
+      "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
+      "tags": [ "native", "bb10", "game", "cocos2d-x" ]
  }
 }
