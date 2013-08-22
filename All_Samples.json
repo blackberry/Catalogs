@@ -323,6 +323,14 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "scoreloop", "graphics", "box2d", "sqlite" ]
  },
+ "blackberry10(Construct2)": {
+     "desc": "BlackBerry 10 plugin for Construct 2",
+     "url": "https://github.com/blackberry/Construct2Plugins/tree/master/blackberry10",
+     "repo": "Construct2Plugins",
+     "repourl": "https://github.com/blackberry/Construct2Plugins",
+     "note": "For Hello World sample showing usage, please refer to the CAPX file at the repository root.",
+     "tags": [ "html5", "bb10", "construct2", "webworks" ]
+ },
  "bluetoothgatt": {
      "desc": "Retrieval of information from Bluetooth devices that offer the low-energy profile.",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/bluetoothgatt",
