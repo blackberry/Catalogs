@@ -2119,7 +2119,7 @@
  },
  "ScoreloopIntegrationSample": {
      "desc": "Integration of Scoreloop with the BPS event system",
-     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.0.09/ScoreloopIntegrationSample",
+     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/CoreNative",
      "repo": "Scoreloop-Samples",
      "repourl": "http://github.com/blackberry/Scoreloop-Samples",
      "note": "<p>Two variations, with Makefile and Managed by IDE, showing integration of Scoreloop with a native App</p>",
@@ -2127,11 +2127,19 @@
  },
  "scoreloopintegrationsample(Cascades)": {
      "desc": "Integration of Scoreloop with the BPS event system for Cascades Applications",
-     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.0.09/ScoreloopIntegrationSample/ScoreloopIntegrationSampleCascades",
+     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/Cascades",
      "repo": "Scoreloop-Samples",
      "repourl": "http://github.com/blackberry/Scoreloop-Samples",
      "note": "<p>Variant to use for Applications written using the Cascades framework</p>",
      "tags": [ "native", "client", "cascades", "bb10", "scoreloop"]
+ },
+  "scoreloopintegrationsample(Cocos2d-x)": {
+     "desc": "Integration of Scoreloop with the BPS event system for Cocos2d-x Applications",
+     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/Cocos2d-x",
+     "repo": "Scoreloop-Samples",
+     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
+     "note": "<p>Variant to use for Applications written using the Cocos2d-x framework</p>",
+     "tags": [ "native", "client", "cocos2d-x", "bb10", "scoreloop"]
  },
  "scratchpad": {
      "desc": "How to use QImage and QPainter to prepare a cascades::Image",
