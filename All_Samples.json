@@ -2695,6 +2695,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbUI" ]
  },
+ "WebWorksWeather": {
+     "desc": "A Built for BlackBerry sample app, using bbUI, HTML5 Local Storage, BBM Integration and other services",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/WebWorksWeather",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "bbUI", "toast", "activeframe", "windowcover", "bbm", "local storage", "LBS" ]
+ },
  "webmapview": {
      "desc": "Lets the user browse maps from different providers (Google, Bing and OpenLayers).",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/webmapview",
