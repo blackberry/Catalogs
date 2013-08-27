@@ -2781,5 +2781,19 @@
       "repo": "Core-Native-Community-Samples",
       "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
       "tags": [ "native", "bb10", "game", "cocos2d-x" ]
+ },
+ "xandos": {
+     "desc": "How to launch and communicate with a headless service",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/xandos",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "headless" ]
+ },
+ "xandosdroid": {
+     "desc": "How to create a headless service",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/xandosdroid",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "headlesss" ]
  }
 }
