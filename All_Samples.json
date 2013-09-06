@@ -579,6 +579,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "storage", "sqlite" ]
  },
+ "datamanagerusage": {
+     "desc": "How to use the provided sql query classes to efficiently load large amounts of data into ListView",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/datamanagerusage",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "ListView", "sqlquery" ]
+ },
  "DeviceInfo(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to get information about the device",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/DeviceInfo",
@@ -1174,6 +1181,13 @@
      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>Provides concrete examples for the manipulation of GroupDataModel from QML, demonstrated through a series of ActionItems.</p>",
      "tags": [ "native", "bb10", "cascades", "qml", "list", "datamodel" ]
+ },
+ "listdecorators": {
+     "desc": "How to extend the DataModelDecorator or the DataQueryDecorator to enrich the ListView appearance.",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/listdecorators",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "ListView", "decorators" ]
  }, 
  "LLCPDemo": {
      "desc": "Shows how to transfer data between two NFC-enabled BlackBerry Smartphones using the NFC Logical Link Control Protocol",
