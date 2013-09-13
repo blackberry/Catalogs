@@ -1744,7 +1744,8 @@
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/pushCollector",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "tags": [ "native", "client", "bb10", "cascades", "push", "sqlite" ]
+     "note": "PushCollector on 10.2 uses a headless app",
+     "tags": [ "native", "client", "bb10", "cascades", "push", "sqlite", "headless" ]
  },
  "PushSampleApp(AIR,bb10)": {
      "desc": "A BlackBerry 10 Adobe AIR App that can receive Push Events",
