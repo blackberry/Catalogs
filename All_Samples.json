@@ -528,6 +528,13 @@
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "childbrowser" ]
  },
+ "CordovaTemplate": {
+     "desc": "Template for Apache Cordova plugins on BlackBerry 10",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/Template",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "template", "cordova", "ext-bb10" ]
+ },
  "CscMonitor": {
      "desc": "A Bluetooth Low Energy application for cyclists",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/CscMonitor",
