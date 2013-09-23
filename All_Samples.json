@@ -307,9 +307,9 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "bb10", "bbm", "Qt", "cascades" ]
  },
- "BBMSPUserProfile": {
+ "BBMbpsUserProfile": {
      "desc": "BPS (BlackBerry Platform Services)-based sample to read and update the users's BlackBerry Messenger Profile",
-     "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMSPUserProfile",
+     "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMbpsUserProfile",
      "repo": "Core-Native-Community-Samples",
      "repourl": "http://github.com/blackberry/Core-Native-Community-Samples",
      "note": "Cascades is used for the UI; we are planning a rewrite but the sample is useful as-is",
@@ -476,6 +476,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "qml" ]
  },
+ "Clipboard(bb10,ext)": {
+     "desc": "WebWorks BlackBerry 10 extension to access clipboard read/write",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/Clipboard",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "clipboard", "extension", "ext-bb10" ]
+ },
  "Clipboard(pb,ext)": {
      "desc": "WebWorks PlayBook extension to access clipboard read/write",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Tablet/Clipboard",
@@ -599,6 +606,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "deviceinfo", "ext-bbos" ]
+ },
+ "DeviceInfo(bb10,ext)": {
+     "desc": "WebWorks Java-based Smartphone extension to get information about the device",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/DeviceInfo",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "deviceinfo", "ext-bb10" ]
  },
  "Dialog": {
      "desc": "How to display a dialog using the dialog service",
@@ -1327,6 +1341,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "warning": "work in progress",
      "tags": [ "html5", "client", "bbos", "extension", "message", "ext-bbos" ]
+ },
+ "Mongoose(bb10,ext)": {
+     "desc": "WebWorks BlackBerry 10 extension supplying an embedded Web Server",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/mongoose",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "server", "ext-bb10" ]
  },
  "NativeAndOpenGLWindows": {
      "desc": "Combines rendering to Native and OpenGL Windows at the same time",
@@ -2178,7 +2199,7 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "screen", "keyboard", "ext-bbos" ]
  },
- "ScreenDisplay": {
+ "ScreenDisplay(bb10,ext)": {
      "desc": "BB10 WebWorks Extension for calculating Screen pixel data",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/ScreenDisplay",
      "repo": "WebWorks-Community-APIs",
