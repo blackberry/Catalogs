@@ -103,6 +103,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "script", "tool", "bbos", "bb10", "tablet" ]
  },
+ "appshot": {
+     "desc": "Programmatically take a screen shot of your Cascades application and open it in the pictures card",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/appshot",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "camera", "screen" ]
+ },
  "AudioAccessory": {
      "desc": "Demonstrates how to use the BlackBerry 10 audio jack to transfer data",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/AudioAccessory",
@@ -2114,6 +2121,13 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "rss" ]
+ },
+ "rundgang": {
+     "desc": "How to set up an email with a list of addresses and attach different types of files",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/rundgang",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "email" ]
  },
  "SampleApplication(AIR,pb)": {
      "desc": "An App that uses the Adobe AIR SDK for PlayBook and the SampleLibrary",
