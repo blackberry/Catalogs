@@ -2219,6 +2219,14 @@
      "note": "<p>Variant to use for Applications written using the Cocos2d-x framework</p>",
      "tags": [ "native", "client", "cocos2d-x", "bb10", "scoreloop"]
  },
+ "Scoreloop(AIR,ext,bb10)": {
+      "desc": "An AIR Native Extension using the Scoreloop API's",
+      "url": "https://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/Scoreloop",
+      "repo": "Community-APIs-for-AIR",
+      "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+      "note": "See the (AIR,ext,pb) entry",
+      "tags": [ "air", "client", "bb10", "extension", "ext-air", "scoreloop" ]
+  },
  "scratchpad": {
      "desc": "How to use QImage and QPainter to prepare a cascades::Image",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/scratchpad",
