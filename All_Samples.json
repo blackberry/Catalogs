@@ -147,6 +147,13 @@
       "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
       "tags": [ "native", "client", "bb10", "asound", "audio", "record", "playback", "voip" ]
  },
+ "AudioManagerEvents": {
+      "desc": "Demonstrates how to work with audio manager events with a simple example that detects when something is plugged into or removed from the headphone jack",
+      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/AudioManagerEvents",
+      "repo": "Cascades-Community-Samples",
+      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+      "tags": [ "native", "client", "bb10", "audio", "events", "headphone", "cascades" ]
+ },
  "AudioPlayer": {
       "desc": "Allows you to pick your pre-packaged audio files from a dropdown list",
       "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/AudioPlayer",
@@ -264,6 +271,13 @@
      "note": "Adobe Phonegap is based on Apache Cordova",
      "tags": [ "html5", "webworks", "bb10", "phonegap", "cordova" ]
  },
+ "BBBBBBrowser": {
+      "desc": "A minimal browser using a WebView",
+      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBBBBBrowser",
+      "repo": "Cascades-Community-Samples",
+      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+      "tags": [ "native", "client", "bb10", "audio", "playback", "cascades", "webview" ]
+ },
  "bbm": {
      "desc": "Using BBM APIs from WebWorks on the BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/bbm",
@@ -335,6 +349,13 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "client", "webworks", "bb10", "storage", "bbui" ]
+ },
+ "BeanCanCommunicator": {
+     "desc": "Demonstrates how to use NfcShareManager to send text between two devices using NFC peer to peer mode",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/BeanCanCommunicator",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades" ]
  },
  "BelligerentBlocks": {
      "desc": "Simple Game that uses Scoreloop, 2D graphics, Box2D, SQLite3 and other features",
@@ -510,6 +531,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "playbook", "clipboard", "extension", "ext-pb" ]
+ },
+ "CloudyPics": {
+      "desc": "How to use the Cascades Camara Component",
+      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/CloudyPics",
+      "repo": "Cascades-Community-Samples",
+      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+      "tags": [ "native", "client", "bb10", "camera", "cascades" ]
  },
  "compass": {
      "desc": "How to use QtSensors to implement an electronic compass",
@@ -1414,6 +1442,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "nfc", "ext-bbos" ]
  },
+ "NfcChicken": {
+     "desc": "Demonstrate how to use an NFC tag to trigger an action",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/NfcChicken",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades", "chicken" ]
+ },
  "nfcmacaddress": {
      "desc": "The NFC MAC address example displays the MAC address of the sender device when receiving data via NFC",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/nfcmacaddress",
@@ -1770,6 +1805,13 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbUI", "sensors", "bbm" ]
+ },
+ "PropertyExample": {
+      "desc": "Demonstrates the Qt Property System used to integrate C++ Data with QML",
+      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/PropertyExample",
+      "repo": "Cascades-Community-Samples",
+      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+      "tags": [ "native", "client", "bb10", "property", "cascades" ]
  },
  "PullDownToRefresh": {
      "desc": "A standard way to implement pull down to refresh in browser/WebWorks applications in BlackBerry 10 Applications",
@@ -2876,7 +2918,7 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "webworks", "debug", "web inspector", "community" ]
  },
- "QtFont Sample": {
+ "QtFonts": {
      "desc": "This sample Qt application shows you all available Qt fonts in the system.",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/QtFonts",
      "repo": "Cascades-Community-Samples",
