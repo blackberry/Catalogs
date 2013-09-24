@@ -2336,6 +2336,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "playbook", "sleep", "extension", "ext-pb" ]
  },
+ "SmartCardGetId": {
+     "desc": "Get ID for SmartCard",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/SmartCardGetId",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "tags": [ "native", "client", "bb10", "smartcard" ]
+ },
  "SmartSignals": {
      "desc": "Handle C-Level BPS events in the Cascades Framework",
      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/SmartSignals",
