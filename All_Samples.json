@@ -771,6 +771,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "webworks", "exif", "bb10", "canvas" ]
  },
+ "EXIF Image Viewer": {
+     "desc": "How to load an image with exif orientation data and display it rotated according",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/ExifImageViewer",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "exif", "bb10", "camera" ]
+ },
   "FaceBook-OAuth-2": {
      "desc": "Integrate Facebook and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/FaceBook-OAuth-2",
