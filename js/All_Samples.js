@@ -24,6 +24,7 @@ function initializeTranslateTable() {
 
 	// Cascades
 	"Cascades-Community-Samples": "Cascades-Comm<em>...</em>",
+	"Core-Native-Community-Samples": "Core-Native-Comm<em>...</em>",
 	"PushSampleApp(bb10,AIR)": "PushSample<em>...</em>(bb10,AIR)",
 	"Qt2Cascades-Samples": "Qt2Cascades<em>...</em>",
 	"Qt2Cascades.IPC": "Qt2<em>...</em>.IPC",
