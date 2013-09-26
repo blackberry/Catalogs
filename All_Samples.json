@@ -594,7 +594,7 @@
  "CscMonitor": {
      "desc": "A Bluetooth Low Energy application for cyclists",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/CscMonitor",
-     "repo": "Cascades-Community-SamplesCascades-Community-Samples",
+     "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>The purpose of this application is to demonstrate how to interface to a Bluetooth Low Energy device that supports the Cycling Speed and Cadence Profile as defined by the Bluetooth SIG. This is the type of device that cyclists typically attach to their cycles to allow them to monitor information such as wheel and peddle revolutions and timings.</p>",
      "tags": [ "native", "cascades", "client", "bluetooth", "bb10" ]
