@@ -773,9 +773,9 @@
  },
  "EXIF Image Viewer": {
      "desc": "How to load an image with exif orientation data and display it rotated according",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/ExifImageViewer",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ExifImageViewer",
      "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "cascades", "exif", "bb10", "camera" ]
  },
   "FaceBook-OAuth-2": {
