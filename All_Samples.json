@@ -2952,5 +2952,12 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "headlesss" ]
+ },
+ "uPnP(bb10,ext)": {
+     "desc": "WebWorks BB10 extension for discovering nearby uPnP devices over WiFi",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/upnp",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "uPnP", "discover", "ext-bb10" ]
  }
 }
