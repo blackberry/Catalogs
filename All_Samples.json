@@ -168,6 +168,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Samples",
      "tags": [ "html5", "client", "webworks", "playbook", "accelerometer", "sensor" ]
  },
+ "AutomotiveMqttConcept": {
+     "desc": "A demonstration of a concept involving the enterprise, a fleet of vehicles and the IoT protocol MQTT",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/AutomotiveMqttConcept",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate an idea about how data from drivers and vehicles could be collected from sensors via an in-vehicle BlackBerry 10 mobile computer, and sent to the enterprise systems "in the cloud" for analysis and exploitation.</p>",
+     "tags": [ "native", "cascades", "client", "bluetooth", "bb10" "mqtt" ]
+ },
  "Avatar-Booth": {
      "desc": "Using getUserMedia functionality in BlackBerry 10 WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Avatar-Booth",
@@ -1412,6 +1420,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "server", "ext-bb10" ]
  },
+ "Mqtt": {
+     "desc": "A Proof of Concept MQTT Shared Library",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/Mqtt",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>This project implements a Proof of Concept shared library (libMqtt.so) for BlackBerry 10 that provides an API to some of the main aspects of the MQTT (Message Queuing Telemetry Transport) protocol stack as defined by OASIS.</p><p>MQTT provides a lightweight publish/subscribe reliable messaging transport protocol suitable for communication in M2M/IoT (Machine to Machine/Internet of Things) contexts where a small code footprint is required and/or network bandwidth is at a premium.</p>",
+     "tags": [ "native", "cascades", "client", "bluetooth", "bb10" "mqtt" ]
+ },
  "NativeAndOpenGLWindows": {
      "desc": "Combines rendering to Native and OpenGL Windows at the same time",
      "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/NativeAndOpenGLWindows",
@@ -2628,6 +2644,14 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "JSON", "ext-bb10" ]
+ },
+ "TestMqtt": {
+     "desc": "An application to test MQTT",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/TestMqtt",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to help explore the use of MQTT (Message Queuing Telemetry Transport) as defined by OASIS. It makes use of a shared library (libMqtt.so) we've written, as a Proof of Concept, that implements some of the main aspects of the API needed by an MQTT client.</p><p>MQTT provides a lightweight publish/subscribe reliable messaging transport protocol suitable for communication in M2M/IoT (Machine to Machine/Internet of Things) contexts where a small code footprint is required and/or network bandwidth is at a premium.</p>",
+     "tags": [ "native", "cascades", "client", "bluetooth", "bb10" "mqtt" ]
  },
 "Thumbnail(bb10,ext)": {
      "desc": "WebWorks BB10 extension for creating Image Thumbnails",
