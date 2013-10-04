@@ -1405,6 +1405,13 @@
      "warning": "work in progress",
      "tags": [ "html5", "client", "bbos", "extension", "message", "ext-bbos" ]
  },
+ "MoImgur": {
+     "desc": "WebWorks sample showing invocation framework and File API usage, to handle uploads to the Imgur sharing service. Uses Backbone.js for event handling.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Invoke-FileSystem-moimgur",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "invocation", "upload", "imgur", "Backbone.js", "FileSystem", "File" ]
+ },
  "Mongoose(bb10,ext)": {
      "desc": "WebWorks BlackBerry 10 extension supplying an embedded Web Server",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/mongoose",
