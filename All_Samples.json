@@ -210,6 +210,27 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "cascades", "client", "camera", "bb10" ]
  },
+"Built-for-BlackBerry-Boilerplate(bbUI.js 0.9)": {
+     "desc": "A boilerplate of a Built For BlackBerry app using bbUI.js v0.9x",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/BfB-Boilerplate-bbUI.js-0.9x",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "boilerplate", "html5", "webworks", "bb10", "bfb", "built for blackberry" ]
+ },
+"Built-for-BlackBerry-Boilerplate-10.2(Cascades)": {
+     "desc": "A boilerplate of a Built For BlackBerry app in Cascades",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/BfB-Boilerplate-10.2",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "boilerplate", "cascades", "bb10", "bfb", "built for blackberry" ]
+ },
+"Built-for-BlackBerry-Showcase(Cascades)": {
+     "desc": "A showcase (full featured) sample of a Built For BlackBerry app in Cascades",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/BfB-Showcase",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "cascades", "bb10", "bfb", "built for blackberry" ]
+ },
 "Built-For-BlackBerry(Apache Cordova)": {
      "desc": "A boilerplate of a Built For BlackBerry app using Apache Cordova.",
      "url": "https://github.com/blackberry/Cordova-Samples/tree/master/Built-For-BlackBerry",
