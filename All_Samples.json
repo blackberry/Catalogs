@@ -1111,6 +1111,13 @@
      "warning": "from johan",
      "tags": [ "native", "cascades", "bb10", "rest", "xml", "http" ]
  },
+ "IdentityService": {
+     "desc": "Shows how to use the C version of the identity service API - wrapped with a Cascades GUI"
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/IdentityService",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "crypto", "bbid", "bb10", "qt", "cascades" ]
+ },
  "imageloader": {
      "desc": "Shows the proper method of breaking a network call into a separate class and have the interface bring back the response into the UI",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/imageloader",
