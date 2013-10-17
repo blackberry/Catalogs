@@ -238,13 +238,6 @@
      "repourl": "http://github.com/blackberry/Cordova-Samples",
      "tags": [ "html5", "webworks", "cordova", "phonegap", "bb10", "bfb", "built for blackberry" ]
  },
-"Built-For-BlackBerry(WebWorks)": {
-     "desc": "A boilerplate of a Built For BlackBerry app.",
-     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Built-For-BlackBerry",
-     "repo": "BB10-WebWorks-Samples",
-     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
-     "tags": [ "html5", "webworks", "bb10", "bfb", "built for blackberry" ]
- },
  "custombarcodeinvoker": {
      "desc": "A page that shows how to invoke the Barcode Scanner card",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/custombarcodeinvoker",
