@@ -1834,6 +1834,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "preventsleep", "ext-bb10" ]
  },
+ "PreventSleep(bb10,plugin)": {
+     "desc": "Apache Cordova plugin to prevent the screen from sleeping",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/PreventSleep",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "cordova", "ext-bb10", "plugin", "preventsleep" ]
+ },
   "Psychic8": {
      "desc": "Magic 8 Ball&reg; BBM Integration and Shake To Update sample.",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Psychic8",
@@ -2318,6 +2325,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "screen", "pixel", "extension", "ext-bb10" ]
  },
+ "Screenshot(bb10,ext)": {
+     "desc": "WebWorks BB10 extension for capturing in-app screenshots",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/Screenshot",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "screenshot", "image", "ext-bb10" ]
+ },
  "ScreenTemplate": {
      "desc": "Template you can use to set your application to start using the BPS infrastructure",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/ScreenTemplate",
@@ -2648,6 +2662,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "JSON", "ext-bb10" ]
+ },
+ "Template(bb10,plugin)": {
+     "desc": "Apache Cordova plugin Template for BlackBerry 10",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/Template",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "cordova", "ext-bb10", "plugin" ]
  },
 "Thumbnail(bb10,ext)": {
      "desc": "WebWorks BB10 extension for creating Image Thumbnails",
