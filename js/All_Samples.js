@@ -22,6 +22,8 @@ function initializeTranslateTable() {
 	"Enyo-2.0-BB10-WebWorks": "Enyo-2.0-BB10-WW",
 	"Enyo-2.0-WebWorksExtensions": "Enyo-2.0-WW-Extensions",
 
+	"ExtendedSearch WebWorks Sample": "Extended Search",
+
 	// Cascades
 	"Cascades-Community-Samples": "Cascades-Comm<em>...</em>",
 	"Core-Native-Community-Samples": "Core-Native-Comm<em>...</em>",
@@ -45,10 +47,8 @@ function initializeTranslateTable() {
 	"SampleLibrary(AIR)": "SampleLib<em>...</em>(AIR)",
 	"StarshipSettings(bb10,AIR)": "Starship<em>...</em>(bb10,AIR)",
 	"WeatherGuesser(bb10,AIR)": "Weather<em>...</em>(bb10,AIR)",
+	"AIR Built For BlackBerry App Framework(AIR,bb10)": "AIR BfB Framework(AIR,bb10)"
 
-	// Scoreloop
-	"scoreloopintegrationsample": "Scoreloop<em>...</em>",
-	"scoreloopintegrationsample(Cascades)": "Scoreloop<em>...</em>(Cascades)",
     };
 }
 
@@ -58,10 +58,22 @@ function shortName(name, tTable) {
     if (back = tTable[name]) {
 	return back;
     }
-    var len=12;
     if ((index = name.indexOf("Qt2Cascades"))>=0) {
-	return "Qt2..."+name.slice(len);
+	return "Qt2..."+name.slice("Qt2Cascades".length+1);
     }
+    if ((index = name.indexOf("Built-for-BlackBerry"))>=0) {
+	return "BfB"+name.slice("Built-for-BlackBerry".length);
+    }
+    if ((index = name.indexOf("Built-For-BlackBerry"))>=0) {
+	return "BfB"+name.slice("Built-For-BlackBerry".length);
+    }
+    if ((index = name.indexOf("scoreloopintegrationsample"))>=0) {
+	return "Scoreloop"+name.slice("scoreloopintegrationsample".length);
+    }
+    if ((index = name.indexOf("ScoreloopIntegrationSample"))>=0) {
+	return "Scoreloop"+name.slice("scoreloopintegrationsample".length);
+    }
+
     return name;
 }
 // Companion annotation for hyperlinks
