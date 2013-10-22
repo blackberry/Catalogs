@@ -1105,7 +1105,7 @@
      "tags": [ "native", "cascades", "bb10", "rest", "xml", "http" ]
  },
  "IdentityService": {
-     "desc": "Shows how to use the C version of the identity service API - wrapped with a Cascades GUI"
+     "desc": "Shows how to use the C version of the identity service API - wrapped with a Cascades GUI",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/IdentityService",
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
