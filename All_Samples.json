@@ -3045,13 +3045,13 @@
      "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/upnp",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bb10", "extension", "uPnP", "discover", "ext-bb10" ]
+     "tags": [ "html5", "client", "bb10", "extension", "uPnP", "discover", "ext-bb10", "wifi" ]
  },
  "WiFiDirect-ion": {
      "desc": "Cascades example that demonstrates how to connect devices over WiFi Direct.",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/WiFiDirect-ion",
      "repo": "Cascades-Community-Samples",
      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
-     "tags": [ "WiFi", "WiFi Direct", "bb10", "Cascades", "Wi-Fi" ]
+     "tags": [ "wifi", "wifi direct", "bb10", "Cascades" ]
  }
 }
