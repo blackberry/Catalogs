@@ -24,6 +24,8 @@ function initializeTranslateTable() {
 
 	"ExtendedSearch WebWorks Sample": "Extended Search",
 
+	"Sencha Touch Sample with BlackBerry 10 Look and Feel": "Sencha Touch",
+
 	// Cascades
 	"Cascades-Community-Samples": "Cascades-Comm<em>...</em>",
 	"Core-Native-Community-Samples": "Core-Native-Comm<em>...</em>",
