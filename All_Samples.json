@@ -884,7 +884,7 @@
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/FlurryAnalyticsSample",
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "tags": [ "Cascades", "analytics", "Flurry", "platform services" ]
+     "tags": [ "Cascades", "analytics", "Flurry", "platform-services" ]
  },
  "Flurry(WebWorks)": {
      "desc": "How to integrate Flurry Analytics in to a WebWorks app.",
@@ -1064,7 +1064,7 @@
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "note": "<p>HelloSceneCover is a minimalist Cascades-based app. It illustrates how to set up an Application Cover (viewable in Active Frames) for when the application is minimised.</p>",
-     "tags": [ "native", "cascades", "client", "active frames", "bb10", "cover" ]
+     "tags": [ "native", "cascades", "client", "active-frames", "bb10", "cover" ]
  },
  "HelloWorld": {
      "desc": "Simple WebWorks application; uses Location API",
@@ -1222,7 +1222,7 @@
      "repourl": "http://github.com/blackberry/JDE-Samples",
      "note": "<p>For 7.1, there are 10 'server' samples, as wel as several desktop samples</p>",
      "collection": "10",
-     "tags": [ "java", "server",  "bbos" ]
+     "tags": [ "java", "server", "bbos" ]
  },
  "JDE-Samples.desktop": {
      "desc": "A collection of samples included in the BlackBerry JDE.  There is one branch per JDE release",
@@ -2375,7 +2375,7 @@
      "url": "https://github.com/nmurugesu/BB10-WebWorks-Samples/tree/master/Sencha-Touch-Sample-with-BlackBerry-10-Look-and-Feel",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
-     "tags": [ "html5", "webworks", "bb10", "bb10 theme", "sencha", "sencha touch" ]   
+     "tags": [ "html5", "webworks", "bb10", "bb10 theme", "sencha", "sencha-touch" ]   
 },
  "SendMenu(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to expose the Send/Share Menu API",
@@ -2743,7 +2743,7 @@
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Toe-Tac-Tic",
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
-     "tags": [ "html5", "webworks", "bb10", "bbm", "JQuery Mobile" ]
+     "tags": [ "html5", "webworks", "bb10", "bbm", "JQuery-Mobile" ]
  },
  "tossgame": {
      "desc": "How to use QtSensors to read values from the proximity sensor",
@@ -2937,7 +2937,7 @@
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/WebWorksWeather",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
-     "tags": [ "html5", "webworks", "bb10", "bbUI", "toast", "activeframe", "windowcover", "bbm", "local storage", "LBS" ]
+     "tags": [ "html5", "webworks", "bb10", "bbUI", "toast", "activeframe", "windowcover", "bbm", "local-storage", "LBS" ]
  },
  "webmapview": {
      "desc": "Lets the user browse maps from different providers (Google, Bing and OpenLayers).",
@@ -3010,7 +3010,7 @@
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/WebInspectorCompanion",
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
-     "tags": [ "webworks", "debug", "web inspector", "community" ]
+     "tags": [ "webworks", "debug", "web-inspector", "community" ]
  },
  "QtFonts": {
      "desc": "This sample Qt application shows you all available Qt fonts in the system.",
@@ -3052,6 +3052,6 @@
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/WiFiDirect-ion",
      "repo": "Cascades-Community-Samples",
      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
-     "tags": [ "wifi", "wifi direct", "bb10", "Cascades" ]
+     "tags": [ "wifi", "wifi-direct", "bb10", "Cascades" ]
  }
 }
