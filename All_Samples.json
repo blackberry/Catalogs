@@ -218,6 +218,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "cascades", "client", "camera", "bb10" ]
  },
+ "BtDeviceInfo": {
+     "desc": "Demonstrates how to connect to and use the Bluetooth GATT Device Information Service on any Bluetooth Smart / Low Energy device that supports it.",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BtDeviceInfo",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "cascades", "bluetooth", "bb10" ]
+ },
 "Built-for-BlackBerry-Boilerplate(bbUI.js 0.9)": {
      "desc": "A boilerplate of a Built For BlackBerry app using bbUI.js v0.9x",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/BfB-Boilerplate-bbUI.js-0.9x",
