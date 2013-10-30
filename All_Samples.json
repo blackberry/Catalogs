@@ -1440,6 +1440,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "pim" ]
  },
+ "MessageBox(bb10,plugin)": {
+     "desc": "Port of the Apache Cordova plugin for Dialog Boxes from iOS to BlackBerry 10",
+     "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/MessageBox",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "extension", "cordova", "ext-bb10", "plugin", "MessageBox", "dialog" ]
+ },
  "MessageList(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to add items to the main mesage list",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/MessageList",
