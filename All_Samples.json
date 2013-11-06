@@ -1412,6 +1412,13 @@
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "map" ]
  },
+ "mapanimations": {
+     "desc": "Displays a city map with actions to simulate driving along a path, and flight tracking.",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/mapanimations",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "map", animation ]
+ },
  "mapview": {
      "desc": "Displays a city map overlayed with three sliders and also shows how to drop push pins on chosen locations",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/mapview",
