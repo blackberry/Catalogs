@@ -589,13 +589,6 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "compass", "extension", "notrim", "ext-bb10" ]
  },
- "ContactList_V23_2_CPP": {
-     "desc": "A networking sample that shows how to retrieve an XML file from a remote server while determining network connectivity and the connection interface being used.",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/contactlist_v23_2_cpp",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "tags": [ "native", "client", "bb10", "cascades", "networking" ]
- },
  "ContextMenu": {
      "desc": "WebWorks sample outlining usage of Context Menu APIs for BlackBerry 10. Presented at BlackBerry Jam Americas lab and includes an incomplete and complete version of the code.",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/contextmenu",
@@ -1505,6 +1498,13 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "nfc", "invocation" ]
+ },
+ "Networking_v1_0": {
+     "desc": "A networking sample that shows how to retrieve an XML file from a remote server while determining network connectivity and the connection interface being used.",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/networking_v1_0",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "networking" ]
  },
  "NetworkStatus": {
      "desc": "How to retrieve the network status of the device",
