@@ -1417,7 +1417,7 @@
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/mapanimations",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "tags": [ "native", "client", "bb10", "cascades", "map", animation ]
+     "tags": [ "native", "client", "bb10", "cascades", "map", "animation" ]
  },
  "mapview": {
      "desc": "Displays a city map overlayed with three sliders and also shows how to drop push pins on chosen locations",
