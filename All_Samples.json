@@ -1285,6 +1285,13 @@
      "warning": "work in progress",
      "tags": [ "html5", "client", "bbos", "extension", "message", "ext-bbos" ]
  },
+ "MyDevice": {
+     "desc": "Demonstrates the BlackBerry 10 APIs that give access to hardware info, battery info, SIM info, display attributes, network interface information and phone line information",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/MyDevice",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "cascades" ]
+ },
  "NativeAndOpenGLWindows": {
      "desc": "Combines rendering to Native and OpenGL Windows at the same time",
      "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/NativeAndOpenGLWindows",
