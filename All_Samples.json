@@ -1484,6 +1484,13 @@
      "note": "<p>This project implements a Proof of Concept shared library (libMqtt.so) for BlackBerry 10 that provides an API to some of the main aspects of the MQTT (Message Queuing Telemetry Transport) protocol stack as defined by OASIS.</p><p>MQTT provides a lightweight publish/subscribe reliable messaging transport protocol suitable for communication in M2M/IoT (Machine to Machine/Internet of Things) contexts where a small code footprint is required and/or network bandwidth is at a premium.</p>",
      "tags": [ "native", "cascades", "client", "bluetooth", "bb10", "mqtt" ]
  },
+ "MyDevice": {
+     "desc": "Demonstrates the BlackBerry 10 APIs that give access to hardware info, battery info, SIM info, display attributes, network interface information and phone line information",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/MyDevice",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "cascades" ]
+},
  "NativeAndOpenGLWindows": {
      "desc": "Combines rendering to Native and OpenGL Windows at the same time",
      "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/NativeAndOpenGLWindows",
