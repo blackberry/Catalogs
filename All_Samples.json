@@ -2458,9 +2458,9 @@
  },
  "ShakeIt": {
      "desc": "ShakeIt is an example of a headless application creating a native service.",
-     "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/ShakeIt",
-     "repo": "Core-Native-Community-Samples",
-     "repourl": "http://github.com/blackberry/Core-Native-Community-Samples",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ShakeIt",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "html5", "native", "bb10", "headless", "led" ]
 },
  "shareCard": {
