@@ -1126,6 +1126,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "crypto", "bbid", "bb10", "qt", "cascades" ]
  },
+ "IDS_C_Sample": {
+     "desc": "The IDS_C_Sample sample is an application that is designed to introduce you to a number of common development practices that you can use in your own applications related to Identity",
+     "url": "https://github.com/blackberry/NDK-Samples/tree/master/IDS_C_Sample",
+     "repo": "NDK-Samples",
+     "repourl": "http://github.com/blackberry/NDK-Samples",
+     "tags": [ "native", "Identity", "bb10", "BlackBerry ID" ]
+},
  "imageloader": {
      "desc": "Shows the proper method of breaking a network call into a separate class and have the interface bring back the response into the UI",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/imageloader",
@@ -2449,6 +2456,13 @@
      "repourl": "http://github.com/blackberry/BES10-Cascades",
      "tags": [ "enterprise", "native", "client", "server", "bb10", "cascades", "sfdc", "bes", "hub", "salesforce" ]
  },
+ "ShakeIt": {
+     "desc": "ShakeIt is an example of a headless application creating a native service.",
+     "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/ShakeIt",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "http://github.com/blackberry/Core-Native-Community-Samples",
+     "tags": [ "html5", "native", "bb10", "headless", "led" ]
+},
  "shareCard": {
      "desc": "Implementing a Share Target (aka. Share Card) using BlackBerry WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/shareCard",
