@@ -211,6 +211,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "barcode", "ext-bbos" ]
  },
+ "BBWorldCarousel": {
+     "desc": "An image gallery example that tries to imitate the Blackberry World carousel",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BBWorldCarousel",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "cascades", "client", "carousel", "bb10", "images", "ui" ]
+ },
  "BestCamera": {
      "desc": "A best-practices camera app using the native C camera API and a Cascades UI",
      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BestCamera",
