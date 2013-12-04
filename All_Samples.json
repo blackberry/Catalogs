@@ -821,6 +821,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "cascades", "exif", "bb10", "camera" ]
  },
+ "ExtractZipFile(bb10,plugin)": {
+     "desc": "WebWorks BlackBerry 10 and Apache Cordova Plugin to unzip files",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/ExtractZipFile",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "zip", "plugin", "cordova", "unzip" ]
+ },
   "FaceBook-OAuth-2": {
      "desc": "Integrate Facebook and the OAuth 2.0 protocol into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/FaceBook-OAuth-2",
@@ -1409,7 +1416,7 @@
      "url": "https://github.com/blackberry/Cordova-Samples/tree/master/LowLatencySequencer",
      "repo": "Cordova-Samples",
      "repourl": "https://github.com/blackberry/Cordova-Samples",
-     "tags": [ "html5", "audio", "bb10", "cordova", "sequencer" ]
+     "tags": [ "html5", "audio", "bb10", "cordova", "sequencer", "plugin" ]
  },
  "MailAttachment(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to send an email with an attachment",
@@ -1466,7 +1473,7 @@
      "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/MessageBox",
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
-     "tags": [ "html5", "client", "bb10", "extension", "cordova", "ext-bb10", "plugin", "MessageBox", "dialog" ]
+     "tags": [ "html5", "client", "bb10", "extension", "cordova", "plugin", "MessageBox", "dialog" ]
  },
  "MessageList(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to add items to the main mesage list",
