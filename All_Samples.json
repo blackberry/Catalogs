@@ -2518,7 +2518,7 @@
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/SimplePushClient",
      "repo": "Cascades-Community-Samples",
      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
-     "tags": [ "cascades", "push", "notification", "scenecover","thumbnail"]
+     "tags": [ "cascades", "push", "notification", "scenecover", "thumbnail", "headless"]
  },
  "SimplePushServer": {
      "desc": "A simple push server that runs on BlackBerry 10. Test both sides of push from the same device!",
