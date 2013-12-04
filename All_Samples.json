@@ -336,6 +336,13 @@
      "repourl": "http://github.com/blackberry/BES10-Cascades",
      "tags": [ "enterprise", "native", "bbm", "invocation", "bb10", "carousel", "cascades", "bes"]
  },
+ "BBM-Channels": {
+     "desc": "WebWorks sample for open and posting to BBM Channels",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/BBM-Channels",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "bbm", "BBM Channels" ]
+ },
  "BBMbpsRegistration": {
      "desc": "Demonstrates registering with the BlackBerry Messenger Social Platform using the C BlackBerry Platform Service APIs",
      "url": "http://github.com/blackberry/Core-Native-Community-Samples/tree/master/BBMbpsRegistration",
