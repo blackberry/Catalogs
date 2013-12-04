@@ -1140,6 +1140,13 @@
      "warning": "from johan",
      "tags": [ "native", "cascades", "bb10", "rest", "xml", "http" ]
  },
+ "ID3TestApp": {
+     "desc": "Demonstrates use of a ported library (ID3) within a Cascades application",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ID3TestApp",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "ID3", "library", "bb10", "cascades" ]
+ },
  "IdentityService": {
      "desc": "Shows how to use the C version of the identity service API - wrapped with a Cascades GUI",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/IdentityService",
