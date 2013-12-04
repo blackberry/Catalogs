@@ -1183,6 +1183,13 @@
      "note": "See the (AIR,ext,pb) entry",
      "tags": [ "air", "client", "bb10", "extension", "ext-air", "media" ]
  },
+ "ImageWebView": {
+     "desc": "Sample for Hybrid Application development",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/ImageWebView",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "image", "webview", "Hybrid" ]
+ },
  "Internationalization": {
      "desc": "How to use the built-in Internationalization engine to deliver your app in multiple languages",
      "url": "https://github.com/blackberry-core/Cascades-Samples/tree/r9-update-pending/Internationalization",
