@@ -423,6 +423,14 @@
      "note": "For Hello World sample showing usage, please refer to the CAPX file at the repository root.",
      "tags": [ "html5", "bb10", "construct2", "webworks" ]
  },
+ "BlackBerryBleExplorer": {
+     "desc": "Bluetooth Low Energy Explorer",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/blackberrybleexplorer",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to use selected BlackBerry 10 Bluetooth Low Energy APIs to explore the attributes including GATT Services and Characteristics of a Bluetooth Low Energy device.</p>",
+     "tags": [ "native", "bb10", "bluetooth", "qt", "cascades" ]
+ },
  "bluetoothgatt": {
      "desc": "Retrieval of information from Bluetooth devices that offer the low-energy profile.",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/bluetoothgatt",
