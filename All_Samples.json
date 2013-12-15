@@ -2808,13 +2808,6 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "thumbnail", "image", "ext-bb10" ]
  },
- "tldr": {
-     "desc": "(Too Long; Didn't Read) How to download images from the web in an RSS reader",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/tldr",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "tags": [ "native", "client", "bb10", "cascades", "rss", "image", "loading" ]
- },
  "Toast": {
      "desc": "How to integrate Toast messages into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Toast",
@@ -3000,8 +2993,8 @@
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/weatherguesser",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "Shows how to use NavigationPane and TabbedPane, and how to populate a list using GroupDataModel and JSON and SQL",
-     "tags": [ "native", "client", "bb10", "cascades", "navigationpane", "tabbedpane", "groupdatamodel", "json", "sql"]
+     "note": "Shows how to use NavigationPane and TabbedPane, and how to populate a list using the AsyncDataModel and SqlDataQuery.",
+     "tags": [ "native", "client", "bb10", "cascades", "navigationpane", "tabbedpane", "asyncdatamodel", "asyncheaderdatamodel" ,"json", "sqldataquery", "sqlheaderdataquery","sql"]
  },
  "weatherguesser(AIR,bb10)": {
      "desc": "A port of the WeatherGuesser application from Cascades to Adobe AIR",
