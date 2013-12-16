@@ -1169,6 +1169,20 @@
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "tags": [ "native", "Identity", "bb10", "BlackBerry ID" ]
 },
+"IDS_CPP_Sample": {
+     "desc": "Sample to demostrate the usage of Identity,from BlackBerry ID, within your own sample.",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/IDS_CPP_Sample",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "BlackBerryId", "BlackBerryProfile" ]
+ },
+"IDS_QML_Sample": {
+     "desc": "Sample to demostrate the usage of Identity,from BlackBerry ID, within your own sample.",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/IDS_QML_Sample",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "bb10", "BlackBerryId", "BlackBerryProfile" ]
+ },
  "imageloader": {
      "desc": "Shows the proper method of breaking a network call into a separate class and have the interface bring back the response into the UI",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/imageloader",
