@@ -1342,6 +1342,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "led", "ext-bb10" ]
  },
+ "LifeClassic": {
+     "desc": "Simple implementation of classic \"GAME OF LIFE\". Uses BB10 UI and services (in-app payment). 'Built for BlackBerry' test passed.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/LifeClassic",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "Built-For-BlackBerry", "Payment Services" ]
+ },
  "lightningcrossfadecpp": {
      "desc": "Lightning Crossfade for Text and Image, usinc C++",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/lightningcrossfadecpp",
