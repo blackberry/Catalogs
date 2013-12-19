@@ -721,6 +721,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "deviceinfo", "ext-bb10" ]
  },
+ "DevSupportTemplate": {
+     "desc": "Sample to show how to use the DevelopmentSupport class to enable live QML reloads while developing.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/DevSupportTemplate",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "client", "bb10", "cascades","DevelopmentSupport", "QML" ]
+ },
  "Dialog": {
      "desc": "How to display a dialog using the dialog service",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Dialog",
@@ -1148,6 +1155,13 @@
      "warning": "from johan",
      "tags": [ "native", "cascades", "bb10", "rest", "xml", "http" ]
  },
+ "HyperLocal-App-Template": {
+     "desc": "This is a template application for building apps out of websites. It has built in functionality for BlackBerry Maps, BBM, BBM Channels, Twitter, Facebook, and Foursquare.",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/HyperLocal-App-Template",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "client", "bb10", "template", "Hybrid" ]
+ },
  "ID3TestApp": {
      "desc": "Demonstrates use of a ported library (ID3) within a Cascades application",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ID3TestApp",
@@ -1334,6 +1348,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "led", "ext-bb10" ]
+ },
+ "LifeClassic": {
+     "desc": "Simple implementation of classic \"GAME OF LIFE\". Uses BB10 UI and services (in-app payment). 'Built for BlackBerry' test passed.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/LifeClassic",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "webworks", "bb10", "Built-For-BlackBerry", "Payment Services" ]
  },
  "lightningcrossfadecpp": {
      "desc": "Lightning Crossfade for Text and Image, usinc C++",
