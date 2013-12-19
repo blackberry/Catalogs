@@ -721,6 +721,13 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "deviceinfo", "ext-bb10" ]
  },
+ "DevSupportTemplate": {
+     "desc": "Sample to show how to use the DevelopmentSupport class to enable live QML reloads while developing.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/DevSupportTemplate",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "client", "bb10", "cascades","DevelopmentSupport", "QML" ]
+ },
  "Dialog": {
      "desc": "How to display a dialog using the dialog service",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Dialog",
