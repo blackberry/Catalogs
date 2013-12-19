@@ -1155,6 +1155,13 @@
      "warning": "from johan",
      "tags": [ "native", "cascades", "bb10", "rest", "xml", "http" ]
  },
+ "HyperLocal-App-Template": {
+     "desc": "This is a template application for building apps out of websites. It has built in functionality for BlackBerry Maps, BBM, BBM Channels, Twitter, Facebook, and Foursquare.",
+     "url": "http://github.com/blackberry/Cascades-Samples/tree/master/HyperLocal-App-Template",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "cascades", "client", "bb10", "template", "Hybrid" ]
+ },
  "ID3TestApp": {
      "desc": "Demonstrates use of a ported library (ID3) within a Cascades application",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ID3TestApp",
