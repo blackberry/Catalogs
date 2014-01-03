@@ -176,6 +176,13 @@
      "note": "<p>The purpose of this application is to demonstrate an idea about how data from drivers and vehicles could be collected from sensors via an in-vehicle BlackBerry 10 mobile computer, and sent to the enterprise systems 'in the cloud' for analysis and exploitation.</p>",
      "tags": [ "native", "cascades", "client", "bluetooth", "bb10", "mqtt" ]
  },
+ "AutoTrak": {
+     "desc": "Sample BlackBerry 10 Native insurance mobile application to review submitted insurance claims by individuals. Additional project details are contained in the project read me. https://github.com/hjung/BES10-Cascades/blob/master/AutoTrak/README.md",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/AutoTrak",
+     "repo": "BES10-Cascades",
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
+     "tags": [ "enterprise", "client", "bb10", "autotrak", "cascades", "native" ]
+ },
  "Avatar-Booth": {
      "desc": "Using getUserMedia functionality in BlackBerry 10 WebWorks",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Avatar-Booth",
