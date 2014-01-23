@@ -2042,7 +2042,7 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "note": "Consult the PushService and PushPayload classes from the <a href='https://developer.blackberry.com/html5/apis/'>API reference</a> for useful examples and a full description of how to use the push APIs",
-     "tags": [ "html5", "client", "playbook", "bb10", "push", "webworks"]
+     "tags": [ "html5", "client", "bb10", "push", "webworks"]
  },
  "pushCollector": {
      "desc": "How to listen to incoming push requests and display the delivered data",
