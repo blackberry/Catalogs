@@ -255,7 +255,7 @@
      "desc": "Sample BBM app that invokes available features in the work perimeter",
      "url": "https://github.com/blackberry/BES10-Cascades/tree/master/BBM Carousel",
      "repo": "BES10-Cascades",
-     "repourl": "http://github.com/blackberry/BES10-Cascades",
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
      "tags": [ "enterprise", "native", "BBM", "Invocation", "bb10", "Carousel", "cascades", "bes"]
  },
  "BBMbpsRegistration": {
@@ -1049,6 +1049,14 @@
      "note": "<p>This app acts as a Target that can be invoked by InvokeClient</p>",
      "warning": "This seems to be the same sample as in Cascades-Community-Samples.  Will be removed from there afer confirming",
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
+ },
+ "InvokeWorkCoreApps": {
+     "desc": "The Invoke Work Core Apps example demonstrates how to invoke a set of core apps in the work space by using the Invocation Framework",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/InvokeWorkCoreApps",
+     "repo": "BES10-Cascades",
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
+	    "note": "<p>The core apps that are invoked in this sample are Enterprise Instant Messaging, Adobe Reader, Browser and Phone</p>",
+     "tags": [ "enterprise", "native", "Browser", "Instant Messaging", "Invocation", "bb10", "Adobe Reader", "Phone", "cascades", "bes"]
  },
  "JDE-Samples.client": {
      "desc": "A collection of samples included in the BlackBerry JDE.  There is one branch per JDE release",
