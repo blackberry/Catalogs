@@ -475,6 +475,22 @@
      "warning": "Enabling sound may cause loss of frames on a BlackBerry PlayBook",
      "tags": [ "html5", "client", "webworks", "bb10", "playbook" ]
  },
+ "BtChickenGuardian": {
+     "desc": "A Bluetooth Low Energy Proximity Profile application",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BtChickenGuardian",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to develop an application for BlackBerry 10 which works with the Bluetooth Smart (Low Energy) Proximity Profile.</p>",
+     "tags": [ "native", "cascades", "client", "bluetooth", "bb10" ]
+ },
+ "BtHrmPlugin": {
+     "desc": "A Bluetooth Low Energy Heart Rate Plugin for Unity 3D",
+     "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/BtHrmPlugin",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to develop a Unity 3D plugin for BlackBerry 10 that works with the standard Heart Rate Service (<a href='http://developer.bluetooth.org/TechnologyOverview/Pages/HRS.aspx'>overview available here</a>) as specified by the Bluetooth SIG enabling it to interwork with any Bluetooth Smart device that implements this profile.</p>",
+     "tags": [ "native", "gaming", "client", "bluetooth", "bb10" ]
+ },
  "BtLeFindMe": {
      "desc": "A Bluetooth Low Energy Lost Keys Finder application",
      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BtLeFindMe",
