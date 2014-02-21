@@ -2979,6 +2979,13 @@
      "warning": "This is obsolete; use bbUI.js instead",
      "tags": [ "html5", "client", "webworks", "bbos" ]
  },
+ "UnityGamepad": {
+     "desc": "Unity sample demonstrating gamepad integration.",
+     "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/UnityGamepad",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
+     "tags": [ "unity", "gamepad", "bb10", "sample" ]
+ },
  "Unzip(bb10,ext)": {
      "desc": "WebWorks BB10 extension for unzipping files",
      "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/UNZIP",
