@@ -177,7 +177,7 @@
      "tags": [ "native", "cascades", "client", "bluetooth", "bb10", "mqtt" ]
  },
  "AutoTrak": {
-     "desc": "Sample BlackBerry 10 Native insurance mobile application to review submitted insurance claims by individuals. Additional project details are contained in the project read me. https://github.com/hjung/BES10-Cascades/blob/master/AutoTrak/README.md",
+     "desc": "Sample BlackBerry 10 Native insurance mobile application to review submitted insurance claims by individuals. Additional project details are contained in the project read me. https://github.com/blackberry/BES10-Cascades/tree/master/AutoTrak/README.md",
      "url": "https://github.com/blackberry/BES10-Cascades/tree/master/AutoTrak",
      "repo": "BES10-Cascades",
      "repourl": "https://github.com/blackberry/BES10-Cascades",
@@ -1511,6 +1511,20 @@
      "repo": "Cordova-Samples",
      "repourl": "https://github.com/blackberry/Cordova-Samples",
      "tags": [ "html5", "audio", "bb10", "cordova", "sequencer", "plugin" ]
+ },
+ "Macadamian_ExpenseReport": {
+     "desc": "Sample BlackBerry 10 Native expense report application for approving expenses.  Additional project details are contained in the project read me. https://github.com/blackberry/BES10-Cascades/tree/master/ExpenseReport/README.md",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/ExpenseReport",
+     "repo": "BES10-Cascades",
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
+     "tags": [ "enterprise", "client", "bb10", "expensereport", "cascades", "native" ]
+ },
+ "Macadamian_SubmitExpense": {
+     "desc": "Sample BlackBerry 10 Native expense report application for submitting expenses.  Additional project details are contained in the project read me. https://github.com/blackberry/BES10-Cascades/tree/master/SubmitExpense/README.md",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/SubmitExpense",
+     "repo": "BES10-Cascades",
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
+     "tags": [ "enterprise", "client", "bb10", "submitexpense", "cascades", "native" ]
  },
  "MailAttachment(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to send an email with an attachment",
