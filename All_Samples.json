@@ -2354,6 +2354,13 @@
      "note": "<p>Documentation of the samples is in the <a href='http://blackberry.github.com/Qt2Cascades-Samples/docs/'>Local Pages</a>",
      "tags": [ "native", "client", "bb10", "xml", "qt", "cascades", "lint", "stream" ]
  },
+ "QtBridge(bb10,plugin)": {
+     "desc": "WebWorks BlackBerry 10 and Apache Cordova Plugin to access native Qt objects' properties, signals and slots",
+     "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/QtBridge",
+     "repo": "WebWorks-Community-APIs",
+     "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+     "tags": [ "html5", "client", "bb10", "qt", "plugin", "cordova", "signals", "slots" ]
+ },
  "quotes": {
      "desc": "List and SqlDataAccess",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/quotes",
