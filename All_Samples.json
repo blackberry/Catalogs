@@ -862,9 +862,16 @@
  "EXIF Image Viewer": {
      "desc": "How to load an image with exif orientation data and display it rotated according",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ExifImageViewer",
-     "repo": "Cascades-Samples",
+     "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "cascades", "exif", "bb10", "camera" ]
+ },
+ "Expressgur": {
+     "desc": "BlackBerry Express sample plugin that pulls images from Deviant Art",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/expressgur",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "cascades", "Express", "bb10", "Deviant Art", "plugin" ]
  },
  "ExtractZipFile(bb10,plugin)": {
      "desc": "WebWorks BlackBerry 10 and Apache Cordova Plugin to unzip files",
