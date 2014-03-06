@@ -1635,9 +1635,9 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "nfc", "invocation" ]
  },
- "networking_downloading": {
-     "desc": "A networking sample that shows how to retrieve an XML file from a remote server while determining network connectivity and the connection interface being used.",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/networking_downloading",
+ "networking_dwnld_file": {
+     "desc": "A networking sample that shows how to retrieve an XML file and view the raw headers from a remote server while determining network connectivity and the connection interface being used.",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/networking_dwnld_file",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "networking" ]
