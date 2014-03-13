@@ -1642,6 +1642,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "networking" ]
  },
+ "networking_ssl": {
+     "desc": "The networking_ssl example shows you how to create a secure SSL connection to a remote server, and send or receive data.",
+     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/networking_ssl",
+     "repo": "Cascades-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Samples",
+     "tags": [ "native", "client", "bb10", "cascades", "networking" "ssl" ]
+ },
  "NetworkStatus": {
      "desc": "How to retrieve the network status of the device",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/NetworkStatus",
