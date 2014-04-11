@@ -103,6 +103,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "script", "tool", "bbos", "bb10", "tablet" ]
  },
+ "AnnualLeave": {
+     "desc": "A Sample Enterprise Annual Leave / Vacation application (BETA)",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/AnnualLeave",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to add some real code to the theory that we outlined in these blog articles and videos for a robust enterprise applicatin architecture. If you haven't read or listened to these then now might be a good time. They explain the core architecture upon which this BETA sample application is based. <a href='http://devblog.blackberry.com/2014/02/a-flexible-architecture-for-enterprise-mobile-applications-part-1/'>A Flexible Architecture for Enterprise Mobile Applications? - Part 1</a>, <a href='http://devblog.blackberry.com/2014/02/a-flexible-architecture-for-enterprise-mobile-applications-part-2/'>A Flexible Architecture for Enterprise Mobile Applications? - Part 2</a>, <a href='http://devblog.blackberry.com/2014/02/a-flexible-project-structure-for-enterprise-mobile-applications-part-three/'>A Flexible Project Structure for Enterprise Mobile Applications? - Part 3</a>, <a href='http://www.youtube.com/watch?v=UYhbQBp72sQ'>VIDEO: A Flexible Architecture for Enterprise Mobile Applications?</a>, <a href='http://www.youtube.com/watch?v=e37vUIv8hMw'>VIDEO: A Flexible Project Structure for Enterprise Mobile Applications?</a></p>",
+     "tags": [ "native", "cascades", "client", "enterprise", "bb10" ]
+ },
  "Ant Build Script (Cordova)": {
      "desc": "Ant build Script for WebWorks applications using Apache Cordova/PhoneGap for BlackBerry 10 devices",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/Ant-Cordova-Build-Script",
