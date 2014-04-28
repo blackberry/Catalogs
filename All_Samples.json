@@ -3154,6 +3154,15 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "mapview", "map", "pins" ]
  },
+ "WheresMyBeacon": {
+     "desc": "A simple BlackBerry 10 application that demonstrates how to use iBeacon(TM) technology",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/WheresMyBeacon",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to develop an application for BlackBerry 10 which is capable of decoding the advertisement data sent by an <a href=\"http://www.estimote.com\">Estimote</a> beacon; and by extension <a href=\"http://support.apple.com/kb/HT6048\">iBeacon</a>(TM)</p>.
+</p>",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades", "beacons", "ibeacon", "IoT" ]
+ },
  "WindowCovers": {
      "desc": "How to integrate Window Covers into a BlackBerry WebWorks application for BlackBerry 10",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/WindowCovers",
