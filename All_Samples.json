@@ -3132,6 +3132,12 @@
      "repo": "Samples-for-AIR",
      "repourl": "http://github.com/blackberry/Samples-for-AIR",
      "tags": [ "air", "client", "bb10", "sql", "json" ]
+ },"Web Launcher(Webworks)": {
+     "desc": "A simple web launcher that launches a url into the browser.",
+     "url": "https://github.com/blackberry/BES10-WebWorks/tree/master/webworks-launcher",
+     "repo": "BES10-WebWorks",
+     "repourl": "http://github.com/blackberry/BES10-WebWorks",
+     "tags": [ "enterprise", "launcher", "bb10", "webworks", "html5", "bes", "webclip", "url" ]
  },
  "WebWorks-Testing": {
      "desc": "An on-device HTML/JS/CSS code viewer for testing WebWorks apps without compiling them.",
