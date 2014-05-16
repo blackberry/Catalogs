@@ -3029,6 +3029,13 @@
      "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
      "tags": [ "unity", "gamepad", "bb10", "sample" ]
  },
+  "UnityInvoke": {
+     "desc": "Unity sample demonstrating custom Invocation API plugin.",
+     "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/UnityInvoke",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
+     "tags": [ "unity", "invoke", "bb10", "sample" ]
+ },
  "Unzip(bb10,ext)": {
      "desc": "WebWorks BB10 extension for unzipping files",
      "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10/UNZIP",
