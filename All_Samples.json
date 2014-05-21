@@ -649,14 +649,6 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "context", "menu" ]
  },
- "cowbell": {
-     "desc": "Basic Sound Handling",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/cowbell",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "<p>Basic rotation animations, AbsoluteLayout, and OpenAL sound</p><p>And, if you have never seen it, check the SNL sketch on <a href='http://en.wikipedia.org/wiki/More_cowbell'>More Cowbell</a></p>",
-     "tags": [ "native", "client", "bb10", "cascades", "audio", "openal", "absolutelayout" ]
- },
  "Channels": {
      "desc": "How two different threads can communicate sending events through channels. Uses LocationData as example",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Channels",
@@ -1362,14 +1354,6 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "json", "storage" ]
  },
- "kakel": {
-     "desc": "Dynamic UI",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/kakel",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "<p>Some decorative and interaction elements in QML, while actual game board and logics is in C++</p>",
-     "tags": [ "native", "client", "bb10", "cascades", "qml" ]
- },
  "Keyboard": {
      "desc": "How to handle key presses on the virtual keyboard",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Keyboard",
@@ -1414,22 +1398,6 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "https://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "Built-For-BlackBerry", "Payment Services" ]
- },
- "lightningcrossfadecpp": {
-     "desc": "Lightning Crossfade for Text and Image, usinc C++",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/lightningcrossfadecpp",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "<p>Add images to a UI, use layouts and add a slider attached to it.</p><p>Do this in C++</p>",
-     "tags": [ "native", "client", "bb10", "cascades", "c++", "events" ]
- },
- "lightningcrossfadeqml": {
-     "desc": "Lightning Crossfade for Text and Image, usinc QML",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/lightningcrossfadecpp",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "<p>Add images to a UI, use layouts and add a slider attached to it.</p><p>Do this in QML</p>",
-     "tags": [ "native", "client", "bb10", "cascades", "qml", "events" ]
  },
  "ListGroupData": {
      "desc": "Example of runtime manipulation of GroupDataModel",
