@@ -82,6 +82,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "crypto", "aes", "certicom", "bb10", "qt", "cascades" ]
  },
+ "AirHockey": {
+     "desc": "Weekend hackathon project - an air hockey playing robot using a robotic arm, an Arduino and a Z30.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/airHockey",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "camera", "airhockey", "arduino", "bluetooth", "bb10", "qt", "cascades" ]
+ },
  "Analytics": {
      "desc": "Sample from the Analytics SDK",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Analytics",
