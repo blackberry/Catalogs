@@ -2553,6 +2553,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "bb10 theme", "sencha", "sencha-touch" ]   
 },
+"Sencha Touch BFB Boiler Plate Sample": {
+     "desc": "This sample meant to be a starting point for any Sencha Touch developer who wishes to build apps for BlackBerry 10 with the BlackBerry 10 native look and feel",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Sencha_BFB_Sample",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "bb10 theme", "sencha", "sencha touch" ]   
+},
  "SendMenu(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to expose the Send/Share Menu API",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/SendMenu",
