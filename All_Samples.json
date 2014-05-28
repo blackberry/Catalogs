@@ -1882,6 +1882,13 @@
      "repo": "Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "list", "datamodel" ]
  },
+ "PantherUI": {
+     "desc": "The PantherUI is a collection of JavaScript modules and templates for creating responsive UIs for desktop and mobile web apps.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/WebWorks-1.0/PantherUI",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "carousel", "responsive", "webworks", "bb10" ]
+ },
  "PasswordSample": {
      "desc": "How to use some of  the Blackberry 10 security APIs",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/PasswordSample",
