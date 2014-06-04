@@ -364,6 +364,8 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbm", "BBM Channels" ]
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
+     "tags": [ "enterprise", "native", "BBM", "Invocation", "bb10", "Carousel", "cascades", "bes"]
  },
  "BBMbpsRegistration": {
      "desc": "Demonstrates registering with the BlackBerry Messenger Social Platform using the C BlackBerry Platform Service APIs",
@@ -1327,6 +1329,22 @@
      "note": "<p>This app acts as a Target that can be invoked by InvokeClient</p>",
      "warning": "This seems to be the same sample as in Cascades-Community-Samples.  Will be removed from there afer confirming",
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
+ },
+ "InvokeWorkCoreApps": {
+     "desc": "The Invoke Work Core Apps example demonstrates how to invoke a set of core apps in the work space by using the Invocation Framework",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/InvokeWorkCoreApps",
+     "repo": "BES10-Cascades",
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
+	    "note": "<p>The core apps that are invoked in this sample are Enterprise Instant Messaging, Adobe Reader, Browser and Phone</p>",
+     "tags": [ "enterprise", "native", "Browser", "Instant Messaging", "Invocation", "bb10", "Adobe Reader", "Phone", "cascades", "bes"]
+ },
+ "InvokeWorkDrives": {
+     "desc": "The Invoke Work Core Drives example demonstrates how to invoke the WorkDrives app using Webworks and the Invocation Framework",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/InvokeWorkDrives",
+     "repo": "BES10-WebWorks",
+     "repourl": "https://github.com/blackberry/BES10-WebWorks",
+	    "note": "<p>The Work Drives app is invoked in this sample</p>",
+     "tags": [ "enterprise", "Work Drives", "WebWorks", "Invocation", "bb10", "bes10"]
  },
  "JDE-Samples.client": {
      "desc": "A collection of samples included in the BlackBerry JDE.  There is one branch per JDE release",
