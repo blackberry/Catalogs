@@ -1402,6 +1402,14 @@
      "note": "Improved version to that from WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbm" ]
  },
+  "LDAPSearch": {
+     "desc": "A demonstration how a middleware NodeJS component and a WebWorks Client can do LDAP searches throiugh a corporate directory.",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/ldap-search",
+     "repo": "BES10-WebWorks",
+     "repourl": "https://github.com/blackberry/BES10-WebWorks",
+	    "note": "<p>Creating REST API with NodeJS and using it with a WebWorks client</p>",
+     "tags": [ "enterprise", "nodjeJS", "WebWorks", "REST", "API", "bb10", "bes10"]
+ },
  "led": {
      "desc": "The LED API",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/led",
