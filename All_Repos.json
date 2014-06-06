@@ -699,5 +699,13 @@
      "branches": ["master", "next"],
      "portinfo": "Originally at <a href='http://code.google.com/p/zxing'>http://code.google.com/p/zxing</a>.<p>Our repo is an officially sanctioned port</p>",
      "tags": [ "native", "bb10", "playbook", "port" ]
+ },
+  "Saturnring": {
+     "desc": "Saturnring is a network block storage provisioning and management system for the Cloud",
+     "url": "https://github.com/blackberry/saturnring",
+     "type": "other",
+     "branches": ["master"],
+     "portinfo": "You may want to check https://github.com/sachinkagarwal/saturnring for the latest commits that may not have been pushed back yet",
+     "tags": [ "iscsi", "cloud", "storage", "management", "api" ]
  }
 }

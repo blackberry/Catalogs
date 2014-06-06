@@ -82,6 +82,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "native", "crypto", "aes", "certicom", "bb10", "qt", "cascades" ]
  },
+ "AirHockey": {
+     "desc": "Weekend hackathon project - an air hockey playing robot using a robotic arm, an Arduino and a Z30.",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/airHockey",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "camera", "airhockey", "arduino", "bluetooth", "bb10", "qt", "cascades" ]
+ },
  "Analytics": {
      "desc": "Sample from the Analytics SDK",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Analytics",
@@ -357,6 +364,8 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbm", "BBM Channels" ]
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
+     "tags": [ "enterprise", "native", "BBM", "Invocation", "bb10", "Carousel", "cascades", "bes"]
  },
  "BBMbpsRegistration": {
      "desc": "Demonstrates registering with the BlackBerry Messenger Social Platform using the C BlackBerry Platform Service APIs",
@@ -648,14 +657,6 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "context", "menu" ]
- },
- "cowbell": {
-     "desc": "Basic Sound Handling",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/cowbell",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "<p>Basic rotation animations, AbsoluteLayout, and OpenAL sound</p><p>And, if you have never seen it, check the SNL sketch on <a href='http://en.wikipedia.org/wiki/More_cowbell'>More Cowbell</a></p>",
-     "tags": [ "native", "client", "bb10", "cascades", "audio", "openal", "absolutelayout" ]
  },
  "Channels": {
      "desc": "How two different threads can communicate sending events through channels. Uses LocationData as example",
@@ -1329,6 +1330,22 @@
      "warning": "This seems to be the same sample as in Cascades-Community-Samples.  Will be removed from there afer confirming",
      "tags": [ "native", "client", "invocation", "bb10", "cascades" ]
  },
+ "InvokeWorkCoreApps": {
+     "desc": "The Invoke Work Core Apps example demonstrates how to invoke a set of core apps in the work space by using the Invocation Framework",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/InvokeWorkCoreApps",
+     "repo": "BES10-Cascades",
+     "repourl": "https://github.com/blackberry/BES10-Cascades",
+	    "note": "<p>The core apps that are invoked in this sample are Enterprise Instant Messaging, Adobe Reader, Browser and Phone</p>",
+     "tags": [ "enterprise", "native", "Browser", "Instant Messaging", "Invocation", "bb10", "Adobe Reader", "Phone", "cascades", "bes"]
+ },
+ "InvokeWorkDrives": {
+     "desc": "The Invoke Work Core Drives example demonstrates how to invoke the WorkDrives app using Webworks and the Invocation Framework",
+     "url": "https://github.com/blackberry/BES10-Cascades/tree/master/InvokeWorkDrives",
+     "repo": "BES10-WebWorks",
+     "repourl": "https://github.com/blackberry/BES10-WebWorks",
+	    "note": "<p>The Work Drives app is invoked in this sample</p>",
+     "tags": [ "enterprise", "Work Drives", "WebWorks", "Invocation", "bb10", "bes10"]
+ },
  "JDE-Samples.client": {
      "desc": "A collection of samples included in the BlackBerry JDE.  There is one branch per JDE release",
      "url": "https://github.com/blackberry/JDE-Samples/tree/master/com/rim/samples/device",
@@ -1361,14 +1378,6 @@
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "json", "storage" ]
- },
- "kakel": {
-     "desc": "Dynamic UI",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/kakel",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "<p>Some decorative and interaction elements in QML, while actual game board and logics is in C++</p>",
-     "tags": [ "native", "client", "bb10", "cascades", "qml" ]
  },
  "Keyboard": {
      "desc": "How to handle key presses on the virtual keyboard",
@@ -1414,22 +1423,6 @@
      "repo": "BB10-WebWorks-Community-Samples",
      "repourl": "https://github.com/blackberry/BB10-WebWorks-Community-Samples",
      "tags": [ "html5", "webworks", "bb10", "Built-For-BlackBerry", "Payment Services" ]
- },
- "lightningcrossfadecpp": {
-     "desc": "Lightning Crossfade for Text and Image, usinc C++",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/lightningcrossfadecpp",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "<p>Add images to a UI, use layouts and add a slider attached to it.</p><p>Do this in C++</p>",
-     "tags": [ "native", "client", "bb10", "cascades", "c++", "events" ]
- },
- "lightningcrossfadeqml": {
-     "desc": "Lightning Crossfade for Text and Image, usinc QML",
-     "url": "https://github.com/blackberry/Cascades-Samples/tree/master/lightningcrossfadecpp",
-     "repo": "Cascades-Samples",
-     "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "note": "<p>Add images to a UI, use layouts and add a slider attached to it.</p><p>Do this in QML</p>",
-     "tags": [ "native", "client", "bb10", "cascades", "qml", "events" ]
  },
  "ListGroupData": {
      "desc": "Example of runtime manipulation of GroupDataModel",
@@ -1906,6 +1899,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "repo": "Cascades-Samples",
      "tags": [ "native", "cascades", "bb10", "list", "datamodel" ]
+ },
+ "PantherUI": {
+     "desc": "The PantherUI is a collection of JavaScript modules and templates for creating responsive UIs for desktop and mobile web apps.",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/WebWorks-1.0/PantherUI",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "https://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "tags": [ "html5", "carousel", "responsive", "webworks", "bb10" ]
  },
  "PasswordSample": {
      "desc": "How to use some of  the Blackberry 10 security APIs",
@@ -2578,6 +2578,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "bb10 theme", "sencha", "sencha-touch" ]   
 },
+"Sencha Touch BFB Boiler Plate Sample": {
+     "desc": "This sample meant to be a starting point for any Sencha Touch developer who wishes to build apps for BlackBerry 10 with the BlackBerry 10 native look and feel",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Sencha_BFB_Sample",
+     "repo": "BB10-WebWorks-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
+     "tags": [ "html5", "webworks", "bb10", "bb10 theme", "sencha", "sencha touch" ]   
+},
  "SendMenu(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to expose the Send/Share Menu API",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/SendMenu",
@@ -3028,6 +3035,13 @@
      "repo": "Core-Native-Community-Samples",
      "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
      "tags": [ "unity", "gamepad", "bb10", "sample" ]
+ },
+  "UnityInvoke": {
+     "desc": "Unity sample demonstrating custom Invocation API plugin.",
+     "url": "https://github.com/blackberry/Core-Native-Community-Samples/tree/master/UnityInvoke",
+     "repo": "Core-Native-Community-Samples",
+     "repourl": "https://github.com/blackberry/Core-Native-Community-Samples",
+     "tags": [ "unity", "invoke", "bb10", "sample" ]
  },
  "Unzip(bb10,ext)": {
      "desc": "WebWorks BB10 extension for unzipping files",
