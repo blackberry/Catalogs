@@ -3133,6 +3133,14 @@
      "note": "<p>There are several branches: 'ndk1' is for PlayBook 1, 'ndk2' is for PlayBook 2, 'master' is for PlayBook 2 and 'next' is for BlackBerry 10</p>",
      "tags": [ "native", "client", "bb10", "playbook", "video", "opengl" ]
  },
+ "WakeMeByBeacon": {
+     "desc": "A simple BlackBerry 10 application that demonstrates how to use iBeacon(TM) technology using a Headless Application",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/wakemebybeacon",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to develop an application for BlackBerry 10 which is capable of running as a Headless application, detecting <a href=\"http://support.apple.com/kb/HT6048\">iBeacons</a>(TM) in the background and notifying the application's user interface component of iBeacon(TM) events. If the user interface component is not running it will be launched via the Hub.</p>",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades", "beacons", "ibeacon", "IoT" ]
+ },
  "Weather": {
      "desc": "Shows how to use the HTML5 Database and the GeoLocation APIs",
      "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/Weather",
