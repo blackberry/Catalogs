@@ -364,8 +364,6 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "bbm", "BBM Channels" ]
-     "repourl": "https://github.com/blackberry/BES10-Cascades",
-     "tags": [ "enterprise", "native", "BBM", "Invocation", "bb10", "Carousel", "cascades", "bes"]
  },
  "BBMbpsRegistration": {
      "desc": "Demonstrates registering with the BlackBerry Messenger Social Platform using the C BlackBerry Platform Service APIs",
@@ -1670,7 +1668,7 @@
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/networking_ssl",
      "repo": "Cascades-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Samples",
-     "tags": [ "native", "client", "bb10", "cascades", "networking" "ssl" ]
+     "tags": [ "native", "client", "bb10", "cascades", "networking", "ssl" ]
  },
  "NetworkStatus": {
      "desc": "How to retrieve the network status of the device",
@@ -3195,8 +3193,7 @@
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/WheresMyBeacon",
      "repo": "Cascades-Community-Samples",
      "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
-     "note": "<p>The purpose of this application is to demonstrate how to develop an application for BlackBerry 10 which is capable of decoding the advertisement data sent by an <a href=\"http://www.estimote.com\">Estimote</a> beacon; and by extension <a href=\"http://support.apple.com/kb/HT6048\">iBeacon</a>(TM)</p>.
-</p>",
+     "note": "<p>The purpose of this application is to demonstrate how to develop an application for BlackBerry 10 which is capable of decoding the advertisement data sent by an <a href=\"http://www.estimote.com\">Estimote</a> beacon; and by extension <a href=\"http://support.apple.com/kb/HT6048\">iBeacon</a>(TM)</p>.",
      "tags": [ "native", "client", "nfc", "bb10", "cascades", "beacons", "ibeacon", "IoT" ]
  },
  "WindowCovers": {
