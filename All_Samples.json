@@ -1003,6 +1003,14 @@
      "repourl": "http://github.com/blackberry/NDK-Samples",
      "tags": [ "native", "client", "bb10", "gaming" ]
  },
+ "GattServerSample": {
+     "desc": "Demonstrates how to develop a BlackBerry 10 application that hosts a Bluetooth Low Enery GATT Service.",
+     "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/gattserversample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this project is to demonstrate how to develop an application for BlackBerry 10 which is capable of hosting a Bluetooth Low Enery GATT Service.</p><p>The GATT service itself is a simple one that sends a stream of random numbers, one per second, to any client that subscribes to the service's Notifications.</p><p>There are two applications in this sample:</p><ul><li>An application that acts as a GATT Server, and, for convenience;</li><li>An application that acts as a GATT Client to the GATT server application.</li></ul>",
+     "tags": [ "native", "cascades", "client", "bluetooth", "bb10", "gatt" ]
+ },
  "Geocoding(AIR,ext,bb10)": {
      "desc": "An AIR Native Extension using the geo_search library from the NDK to provide geo-coding and reverse geo-coding capabilities",
      "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/Geocoding",
