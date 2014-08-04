@@ -3175,6 +3175,14 @@
      "repourl": "http://github.com/blackberry/BES10-WebWorks",
      "tags": [ "enterprise", "launcher", "bb10", "webworks", "html5", "bes", "webclip", "url" ]
  },
+  "WakeMeByBeacon": {
+     "desc": "A simple BlackBerry 10 WebWorks application that demonstrates how to use iBeacon(TM) technology using a Headless Application",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/webworksbeacon",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to develop a WebWorks application for BlackBerry 10 which is capable of running as a Headless application, detecting <a href=\"http://support.apple.com/kb/HT6048\">iBeacons</a>(TM) in the background and notifying the application's WebWorks user interface component of iBeacon(TM) events. If the user interface component is not running it will be launched via the Hub.</p>",
+     "tags": [ "html5", "client", "bb10", "webworks", "cordova", "headless", "beacons", "ibeacon", "IoT" ]
+ },
  "WebWorks-Testing": {
      "desc": "An on-device HTML/JS/CSS code viewer for testing WebWorks apps without compiling them.",
      "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/WebWorks-Testing",
