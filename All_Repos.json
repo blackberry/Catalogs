@@ -27,6 +27,14 @@
      "warning": "'0.2' branch should be deleted?",
      "tags": [ "html5", "bb10", "playbook", "pages" ]
  },
+ "ALF": {
+     "desc": "Framework created for software developers, testers and security researchers for testing their software through fuzzing",
+     "url": "http://github.com/blackberry/ALF",
+     "type": "tool",
+     "branches": ["master", "gh-pages"],
+     "branchinfo": "'master' is current version; 'gh-pages' is for documentation.",
+     "tags": [ "python", "security", "tool", "fuzzing" ]
+ },
  "ALUT": {
      "desc": "OpenAL Utility Toolkit",
      "url": "http://github.com/blackberry/ALUT",
