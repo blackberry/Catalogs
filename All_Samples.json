@@ -39,13 +39,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "pim" ]
  },
- "ActiveFrameSample(AIR,bb10)": {
-     "desc": "How to create an Active Frame when your App is minimized",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/ActiveFrameSample",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "bb10", "activeframe" ]
- },
+ // "ActiveFrameSample(AIR,bb10)": {
+ //     "desc": "How to create an Active Frame when your App is minimized",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/ActiveFrameSample",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "bb10", "activeframe" ]
+ // },
  "addressbook": {
      "desc": "How to implement a simple address book application",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/addressbook",
@@ -687,13 +687,13 @@
      "note": "<p>The purpose of this application is to demonstrate how to interface to a Bluetooth Low Energy device that supports the Cycling Speed and Cadence Profile as defined by the Bluetooth SIG. This is the type of device that cyclists typically attach to their cycles to allow them to monitor information such as wheel and peddle revolutions and timings.</p>",
      "tags": [ "native", "cascades", "client", "bluetooth", "bb10" ]
  },
- "CSSSample(AIR,bb10)": {
-     "desc": "How to use CSS to manipulate objects without writing ActionScript code",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/CSSSample",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "bb10", "css" ]
- },
+ // "CSSSample(AIR,bb10)": {
+ //     "desc": "How to use CSS to manipulate objects without writing ActionScript code",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/CSSSample",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "bb10", "css" ]
+ // },
  "CubeRotate": {
      "desc": "How to create a 3D multi-colored cube using OpenGL ES",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/CubeRotate",
@@ -1011,14 +1011,14 @@
      "note": "<p>The purpose of this project is to demonstrate how to develop an application for BlackBerry 10 which is capable of hosting a Bluetooth Low Enery GATT Service.</p><p>The GATT service itself is a simple one that sends a stream of random numbers, one per second, to any client that subscribes to the service's Notifications.</p><p>There are two applications in this sample:</p><ul><li>An application that acts as a GATT Server, and, for convenience;</li><li>An application that acts as a GATT Client to the GATT server application.</li></ul>",
      "tags": [ "native", "cascades", "client", "bluetooth", "bb10", "gatt" ]
  },
- "Geocoding(AIR,ext,bb10)": {
-     "desc": "An AIR Native Extension using the geo_search library from the NDK to provide geo-coding and reverse geo-coding capabilities",
-     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/Geocoding",
-     "repo": "Community-APIs-for-AIR",
-     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
-     "note": "See the (AIR,ext,pb) entry",
-     "tags": [ "air", "client", "bb10", "extension", "ext-air", "location" ]
- },
+ // "Geocoding(AIR,ext,bb10)": {
+ //     "desc": "An AIR Native Extension using the geo_search library from the NDK to provide geo-coding and reverse geo-coding capabilities",
+ //     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/Geocoding",
+ //     "repo": "Community-APIs-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+ //     "note": "See the (AIR,ext,pb) entry",
+ //     "tags": [ "air", "client", "bb10", "extension", "ext-air", "location" ]
+ // },
  "GeoLocation": {
      "desc": "Display current location data",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/Geolocation",
@@ -1263,14 +1263,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "sensor", "accelerometer" ]
  },
- "ImageSaver(AIR,ext,bb10)": {
-     "desc": "A AIR Native Extension that will save a BitmapData instance to a file on the disk via native C code using libimg",
-     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/ImageSaver",
-     "repo": "Community-APIs-for-AIR",
-     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
-     "note": "See the (AIR,ext,pb) entry",
-     "tags": [ "air", "client", "bb10", "extension", "ext-air", "media" ]
- },
+ // "ImageSaver(AIR,ext,bb10)": {
+ //     "desc": "A AIR Native Extension that will save a BitmapData instance to a file on the disk via native C code using libimg",
+ //     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/ImageSaver",
+ //     "repo": "Community-APIs-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+ //     "note": "See the (AIR,ext,pb) entry",
+ //     "tags": [ "air", "client", "bb10", "extension", "ext-air", "media" ]
+ // },
  "ImageWebView": {
      "desc": "Sample for Hybrid Application development",
      "url": "https://github.com/blackberry/Cascades-Samples/tree/master/ImageWebView",
@@ -1982,20 +1982,20 @@
      "note": "<p>How to use the Cascades multimedia library with the Camera, take a picture, manipulate the image to be grayscale, and add an image over another image",
      "tags": [ "native", "client", "bb10", "cascades", "camera", "image" ]
  },
- "PhotoEditor(AIR,bb10)": {
-     "desc": "Shows how to create and interact with Composer, Previewer, and Picker Cards",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/PhotoViewer",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "bb10", "camera", "media" ]
- },
- "PhotoViewer(AIR,bb10)": {
-     "desc": "Uses a custom Viewer to display a random image from the shared camera folder",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/PhotoViewer",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "bb10", "camera", "media" ]
- },
+ // "PhotoEditor(AIR,bb10)": {
+ //     "desc": "Shows how to create and interact with Composer, Previewer, and Picker Cards",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/PhotoViewer",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "bb10", "camera", "media" ]
+ // },
+ // "PhotoViewer(AIR,bb10)": {
+ //     "desc": "Uses a custom Viewer to display a random image from the shared camera folder",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/PhotoViewer",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "bb10", "camera", "media" ]
+ // },
  "PictureWall": {
      "desc": "Control a collection of BlackBerry PlayBooks to display one or more images",
      "url": "https://github.com/blackberry/PictureWall/tree/master/",
@@ -2125,13 +2125,13 @@
      "note": "PushCollector on 10.2 uses a headless app",
      "tags": [ "native", "client", "bb10", "cascades", "push", "sqlite", "headless" ]
  },
- "PushSampleApp(AIR,bb10)": {
-     "desc": "A BlackBerry 10 Adobe AIR App that can receive Push Events",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/PushSampleApp",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "bb10", "push" ]
- },
+ // "PushSampleApp(AIR,bb10)": {
+ //     "desc": "A BlackBerry 10 Adobe AIR App that can receive Push Events",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/PushSampleApp",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "bb10", "push" ]
+ // },
  "Qt2Cascades.BroadcastReceiver": {
      "desc": "Adaptations of the Network samples of the <a href='http://doc.qt.nokia.com/4.7-snapshot/all-examples.html'>Qt Example Projects</a> to Cascades",
      "url": "http://github.com/blackberry/Qt2Cascades-Samples/tree/master/broadcastreceiver",
@@ -2471,29 +2471,29 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "email" ]
  },
- "SampleApplication(AIR,pb)": {
-     "desc": "An App that uses the Adobe AIR SDK for PlayBook and the SampleLibrary",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleApp",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "playbook" ]
- },
- "SampleBPSANE(AIR,ext,bb10)": {
-     "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
-     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/SampleBPSANE",
-     "repo": "Community-APIs-for-AIR",
-     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
-     "note": "See the (AIR,ext,pb) entry",
-     "tags": [ "air", "client", "bb10", "extension", "ext-air", "sensor" ]
- },
- "SampleBPSANE(AIR,ext,pb)": {
-     "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
-     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/PlayBookOS/SampleBPSANE",
-     "repo": "Community-APIs-for-AIR",
-     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
-     "warning": "used to be in Samples-for-AIR",
-     "tags": [ "air", "client", "playbook", "extension", "ext-air", "sensor" ]
- },
+ // "SampleApplication(AIR,pb)": {
+ //     "desc": "An App that uses the Adobe AIR SDK for PlayBook and the SampleLibrary",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleApp",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "playbook" ]
+ // },
+ // "SampleBPSANE(AIR,ext,bb10)": {
+ //     "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
+ //     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/SampleBPSANE",
+ //     "repo": "Community-APIs-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+ //     "note": "See the (AIR,ext,pb) entry",
+ //     "tags": [ "air", "client", "bb10", "extension", "ext-air", "sensor" ]
+ // },
+ // "SampleBPSANE(AIR,ext,pb)": {
+ //     "desc": "A Sample AIR Native Extension using the BPS system that uses the Azimuth Pitch and Roll sensor",
+ //     "url": "http://github.com/blackberry/Community-APIs-for-AIR/tree/master/PlayBookOS/SampleBPSANE",
+ //     "repo": "Community-APIs-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+ //     "warning": "used to be in Samples-for-AIR",
+ //     "tags": [ "air", "client", "playbook", "extension", "ext-air", "sensor" ]
+ // },
  "SampleBwsClient(C#)": {
      "desc": "A C# program that uses the BlackBerry Web Services (BWS) for Enterprise Administration APIs",
      "url": "https://github.com/blackberry/BWS-Samples/tree/master/SampleBwsClient.cs",
@@ -2508,46 +2508,46 @@
      "repourl": "http://github.com/blackberry/BWS-Samples",
      "tags": [ "java", "server", "bws" ]
  },
- "SampleLibrary(AIR,pb)": {
-     "desc": "Several component samples for the Adobe AIR SDK for PlayBook",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleLibrary",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p><p>Samples include Navigation Menu, Search, Download Manager, Media Playbar, Screen Animations, Cache, Scrolling Margee, Back button",
-     "tags": [ "air", "client", "playbook" ]
- },
- "ScoreloopIntegrationSample": {
-     "desc": "Integration of Scoreloop with the BPS event system",
-     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/CoreNative",
-     "repo": "Scoreloop-Samples",
-     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
-     "note": "<p>Two variations, with Makefile and Managed by IDE, showing integration of Scoreloop with a native App</p>",
-     "tags": [ "native", "client", "bb10", "scoreloop"]
- },
- "scoreloopintegrationsample(Cascades)": {
-     "desc": "Integration of Scoreloop with the BPS event system for Cascades Applications",
-     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/Cascades",
-     "repo": "Scoreloop-Samples",
-     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
-     "note": "<p>Variant to use for Applications written using the Cascades framework</p>",
-     "tags": [ "native", "client", "cascades", "bb10", "scoreloop"]
- },
-  "scoreloopintegrationsample(Cocos2d-x)": {
-     "desc": "Integration of Scoreloop with the BPS event system for Cocos2d-x Applications",
-     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/Cocos2d-x",
-     "repo": "Scoreloop-Samples",
-     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
-     "note": "<p>Variant to use for Applications written using the Cocos2d-x framework</p>",
-     "tags": [ "native", "client", "cocos2d-x", "bb10", "scoreloop"]
- },
- "Scoreloop(AIR,ext,bb10)": {
-      "desc": "An AIR Native Extension using the Scoreloop API's",
-      "url": "https://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/Scoreloop",
-      "repo": "Community-APIs-for-AIR",
-      "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
-      "note": "See the (AIR,ext,pb) entry",
-      "tags": [ "air", "client", "bb10", "extension", "ext-air", "scoreloop" ]
-  },
+ // "SampleLibrary(AIR,pb)": {
+ //     "desc": "Several component samples for the Adobe AIR SDK for PlayBook",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/playbook/SampleLibrary",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "note": "<p>Note that there are two branches: <em>bb10</em> for BlackBerry 10 and <em>master</em> for PlayBook</p><p>Samples include Navigation Menu, Search, Download Manager, Media Playbar, Screen Animations, Cache, Scrolling Margee, Back button",
+ //     "tags": [ "air", "client", "playbook" ]
+ // },
+ // "ScoreloopIntegrationSample": {
+ //     "desc": "Integration of Scoreloop with the BPS event system",
+ //     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/CoreNative",
+ //     "repo": "Scoreloop-Samples",
+ //     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
+ //     "note": "<p>Two variations, with Makefile and Managed by IDE, showing integration of Scoreloop with a native App</p>",
+ //     "tags": [ "native", "client", "bb10", "scoreloop"]
+ // },
+ // "scoreloopintegrationsample(Cascades)": {
+ //     "desc": "Integration of Scoreloop with the BPS event system for Cascades Applications",
+ //     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/Cascades",
+ //     "repo": "Scoreloop-Samples",
+ //     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
+ //     "note": "<p>Variant to use for Applications written using the Cascades framework</p>",
+ //     "tags": [ "native", "client", "cascades", "bb10", "scoreloop"]
+ // },
+ //  "scoreloopintegrationsample(Cocos2d-x)": {
+ //     "desc": "Integration of Scoreloop with the BPS event system for Cocos2d-x Applications",
+ //     "url": "https://github.com/blackberry/Scoreloop-Samples/tree/BB10.2.0/Cocos2d-x",
+ //     "repo": "Scoreloop-Samples",
+ //     "repourl": "http://github.com/blackberry/Scoreloop-Samples",
+ //     "note": "<p>Variant to use for Applications written using the Cocos2d-x framework</p>",
+ //     "tags": [ "native", "client", "cocos2d-x", "bb10", "scoreloop"]
+ // },
+ // "Scoreloop(AIR,ext,bb10)": {
+ //      "desc": "An AIR Native Extension using the Scoreloop API's",
+ //      "url": "https://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/Scoreloop",
+ //      "repo": "Community-APIs-for-AIR",
+ //      "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+ //      "note": "See the (AIR,ext,pb) entry",
+ //      "tags": [ "air", "client", "bb10", "extension", "ext-air", "scoreloop" ]
+ //  },
  "scratchpad": {
      "desc": "How to use QImage and QPainter to prepare a cascades::Image",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/scratchpad",
@@ -2819,13 +2819,13 @@
      "note": "A simple control panel using QSettings API for persistent store",
      "tags": [ "native", "client", "bb10", "cascades", "qsettings" ]
  },
- "starshipsettings(AIR,bb10)": {
-     "desc": "A port of the StarshipSettings application from Cascades to Adobe AIR",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/starshipsettings",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "bb10", "storage" ]
- },
+ // "starshipsettings(AIR,bb10)": {
+ //     "desc": "A port of the StarshipSettings application from Cascades to Adobe AIR",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/starshipsettings",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "bb10", "storage" ]
+ // },
  "Storage(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to make use of the persistent storage on the device",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/Storage",
@@ -3162,13 +3162,14 @@
      "note": "Shows how to use NavigationPane and TabbedPane, and how to populate a list using the AsyncDataModel and SqlDataQuery.",
      "tags": [ "native", "client", "bb10", "cascades", "navigationpane", "tabbedpane", "asyncdatamodel", "asyncheaderdatamodel" ,"json", "sqldataquery", "sqlheaderdataquery","sql"]
  },
- "weatherguesser(AIR,bb10)": {
-     "desc": "A port of the WeatherGuesser application from Cascades to Adobe AIR",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/weatherguesser",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "bb10", "sql", "json" ]
- },"Web Launcher(Webworks)": {
+ // "weatherguesser(AIR,bb10)": {
+ //     "desc": "A port of the WeatherGuesser application from Cascades to Adobe AIR",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/bb10/weatherguesser",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "bb10", "sql", "json" ]
+ // },
+ "Web Launcher(Webworks)": {
      "desc": "A simple web launcher that launches a url into the browser.",
      "url": "https://github.com/blackberry/BES10-WebWorks/tree/master/webworks-launcher",
      "repo": "BES10-WebWorks",
@@ -3242,21 +3243,21 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "localization", "internationalization" ]
  },
- "BBM ANE(AIR,ext,bb10)": {
-     "desc": "The BBM AIR Native Extension allows AIR developers to interact with the BBM Social Platform native APIs.",
-     "url": "https://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/bbm",
-     "repo": "Community-APIs-for-AIR",
-     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
-     "note": "See the (AIR,ext,pb) entry",
-     "tags": [ "air", "bbm", "bb10", "extension", "ext-air" ]
- },
- "AIR Built For BlackBerry App Framework(AIR,bb10)": {
-     "desc": "The BlackBerry 10 Experience App Framework for AIR, is a application framework that makes it easy to create applications that follow the UI Guidelines.",
-     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/appframework",
-     "repo": "Samples-for-AIR",
-     "repourl": "http://github.com/blackberry/Samples-for-AIR",
-     "tags": [ "air", "client", "bb10", "framework" ]
- },
+ // "BBM ANE(AIR,ext,bb10)": {
+ //     "desc": "The BBM AIR Native Extension allows AIR developers to interact with the BBM Social Platform native APIs.",
+ //     "url": "https://github.com/blackberry/Community-APIs-for-AIR/tree/master/BlackBerry10/bbm",
+ //     "repo": "Community-APIs-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Community-APIs-for-AIR",
+ //     "note": "See the (AIR,ext,pb) entry",
+ //     "tags": [ "air", "bbm", "bb10", "extension", "ext-air" ]
+ // },
+ // "AIR Built For BlackBerry App Framework(AIR,bb10)": {
+ //     "desc": "The BlackBerry 10 Experience App Framework for AIR, is a application framework that makes it easy to create applications that follow the UI Guidelines.",
+ //     "url": "https://github.com/blackberry/Samples-for-AIR/tree/master/appframework",
+ //     "repo": "Samples-for-AIR",
+ //     "repourl": "http://github.com/blackberry/Samples-for-AIR",
+ //     "tags": [ "air", "client", "bb10", "framework" ]
+ // },
  "ExtendedSearchSample": {
      "desc": "ExtendedSearchSample is a quick app that shows you how to integrate your app with the built in Search app.",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/ExtendedSearchSample",

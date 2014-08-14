@@ -27,6 +27,14 @@
      "warning": "'0.2' branch should be deleted?",
      "tags": [ "html5", "bb10", "playbook", "pages" ]
  },
+ "ALF": {
+     "desc": "Framework created for software developers, testers and security researchers for testing their software through fuzzing",
+     "url": "http://github.com/blackberry/ALF",
+     "type": "tool",
+     "branches": ["master", "gh-pages"],
+     "branchinfo": "'master' is current version; 'gh-pages' is for documentation.",
+     "tags": [ "python", "security", "tool", "fuzzing" ]
+ },
  "ALUT": {
      "desc": "OpenAL Utility Toolkit",
      "url": "http://github.com/blackberry/ALUT",
@@ -167,13 +175,13 @@
      "branchinfo": "The 'gh-pages' branch is the important one and the default branch; 'master' is vestigial",
      "tags": [ "docs", "bb10" ]
  },
- "Community-APIs-for-AIR": {
-     "desc": "Extension APIs for Adobe AIR using ANE (AIR Native Extension) API",
-     "url": "http://github.com/blackberry/Community-APIs-for-AIR",
-     "type": "air",
-     "branches": ["master"],
-     "tags": [ "air", "bb10" ]
- },
+ // "Community-APIs-for-AIR": {
+ //     "desc": "Extension APIs for Adobe AIR using ANE (AIR Native Extension) API",
+ //     "url": "http://github.com/blackberry/Community-APIs-for-AIR",
+ //     "type": "air",
+ //     "branches": ["master"],
+ //     "tags": [ "air", "bb10" ]
+ // },
  "Construct2Plugins": {
      "desc": "BlackBerry 10 APIs for Construct 2",
      "url": "https://github.com/blackberry/Construct2Plugins",
@@ -226,6 +234,14 @@
      "type": "java",
      "branches": ["master"],
      "tags": [ "java", "tool" ]
+ },
+ "ECMA5Extend": {
+     "desc": "JavaScript library using features of the ECMA5 language spec to provide inheritance, public/private/protected APIs, and an intelligent Event System",
+     "url": "http://github.com/blackberry/ECMA5Extend",
+     "type": "html5",
+     "branches": ["master"],
+     "branchinfo": "'master' is current version;",
+     "tags": [ "html5", "ECMA5", "library", "JavaScript" ]
  },
  "Erlang-OTP": {
      "desc": "The Erlang language and OTP libraries used in CouchDB",
@@ -506,14 +522,14 @@
      "warning": "Update information based on latest status",
      "tags": [ "html5", "tool", "webworks" ]
  },
- "Samples-for-AIR": {
-     "desc": "Samples for Adobe AIR",
-     "url": "http://github.com/blackberry/Samples-for-AIR",
-     "type": "air",
-     "branches": ["master", "bb10"],
-     "branchinfo": "Master branch is for PlayBook; bb10 branch is for BlackBerry 10",
-     "tags": [ "air", "samples", "playbook", "bb10" ]
- },
+ // "Samples-for-AIR": {
+ //     "desc": "Samples for Adobe AIR",
+ //     "url": "http://github.com/blackberry/Samples-for-AIR",
+ //     "type": "air",
+ //     "branches": ["master", "bb10"],
+ //     "branchinfo": "Master branch is for PlayBook; bb10 branch is for BlackBerry 10",
+ //     "tags": [ "air", "samples", "playbook", "bb10" ]
+ // },
  "Samples-for-Java": {
      "desc": "Samples for the Java-Based BlackBerry OS Smarphones",
      "url": "http://github.com/blackberry/Samples-for-Java",
@@ -529,6 +545,14 @@
      "note": "Adobe's PhoneGap is a distribution based on Apache Cordova.  We keep the samples for both in the Cordova-Samples repository",
      "tags": [ "html5", "bb10", "webworks", "cordova", "phonegap", "samples" ]
  },
+ "saturnring": {
+     "desc": "high-performance, solid-state-backed, network block storage",
+     "url": "http://github.com/blackberry/saturnring",
+     "type": "tool",
+     "branches": ["master"],
+     "branchinfo": "'master' is current version",
+     "tags": [ "tools", "Python", "Ruby" ]
+ },
  "SBuilder": {
      "desc": "A tool for browsing and editing SQLite Databases",
      "url": "http://github.com/blackberry/SBuilder",
@@ -536,15 +560,15 @@
      "branches": ["master"],
      "tags": [ "tool", "bb10" ]
  },
- "Scoreloop-Samples": {
-     "desc": "Sample showing integration with Scoreloop",
-     "url": "http://github.com/blackberry/Scoreloop-Samples",
-     "type": "native",
-     "branches": ["master", "BB10.0.06", "BB10.0.09"],
-     "branchinfo": "'master' is PlayBook; 'BB10.0.09' is latest BlackBerry 10<br/>Name is arguably inconsistent with other conventions",
-     "note": "This repo includes 3 samples: two for Core Native apps and one for Apps using the Cascades framework. No WebWorks integration at the moment",
-     "tags": [ "native", "samples", "bb10", "scoreloop", "gaming", "cascades" ]
- },
+ // "Scoreloop-Samples": {
+ //     "desc": "Sample showing integration with Scoreloop",
+ //     "url": "http://github.com/blackberry/Scoreloop-Samples",
+ //     "type": "native",
+ //     "branches": ["master", "BB10.0.06", "BB10.0.09"],
+ //     "branchinfo": "'master' is PlayBook; 'BB10.0.09' is latest BlackBerry 10<br/>Name is arguably inconsistent with other conventions",
+ //     "note": "This repo includes 3 samples: two for Core Native apps and one for Apps using the Cascades framework. No WebWorks integration at the moment",
+ //     "tags": [ "native", "samples", "bb10", "scoreloop", "gaming", "cascades" ]
+ // },
  "SDL": {
      "desc": "The Simple DirectMedia Layer library",
      "url": "http://github.com/blackberry/SDL",
@@ -553,6 +577,14 @@
      "branchinfo": "'master' is playbook, 'next' is BlackBerry 10, I am not sure about 'emulate'",
      "warning": "Need to clarify with Jeremy on the different ports",
      "tags": [ "native", "bb10", "playbook", "port" ]
+ },
+ "Secure-Work-Space": {
+     "desc": "Tools and Samples for use on the BlackBerry Secure Work Space for iOS and Android",
+     "url": "http://github.com/blackberry/Secure-Work-Space",
+     "type": "html5",
+     "branches": ["master"],
+     "branchinfo": "'master' is current version;",
+     "tags": [ "tools", "iOS", "Android", "samples", "Secure Work Space", "html5" ]
  },
  "Skia": {
      "desc": "Complete 2D Graphic Library",
