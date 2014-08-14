@@ -545,6 +545,14 @@
      "note": "Adobe's PhoneGap is a distribution based on Apache Cordova.  We keep the samples for both in the Cordova-Samples repository",
      "tags": [ "html5", "bb10", "webworks", "cordova", "phonegap", "samples" ]
  },
+ "saturnring": {
+     "desc": "high-performance, solid-state-backed, network block storage",
+     "url": "http://github.com/blackberry/saturnring",
+     "type": "tool",
+     "branches": ["master"],
+     "branchinfo": "'master' is current version",
+     "tags": [ "tools", "Python", "Ruby" ]
+ },
  "SBuilder": {
      "desc": "A tool for browsing and editing SQLite Databases",
      "url": "http://github.com/blackberry/SBuilder",
