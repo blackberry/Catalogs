@@ -13,7 +13,6 @@ jsfile: All_Repos.js
 <li><a href="#repoPorts">Port Repos</a></li>
 <li><a href="#repoHtml5">HTML5 Repos</a></li>
 <li><a href="#repoNative">Native Repos</a></li>
-<li><a href="#repoAir">Adobe AIR Repos</a></li>
 <li><a href="#repoJava">Java Repos</a></li>
 <li><a href="#repoOther">Other Repos</a></li>
 <li><a href="#repoNotRim">Not by RIM</a></li>
@@ -58,12 +57,6 @@ We welcome your feedback on how to best present information on our Repositories.
 
 <div id="repoNative">
 <a href="repoNative"><h2>Native Repositories</h2></a>
-</div>
-
-<a href="#top">Back to top</a>
-
-<div id="repoAir">
-<a href="repoAir"><h2>Adobe AIR Repositories</h2></a>
 </div>
 
 <a href="#top">Back to top</a>

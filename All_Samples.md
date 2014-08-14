@@ -76,7 +76,7 @@ The samples use
 <em>Extensions tags:
 <span class='tagfilter' style='font-size:140%'><em>ext-bbos</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>ext-pb</em></span>,
-<span class='tagfilter' style='font-size:140%'><em>ext-bb10</em></span>,
+<span class='tagfilter' style='font-size:140%'><em>ext-bb10</em></span>
 </em>
 </div>
 
