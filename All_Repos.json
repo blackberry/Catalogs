@@ -570,6 +570,14 @@
      "warning": "Need to clarify with Jeremy on the different ports",
      "tags": [ "native", "bb10", "playbook", "port" ]
  },
+ "Secure-Work-Space": {
+     "desc": "Tools and Samples for use on the BlackBerry Secure Work Space for iOS and Android",
+     "url": "http://github.com/blackberry/Secure-Work-Space",
+     "type": "html5",
+     "branches": ["master"],
+     "branchinfo": "'master' is current version;",
+     "tags": [ "tools", "iOS", "Android", "samples", "Secure Work Space", "html5" ]
+ },
  "Skia": {
      "desc": "Complete 2D Graphic Library",
      "url": "http://github.com/blackberry/Skia",
