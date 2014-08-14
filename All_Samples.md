@@ -13,12 +13,7 @@ jsfile: All_Samples.js
 <li><a href="#samplesHtml5">HTML5 Samples</a></li>
 <li><a href="#extensionsHtml5">HTML5 Extensions</a></li>
 <li><a href="#samplesNative">Native Samples</a></li>
-<li><a href="#samplesAir">AIR Samples</a></li>
-<li><a href="#extensionsAir">AIR Extensions</a></li>
 <li><a href="#samplesJava">Java Samples</a></li>
-<!-- REMOVE start
-<li><a href="#samplesOtherClient">Other Client Samples</a></li>
-REMOVE end -->
 <li><a href="#samplesServer">Other Samples</a></li>
 <li><a href="#allApps">Applications</a></li>
 </ul>
@@ -54,7 +49,6 @@ columns select the next column while pressing the 'SHIFT' (on mac) key.
 </div>
 <div style='margin-top: 2px; margin-left:20px;'>
 <em>Common tags:
-<span class='tagfilter' style='font-size:140%'><em>air</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>bb10</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>bbm</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>cascades</em></span>,
@@ -83,7 +77,6 @@ The samples use
 <span class='tagfilter' style='font-size:140%'><em>ext-bbos</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>ext-pb</em></span>,
 <span class='tagfilter' style='font-size:140%'><em>ext-bb10</em></span>,
-<span class='tagfilter' style='font-size:140%'><em>ext-air</em></span>.
 </em>
 </div>
 
@@ -158,40 +151,12 @@ We always welcome your feedback on how to best present information in this and r
 </div>
 
 <div class="dynContent">
-<div id="samplesAir">
-<a href="samplesAir"><h2>AIR Samples</h2></a>
-</div>
-
-<a href="#top">Back to top</a>
-</div>
-
-<div class="dynContent">
-<div id="extensionsAir">
-<a href="extensionsAir"><h2>AIR Extensions</h2></a>
-</div>
-
-<a href="#top">Back to top</a>
-</div>
-
-<div class="dynContent">
 <div id="samplesJava">
 <a href="samplesJava"><h2>Java Samples</h2></a>
 </div>
 
 <a href="#top">Back to top</a>
 </div>
-
-<!-- REMOVE for now, no entries
-
-<div class="dynContent">
-<div id="samplesOtherClient">
-<a href="samplesOtherClient"><h2>Other Client Samples</h2></a>
-</div>
-
-<a href="#top">Back to top</a>
-</div>
-
-REMOVE until here -->
 
 <div class="dynContent">
 <div id="samplesOther">
