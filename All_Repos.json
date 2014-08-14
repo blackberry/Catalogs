@@ -235,6 +235,14 @@
      "branches": ["master"],
      "tags": [ "java", "tool" ]
  },
+ "ECMA5Extend": {
+     "desc": "JavaScript library using features of the ECMA5 language spec to provide inheritance, public/private/protected APIs, and an intelligent Event System",
+     "url": "http://github.com/blackberry/ECMA5Extend",
+     "type": "html5",
+     "branches": ["master"],
+     "branchinfo": "'master' is current version;",
+     "tags": [ "html5", "ECMA5", "library", "JavaScript" ]
+ },
  "Erlang-OTP": {
      "desc": "The Erlang language and OTP libraries used in CouchDB",
      "url": "http://github.com/blackberry/Erlang-OTP",
