@@ -1169,6 +1169,14 @@
      "repourl": "https://github.com/blackberry/Cascades-Community-Samples",
      "tags": [ "cascades", "advertise", "monetize"]
  },
+ "HostCardEmulation": {
+     "desc": "Using the Host Card Emulation (HCE) NFC APIs on BlackBerry 10",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/hostcardemulation",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate how to develop an application for BlackBerry 10 which uses Near Field Communication (NFC) Host Card Emulation (HCE) that is capable of responding to a subset of EMV(tm) commands from a Point of Sale Terminal.</p>",
+     "tags": [ "native", "client", "nfc", "bb10", "cascades", "invocation", "hce" ]
+ },
  "HttpProxy": {
      "desc": "Retrieve the proxy information of the device, and query a URL",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/HttpProxy",
