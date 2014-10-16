@@ -2565,6 +2565,14 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "card", "invocation" ]
  },
+  "SimpleBtSppPlugin": {
+     "desc": "A simple BlackBerry 10 WebWorks plugin for accessing Bluetooth SPP APIs",
+     "url": "https://github.com/blackberry/BB10-WebWorks-Community-Samples/tree/master/SimpleBtSppPlugin",
+     "repo": "BB10-WebWorks-Community-Samples",
+     "repourl": "http://github.com/blackberry/BB10-WebWorks-Community-Samples",
+     "note": "<p>This Bluetooth SPP WebWorks Plugin is intended to allow WebWorks applications to connect to devices that uses the Bluetooth SPP  (Serial Port Protocol) profile.</p><p>There is a document in the /documents folder describing the plugin's API from JavaScript.</p><p>It comes with a sample WebWorks application in the form of a simple Chat application that uses SPP to communicate between two BlackBerry 10 devices.</p>",
+     "tags": [ "html5", "client", "bb10", "webworks", "cordova", "bluetooth", "SPP", "plugin" ]
+ },
  "SimpleLocationAPI": {
      "desc": "Simplified version of the Location API packages for the Java-based BlackBerry Smartphones",
      "url": "https://github.com/blackberry/Samples-for-Java/tree/master/Simple%20Location%20API",
