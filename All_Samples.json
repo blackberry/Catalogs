@@ -2568,7 +2568,7 @@
   "SimpleBtSppPlugin": {
      "desc": "A simple BlackBerry 10 WebWorks plugin for accessing Bluetooth SPP APIs",
      "url": "https://github.com/blackberry/WebWorks-Community-APIs/BB10-Cordova/tree/master/SimpleBtSppPlugin",
-     "repo": "BB10-WebWorks-Community-Samples",
+     "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "note": "<p>This Bluetooth SPP WebWorks Plugin is intended to allow WebWorks applications to connect to devices that uses the Bluetooth SPP  (Serial Port Protocol) profile.</p><p>There is a document in the /documents folder describing the plugin's API from JavaScript.</p><p>It comes with a sample WebWorks application in the form of a simple Chat application that uses SPP to communicate between two BlackBerry 10 devices.</p>",
      "tags": [ "html5", "client", "bb10", "webworks", "cordova", "bluetooth", "SPP", "plugin" ]
