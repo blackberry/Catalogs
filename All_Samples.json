@@ -2565,7 +2565,15 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "card", "invocation" ]
  },
-  "SimpleBtSppPlugin": {
+ "SimpleBtLeHrPlugin": {
+    "desc": "A simple BlackBerry 10 WebWorks plugin for accessing Bluetooth Low Enery Heart Rate Monitor Service APIs",
+    "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/SimpleBtLeHrPlugin",
+    "repo": "WebWorks-Community-APIs",
+    "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+    "note": "<p>This Bluetooth Low Energy ( Smart ) WebWorks/Cordova Plugin is intended to allow WebWorks applications to connect to devices that support the Bluetooth Low Energy Heart Rate monitor profile.</p><p>There is a document in the /documents folder describing the plugin's API from JavaScript.</p><p>It comes with a sample WebWorks application that uses this API to receive notifications of Heart Rate Measurements from a standard commercial sports heart rate monitor appliance.</p>",
+    "tags": [ "html5", "client", "bb10", "webworks", "cordova", "bluetooth", "Smart", "LE", "HRM", "Heart", "plugin" ]
+ },
+ "SimpleBtSppPlugin": {
      "desc": "A simple BlackBerry 10 WebWorks plugin for accessing Bluetooth SPP APIs",
      "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/SimpleBtSppPlugin",
      "repo": "WebWorks-Community-APIs",
