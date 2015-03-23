@@ -125,6 +125,13 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "camera", "screen" ]
  },
+ "App URL": {
+     "desc": "Use App URL to configure an application that has been deployed on BlacKBerry 10",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/app-url",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "tags": [ "native", "bb10", "cascades", "appurl" ]
+ },
  "AudioAccessory": {
      "desc": "Demonstrates how to use the BlackBerry 10 audio jack to transfer data",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/AudioAccessory",
