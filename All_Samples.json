@@ -679,6 +679,14 @@
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bb10", "extension", "template", "cordova", "ext-bb10" ]
  },
+ "CryptoSample": {
+     "desc": "A simple BlackBerry 10 application that demonstrates how to use iBeacon(TM) technology",
+     "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/cryptosample",
+     "repo": "Cascades-Community-Samples",
+     "repourl": "http://github.com/blackberry/Cascades-Community-Samples",
+     "note": "<p>The purpose of this application is to demonstrate some of the simpler aspects of the incredibly powerful BlackBerry 10 Security Builder Cryptography Library. Specifically take a look at:</p><ul><li>Generating a simple random number</li><li>Calculating Hashes (SHA1, SHA256) and HMAC using a predefined key.</li><li>Using RSA</li><ul><li>Creating an RSA public/private key pair</li><li>Creating a self-signed certficate using this pair of keys showing how to select SHA256 as the hash for the RSA certificate signing rather than the default MD5.</li><li>Encrypting plaintext and decrypting the resulting ciphertext using this pair of keys</li></ul></ul><p>It doesn't discuss AES or other general considerations about the Cryptography Libraries since these are discussed in an earlier GitHub sample application.</p>.",
+     "tags": [ "native", "client", "cryptography", "bb10", "cascades", "hash", "random", "hmac", "mac", "rsa", "x509", "certificate" ]
+ },
  "CscMonitor": {
      "desc": "A Bluetooth Low Energy application for cyclists",
      "url": "https://github.com/blackberry/Cascades-Community-Samples/tree/master/CscMonitor",
@@ -2571,6 +2579,14 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "card", "invocation" ]
+ },
+ "SimpleBeaconPlugin": {
+    "desc": "A simple BlackBerry 10 Cordova plugin for accessing Bluetooth Low Enery iBeacon devcie advertisments",
+    "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/simplebeaconplugin",
+    "repo": "WebWorks-Community-APIs",
+    "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+    "note": "<p>This Bluetooth Smart iBeacon WebWorks Cordova Plugin (SimpleBeaconPlugin) is intended to allow WebWorks applications to monitor and detect devices using the Apple de-facto iBeacon standard.</p><p>There is a document in the /documents folder describing the plugin's API from JavaScript.</p><p>It comes with a sample WebWorks application in the form of a simple iBeacon Monitor application that uses the Bluetooth iBeacon Plugin to monitor for iBeacons.</p>",
+    "tags": [ "html5", "client", "bb10", "webworks", "cordova", "bluetooth", "Smart", "LE", "iBeacon", "Beacon", "plugin" ]
  },
  "SimpleBtLeHrPlugin": {
     "desc": "A simple BlackBerry 10 WebWorks plugin for accessing Bluetooth Low Enery Heart Rate Monitor Service APIs",
