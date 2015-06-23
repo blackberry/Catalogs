@@ -490,6 +490,13 @@
      "warning": "Enabling sound may cause loss of frames on a BlackBerry PlayBook",
      "tags": [ "html5", "client", "webworks", "bb10", "playbook" ]
  },
+ "BrowserLaunch": {
+     "desc": "A simple activity which launches the device browser after clicking a button",
+     "url": "https://github.com/blackberry/Secure-Work-Space/tree/master/BrowserLaunch",
+     "repo": "Secure-Work-Space",
+     "repourl": "https://github.com/blackberry/Secure-Work-Space",
+     "tags": [ "android", "browser", "sws", "secure work space" ]
+ },
  "BtChickenGuardian": {
      "desc": "A Bluetooth Low Energy Proximity Profile application",
      "url": "http://github.com/blackberry/Cascades-Community-Samples/tree/master/BtChickenGuardian",
@@ -824,6 +831,13 @@
      "repo": "WebWorks-Community-APIs",
      "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
      "tags": [ "html5", "client", "bbos", "extension", "email", "events", "ext-bbos" ]
+ },
+ "EmailWidget": {
+     "desc": "A homescreen widget whihc launches an email compose window",
+     "url": "https://github.com/blackberry/Secure-Work-Space/tree/master/EmailWidget",
+     "repo": "Secure-Work-Space",
+     "repourl": "https://github.com/blackberry/Secure-Work-Space",
+     "tags": [ "android", "email", "widget", "secure work space", "sws" ]
  },
  "Enyo-1.0-StyleMatters": {
      "desc": "This example shows how to build the Enyo 1.0 sample application Style Matters as a BlackBerry WebWorks application.",
