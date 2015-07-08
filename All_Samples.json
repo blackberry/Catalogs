@@ -2654,6 +2654,14 @@
      "repourl": "http://github.com/blackberry/Cascades-Samples",
      "tags": [ "native", "client", "bb10", "cascades", "map" ]
  },
+ "SimpleXpBeaconPlugin": {
+    "desc": "A simple Cross Platform Cordova plugin for accessing Bluetooth Low Enery iBeacon device advertisments",
+    "url": "https://github.com/blackberry/WebWorks-Community-APIs/tree/master/BB10-Cordova/simplexpbeaconplugin",
+    "repo": "WebWorks-Community-APIs",
+    "repourl": "http://github.com/blackberry/WebWorks-Community-APIs",
+    "note": "<p>This Bluetooth Smart iBeacon WebWorks Cordova Plugin (SimpleXpBeaconPlugin) is intended to allow WebWorks applications to monitor and detect devices using the Apple de-facto iBeacon standard.</p><p>It supports both:</p><ul><li>BlackBerry 10, and</li><li>Android</li></ul><p>There is a document in the /documents folder describing the plugin's API from JavaScript.</p><p>It comes with a sample WebWorks application in the form of a simple iBeacon Monitor application that uses the Bluetooth iBeacon Plugin to monitor for iBeacons.</p>",
+    "tags": [ "html5", "client", "bb10", "webworks", "cordova", "bluetooth", "Smart", "LE", "iBeacon", "Beacon", "plugin", "android" ]
+ },
  "SketchPad": {
      "desc": "Shows how to use touch events and HTML5 Canvas in a BlackBerry WebWorks App",
      "url": "http://github.com/blackberry/WebWorks-Community-Samples/tree/master/sketchPad",
