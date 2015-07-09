@@ -1154,6 +1154,13 @@
      "note": "<p>HelloSceneCover is a minimalist Cascades-based app. It illustrates how to set up an Application Cover (viewable in Active Frames) for when the application is minimised.</p>",
      "tags": [ "native", "cascades", "client", "active-frames", "bb10", "cover" ]
  },
+ "HelloWorkConnect": {
+     "desc": "Sample Work Connect Launcher for SWS",
+     "url": "http://github.com/blackberry/Secure-Work-Space/tree/master/HelloWorkConnect",
+     "repo": "Secure-Work-Space",
+     "repourl": "http://github.com/blackberry/Secure-Work-Space",
+     "tags": [ "iOS", "SWS", "Secure-Work-Space", "security" ]
+ },
  "HelloWorld": {
      "desc": "Simple WebWorks application; uses Location API",
      "url": "http://github.com/blackberry/WebWorks-Samples/tree/master/HelloWorld",
@@ -2514,14 +2521,14 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "bb10 theme", "sencha", "sencha-touch" ]   
-},
-"Sencha Touch BFB Boiler Plate Sample": {
+ },
+ "Sencha Touch BFB Boiler Plate Sample": {
      "desc": "This sample meant to be a starting point for any Sencha Touch developer who wishes to build apps for BlackBerry 10 with the BlackBerry 10 native look and feel",
      "url": "https://github.com/blackberry/BB10-WebWorks-Samples/tree/master/Sencha_BFB_Sample",
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "bb10 theme", "sencha", "sencha touch" ]   
-},
+ },
  "SendMenu(bbos,ext)": {
      "desc": "WebWorks Java-based Smartphone extension to expose the Send/Share Menu API",
      "url": "http://github.com/blackberry/WebWorks-Community-APIs/tree/master/Smartphone/SendMenu",
@@ -2834,6 +2841,20 @@
      "repo": "BB10-WebWorks-Samples",
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "gestures", "hammer.js", "bbui.js", "swipe" ]
+ },
+"SWS/iOS Secure Camera": {
+     "desc": "iOS Sample Secure Camera App for Secure-Work-Space",
+     "url": "https://github.com/blackberry/Secure-Work-Space/tree/master/sws-ios-securecamera",
+     "repo": "Secure-Work-Space",
+     "repourl": "https://github.com/blackberry/Secure-Work-Space",
+     "tags": [ "ios", "camera", "sws", "secure work space" ]
+ },
+ "SWS/Android Secure Camera": {
+     "desc": "Android Sample Secure Camera App for Secure-Work-Space",
+     "url": "https://github.com/blackberry/Secure-Work-Space/tree/master/sws-android-camera-sample",
+     "repo": "Secure-Work-Space",
+     "repourl": "https://github.com/blackberry/Secure-Work-Space",
+     "tags": [ "android", "camera", "sws", "secure work space" ]
  },
  "SystemAPIs": {
      "desc": "Examples of BlackBerry System APIs from the <a href='https://developer.blackberry.com/html5/apis/blackberry.system.html'>developer microsite</a>",
