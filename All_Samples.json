@@ -1049,6 +1049,13 @@
      "repourl": "http://github.com/blackberry/BB10-WebWorks-Samples",
      "tags": [ "html5", "webworks", "bb10", "gestures" ]
  },
+ "GoogleMapsWebViewSample": {
+     "desc": "A simple maps application for android developed with the Google Static Maps apis",
+     "url": "https://github.com/blackberry/BB10-Android-Runtime-Samples/tree/master/GoogleMapsWebViewSample",
+     "repo": "BB10-Android-Runtime-Samples",
+     "repourl": "https://github.com/blackberry/BB10-Android-Runtime-Samples",
+     "tags": [ "android", "bb1O", "maps", "runtime", "google"  ]
+ },
  "GLES11Template": {
      "desc": "Template showing how to set up the BPS infrastructure and  OpenGL ES 1.1",
      "url": "https://github.com/blackberry/NDK-Samples/tree/master/GLES11Template",
@@ -1913,6 +1920,13 @@
      "repourl": "http://github.com/blackberry/OpenGLES-Samples",
      "note": "<p>See the book website at <a href='http://www.opengles-book.com/'>http://www.opengles-book.com/</a></p>",
      "tags": [ "native", "client", "bb10", "playbook", "opengl" ]
+ },
+ "OpenStreetMapSample": {
+     "desc": "A simple maps application for android developed with the OSMDroid apis",
+     "url": "https://github.com/blackberry/BB10-Android-Runtime-Samples/tree/master/OpenStreetMapSample",
+     "repo": "BB10-Android-Runtime-Samples",
+     "repourl": "https://github.com/blackberry/BB10-Android-Runtime-Samples",
+     "tags": [ "android", "bb1O", "maps", "runtime"  ]
  },
  "orientation": {
      "desc": "How to use QtSensors to find out the current orientation of the device",
