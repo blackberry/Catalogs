@@ -2492,6 +2492,13 @@
      "repourl": "http://github.com/blackberry/BWS-Samples",
      "tags": [ "java", "server", "bws" ]
  },
+ "SamplePushClient": {
+     "desc": "Sample GCM push client designed to work with BB10 devices and other Android devices.",
+     "url": "https://github.com/blackberry/BB10-Android-Runtime-Samples/tree/master/SamplePushClient",
+     "repo": "BB10-Android-Runtime-Samples",
+     "repourl": "http://github.com/blackberry/BB10-Android-Runtime-Samples",
+     "tags": [ "push", "BB10", "android", "runtime", "gcm" ]
+ },
  "scratchpad": {
      "desc": "How to use QImage and QPainter to prepare a cascades::Image",
      "url": "http://github.com/blackberry/Cascades-Samples/tree/master/scratchpad",
